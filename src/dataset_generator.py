@@ -4,6 +4,7 @@ import pandas as pd
 from datasets import load_dataset
 from io import StringIO
 
+
 # Load dataset
 ds = load_dataset("ashraq/financial-news-articles")
 df = ds["train"].to_pandas()
