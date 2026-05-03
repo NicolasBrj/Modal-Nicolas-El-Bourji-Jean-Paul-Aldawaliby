@@ -1,0 +1,2483 @@
+company_1,company_2,article_count
+Amazon,Google,108
+Goldman Sachs,Morgan Stanley,58
+Google,Microsoft,55
+Citigroup,Morgan Stanley,55
+Amazon,Walmart,50
+Broadcom,Qualcomm,48
+Amazon,Microsoft,45
+Credit Suisse,Morgan Stanley,44
+Deutsche Bank,Morgan Stanley,43
+Citigroup,Credit Suisse,43
+Deutsche Bank,UBS,40
+Deutsche Bank,Goldman Sachs,40
+Credit Suisse,Deutsche Bank,36
+Credit Suisse,UBS,31
+Citigroup,Goldman Sachs,31
+Broadridge Financial Solutions,Citigroup,30
+HSBC,UBS,29
+Credit Suisse,Goldman Sachs,27
+IBM,Microsoft,27
+Citigroup,Deutsche Bank,27
+Boeing,Southwest Airlines,25
+Goldman Sachs,HSBC,25
+Intel,Microsoft,24
+Amazon,Morgan Stanley,24
+Honda,Toyota,23
+Goldman Sachs,UBS,23
+Boeing,General Electric,23
+Amazon,eBay,22
+AT&T,Comcast,21
+BP,Shell,21
+Google,Intel,20
+Deutsche Bank,HSBC,19
+Morgan Stanley,UBS,18
+Broadridge Financial Solutions,Morgan Stanley,18
+Citigroup,Wells Fargo,17
+Bank of America,Citigroup,17
+Amazon,Whole Foods Market,17
+Google,Unilever,16
+Morgan Stanley,Wells Fargo,16
+AT&T,Google,16
+Boeing,Caterpillar,16
+HSBC,Lloyds Banking Group,16
+HSBC,Morgan Stanley,16
+Broadridge Financial Solutions,Credit Suisse,15
+Grab,Uber,15
+AMD,Intel,15
+Bank of America,Morgan Stanley,15
+Bank of America,Goldman Sachs,14
+Citigroup,UBS,14
+Canadian Imperial Bank of Commerce,Royal Bank of Canada,14
+Royal Bank of Canada,Toronto-Dominion Bank,14
+Ferrari,Honda,14
+Google,IBM,13
+GSK,Gilead Sciences,13
+American Airlines,United Airlines,13
+Goldman Sachs,JPMorgan Chase,13
+Procter & Gamble,Unilever,12
+Google,Tesla,12
+American Airlines,Boeing,12
+Morgan Stanley,Unilever,12
+AstraZeneca,Bristol-Myers Squibb,12
+Air France-KLM,Delta Air Lines,12
+Google,Walmart,12
+Deutsche Telekom,Vodafone,12
+AT&T,Amazon,11
+Intel,Mobileye,11
+Amazon,Tesla,11
+Canadian Imperial Bank of Commerce,Toronto-Dominion Bank,11
+Bank of America,Wells Fargo,10
+Citigroup,JPMorgan Chase,10
+MSCI,Microsoft,10
+BHP,Rio Tinto,10
+Delta Air Lines,United Airlines,10
+Nissan,Toyota,10
+BP,Goldman Sachs,10
+Boeing,United Airlines,9
+Amazon,MSCI,9
+Boeing,Delta Air Lines,9
+Shell,Unilever,9
+JPMorgan Chase,Morgan Stanley,9
+Hasbro,Mattel,9
+General Electric,Southwest Airlines,9
+AstraZeneca,GSK,9
+Credit Suisse,HSBC,9
+Morgan Stanley,Walmart,8
+ISS,Tesla,8
+British American Tobacco,UBS,8
+Enbridge,Royal Bank of Canada,8
+Intel,Qualcomm,8
+Goldman Sachs,Wells Fargo,8
+Baidu,Google,8
+Boeing,Hawaiian Airlines,8
+Royal Bank of Canada,Sun Life Financial,8
+British American Tobacco,HSBC,8
+Canadian Imperial Bank of Commerce,Sun Life Financial,8
+Morgan Stanley,Royal Bank of Canada,8
+Amazon,Goldman Sachs,8
+Amazon,Kroger,8
+Amazon,Intel,8
+Microsoft,Morgan Stanley,8
+Google,SAP,8
+Microsoft,SAP,8
+General Motors,Toyota,8
+Bank of America,Credit Suisse,8
+British American Tobacco,Unilever,7
+Broadcom,Morgan Stanley,7
+Broadcom,NXP Semiconductors,7
+Manulife Financial,Royal Bank of Canada,7
+Nokia,Vodafone,7
+Broadcom,Intel,7
+JPMorgan Chase,Wells Fargo,7
+Liberty Global,Vodafone,7
+Honda,Nissan,7
+Unilever,Vodafone,7
+American Airlines,Hawaiian Airlines,7
+ArcelorMittal,Siemens,7
+Boeing,Embraer,7
+Deutsche Telekom,Liberty Global,7
+SAP,Siemens,7
+DowDuPont,DuPont,7
+Amazon,Credit Suisse,7
+Amazon,Deutsche Bank,7
+AMD,Microsoft,7
+AT&T,Intel,7
+Kraft Heinz,Unilever,7
+Bank of America,Deutsche Bank,7
+Credit Suisse,JPMorgan Chase,7
+AMD,Google,7
+Canadian Natural Resources,Suncor Energy,7
+Goldman Sachs,MSCI,7
+AstraZeneca,Gilead Sciences,7
+American Airlines,Delta Air Lines,7
+BlackRock,Credit Suisse,6
+Deutsche Bank,MSCI,6
+Deutsche Bank,Wells Fargo,6
+Rio Tinto,Turquoise Hill Resources,6
+Canadian Imperial Bank of Commerce,Enbridge,6
+MSCI,Unilever,6
+Google,Morgan Stanley,6
+Royal Bank of Canada,TransAlta Corporation,6
+Manulife Financial,TransAlta Corporation,6
+Manulife Financial,Sun Life Financial,6
+Enbridge,TransAlta Corporation,6
+Enbridge,Sun Life Financial,6
+Enbridge,Manulife Financial,6
+Canadian Imperial Bank of Commerce,TransAlta Corporation,6
+AT&T,Morgan Stanley,6
+Sun Life Financial,TransAlta Corporation,6
+Sun Life Financial,Toronto-Dominion Bank,6
+Goldman Sachs,Royal Bank of Canada,6
+Google,eBay,6
+Boeing,MSCI,6
+Canadian Imperial Bank of Commerce,Manulife Financial,6
+NXP Semiconductors,Qualcomm,6
+Amazon,Comcast,6
+GSK,Novartis,6
+AT&T,Microsoft,6
+Kroger,Walmart,6
+Amazon,Instacart,6
+Google,Procter & Gamble,6
+HSBC,Unilever,6
+Bank of America,JPMorgan Chase,6
+Deutsche Bank,JPMorgan Chase,6
+BlackRock,Goldman Sachs,6
+Credit Suisse,Wells Fargo,6
+Citigroup,HSBC,5
+Morgan Stanley,Tesla,5
+Google,UBS,5
+Walmart,eBay,5
+Amazon,Sears,5
+ExxonMobil,Shell,5
+Boeing,Nucor,5
+Amazon,FactSet,5
+MSCI,UBS,5
+Google,MSCI,5
+Credit Suisse,Microsoft,5
+Blackstone Group,Citigroup,5
+Deutsche Bank,Microsoft,5
+Broadcom,Deutsche Bank,5
+Amazon,JD.com,5
+Amazon,IBM,5
+Deutsche Bank,Royal Bank of Canada,5
+Ferrari,Fiat Chrysler Automobiles,5
+Morgan Stanley,Qualcomm,5
+Johnson & Johnson,Novartis,5
+Baidu,Bilibili,5
+Deutsche Bank,Qualcomm,5
+Amazon,Citigroup,5
+ConocoPhillips,Shell,5
+Amazon,Wells Fargo,5
+Goldman Sachs,Microsoft,5
+Royal Bank of Canada,Wells Fargo,5
+Carlyle Group,PPG Industries,5
+HSBC,MSCI,5
+Nucor,U.S. Steel,5
+AT&T,Novartis,5
+Morgan Stanley,Scotiabank,5
+Goldman Sachs,IBM,4
+Walmart,Whole Foods Market,4
+AstraZeneca,Novartis,4
+Amazon,Blink,4
+Broadcom,Wells Fargo,4
+Royal Bank of Canada,Scotiabank,4
+Toyota,Uber,4
+Shell,UBS,4
+Amazon,Humana,4
+Morgan Stanley,eBay,4
+Boardwalk Pipeline Partners,Loews Corporation,4
+Siemens,Unilever,4
+Dow Jones Industrial Average,Nike,4
+Credit Suisse,Unilever,4
+Deutsche Bank,Scotiabank,4
+Citigroup,Scotiabank,4
+Citigroup,Qualcomm,4
+Broadcom,Citigroup,4
+CME Group,RELX,4
+Amazon,Deutsche Telekom,4
+Deutsche Telekom,SAP,4
+Microsoft,Salesforce,4
+Deutsche Bank,Deutsche Telekom,4
+Citigroup,IBM,4
+General Motors,Nissan,4
+Eversource Energy,SJW Group,4
+AT&T,IBM,4
+Deutsche Telekom,Siemens,4
+HSBC,Hewlett Packard Enterprise,4
+UBS,Unilever,4
+Air France-KLM,HSBC,4
+Astra,AstraZeneca,4
+IBM,Morgan Stanley,4
+Morgan Stanley,Siemens,4
+HSBC,Tesla,4
+IBM,Motorola,4
+HSBC,Shell,4
+IBM,Unilever,4
+Johnson & Johnson,Sanofi,4
+HSBC,Royal Bank of Canada,4
+Amazon,JPMorgan Chase,4
+Qualcomm,Scotiabank,4
+Qualcomm,Wells Fargo,4
+Deutsche Bank,Siemens,4
+DowDuPont,Monsanto,4
+Citigroup,Lehman Brothers,4
+CACI,General Dynamics,4
+General Electric,Wabtec,4
+General Motors,Tesla,4
+General Electric,Siemens,4
+Scotiabank,Wells Fargo,4
+British American Tobacco,Deutsche Bank,4
+Bank of America,U.S. Bancorp,4
+Goldman Sachs,Shell,4
+Goldman Sachs,Vodafone,4
+Accenture,Google,4
+Dell Technologies,VMware,4
+BP,UBS,4
+MSCI,Shell,4
+Tesla,UBS,4
+AT&T,Verizon Communications,4
+Broadcom,Scotiabank,4
+Costco,Walmart,4
+FactSet,Tesla,4
+GSK,Mylan,4
+Intel,Tesla,4
+Goldman Sachs,Lazard,4
+Citigroup,RELX,4
+CME Group,Citigroup,4
+Microsoft,Nokia,4
+Credit Suisse,Google,4
+Tesla,Toyota,4
+Boeing,Ryanair,4
+IBM,Intel,4
+MSCI,Morgan Stanley,4
+Comcast,Liberty Global,4
+Amgen,Express Scripts,3
+BP,MSCI,3
+Blink,Netgear,3
+Amazon,Netgear,3
+Amazon,Hasbro,3
+Sears,Sears Holdings Corporation,3
+SolarCity,Tesla,3
+IBM,MSCI,3
+Lehman Brothers,Morgan Stanley,3
+Bank of America,Fifth Third Bancorp,3
+Boeing,Microsoft,3
+Alaska Airlines,Delta Air Lines,3
+General Mills,General Motors,3
+Instacart,Intel,3
+Google,Uber,3
+Bristol-Myers Squibb,Novartis,3
+Amazon,Safeway,3
+Citigroup,Google,3
+Costco,Kroger,3
+Shell,Vodafone,3
+BHP,Shell,3
+GSK,Pfizer,3
+AstraZeneca,Unilever,3
+Hawaiian Airlines,United Airlines,3
+Royal Bank of Canada,Suncor Energy,3
+UBS,Wells Fargo,3
+McDonald's,Nissan,3
+ISS,Qualcomm,3
+Ford Motor Company,Unilever,3
+Goldman Sachs,Google,3
+Morgan Stanley,Starbucks,3
+BlackRock,Deutsche Bank,3
+HSBC,Scotiabank,3
+AT&T,Citigroup,3
+Deutsche Bank,Lazard,3
+BP,ExxonMobil,3
+AT&T,Viacom,3
+Novartis,Unilever,3
+Microsoft,Motorola,3
+DuPont,FMC Corporation,3
+Lehman Brothers,Microsoft,3
+AstraZeneca,Credit Suisse,3
+Canadian Imperial Bank of Commerce,Scotiabank,3
+IBM,SAP,3
+Bristol-Myers Squibb,Johnson & Johnson,3
+Bristol-Myers Squibb,Deutsche Bank,3
+MGM Resorts International,Wynn Resorts,3
+Abercrombie & Fitch,Starbucks,3
+AstraZeneca,Deutsche Bank,3
+JPMorgan Chase,MSCI,3
+General Mills,Kimberly-Clark,3
+AT&T,Xerox,3
+AstraZeneca,BP,3
+Mobileye,Tesla,3
+Amazon,NetApp,3
+Baidu,Goldman Sachs,3
+Lazard,Siemens,3
+Mitsubishi UFJ Financial Group,Mizuho Financial Group,3
+Deutsche Telekom,Nokia,3
+General Motors,Kimberly-Clark,3
+Goldman Sachs,Uber,3
+Bank of America,Visa,3
+BP,British American Tobacco,3
+Comcast,Unilever,3
+News Corp,News Corporation,3
+BP,Unilever,3
+First Financial Bancorp,First Financial Bank,3
+ConocoPhillips,Marathon Oil,3
+BlackRock,HSBC,3
+Intel,SAP,3
+Deutsche Telekom,Google,3
+LifeLock,United Airlines,3
+LifeLock,Visa,3
+United Airlines,Visa,3
+Instacart,Microsoft,3
+Delta Air Lines,LifeLock,3
+Instacart,Mobileye,3
+Bank of America,SunTrust Banks,3
+American Express,Bank of America,3
+British American Tobacco,Hewlett Packard Enterprise,3
+BP,HSBC,3
+Toronto-Dominion Bank,TransAlta Corporation,3
+Bank of America,HSBC,3
+Amazon,Boeing,3
+Juniper Networks,Microsoft,3
+Essendant,Genuine Parts Company,3
+Mitsubishi UFJ Financial Group,Sumitomo Mitsui Financial Group,3
+Apollo Global Management,Comcast,3
+Gartner,Google,3
+Boeing,Morgan Stanley,3
+BP,Morgan Stanley,3
+Hewlett Packard Enterprise,SAP,3
+Goldman Sachs,Unilever,3
+Microsoft,Mobileye,3
+Post Consumer Brands,Post Holdings,3
+Goldman Sachs,Salesforce,3
+Amazon,SAP,3
+Delta Air Lines,Visa,3
+Amazon,Unilever,3
+Comcast,Google,3
+Gold Fields,Sibanye-Stillwater,3
+Microsoft,Unilever,3
+AMD,Nvidia,3
+Manulife Financial,Toronto-Dominion Bank,3
+Accenture,Unilever,3
+Citigroup,U.S. Bancorp,3
+Fifth Third Bancorp,Morgan Stanley,3
+Enbridge,Toronto-Dominion Bank,3
+Deutsche Bank,Vodafone,3
+Comcast,The Walt Disney Company,3
+American Express,Visa,3
+Goldman Sachs,Intel,3
+Broadridge Financial Solutions,Goldman Sachs,3
+Blackstone Group,Credit Suisse,3
+Blackstone Group,Morgan Stanley,3
+Coinbase,Google,3
+American Airlines,Southwest Airlines,3
+SunTrust Banks,U.S. Bancorp,3
+Mondelez International,Unilever,3
+Johnson & Johnson,Pfizer,3
+Deutsche Bank,Unilever,3
+Intel,Texas Instruments,3
+British American Tobacco,Randgold Resources,3
+Morgan Stanley,SunTrust Banks,3
+Morgan Stanley,U.S. Bancorp,3
+Caterpillar,Microsoft,3
+Blackstone Group,Deutsche Bank,3
+Citigroup,Royal Bank of Canada,3
+General Electric,Lafarge,3
+Lafarge,Siemens,3
+Wyndham Hotels & Resorts,Wyndham Worldwide,3
+Hewlett Packard Enterprise,Micro Focus International,3
+Microsoft,VMware,3
+General Electric,Genworth Financial,3
+Ferrari,Liberty Media,3
+Mylan,Pfizer,3
+AT&T,Walmart,3
+Comcast,Deutsche Telekom,3
+Amgen,Johnson & Johnson,3
+British American Tobacco,Philip Morris International,3
+Boeing,General Dynamics,3
+Credit Suisse,Shell,2
+Dell EMC,VMware,2
+IBM,VMware,2
+Credit Suisse,Virtu Financial,2
+Amazon,Coach,2
+Coach,Microsoft,2
+Coach,SAP,2
+Flagstar Bancorp,Flagstar Bank,2
+Broadridge Financial Solutions,The Hershey Company,2
+Microsoft,Walmart,2
+Ameriprise Financial,Amphenol,2
+Tesla,Uber,2
+Nvidia,Uber,2
+Nvidia,Tesla,2
+Baidu,Uber,2
+Baidu,Tesla,2
+Baidu,Nvidia,2
+Alaska Airlines,Virgin America,2
+AstraZeneca,Goldman Sachs,2
+Goldman Sachs,Sanofi,2
+GSK,Johnson & Johnson,2
+Credit Suisse,DuPont,2
+Citigroup,Unilever,2
+Citigroup,Kraft Heinz,2
+Citigroup,DuPont,2
+KCG Holdings,Virtu Financial,2
+Google,Salesforce,2
+Microsoft,Vodafone,2
+General Motors,Kellogg’s,2
+General Mills,Kellogg’s,2
+Alibaba Group,Qualcomm,2
+Microsoft,NetApp,2
+Bank of America,BlackRock,2
+Boeing,United Parcel Service,2
+Siemens,UBS,2
+Johnson & Johnson,Kimberly-Clark,2
+IBM,Johnson & Johnson,2
+AT&T,Visa,2
+Intel,Xerox,2
+Amazon,Vodafone,2
+Bank of America,Canadian Imperial Bank of Commerce,2
+Amazon,PepsiCo,2
+Braskem,Petrobras,2
+IBM,Ribbon Communications,2
+American Express,IBM,2
+Amazon,RadioShack,2
+Boeing,Dow Jones Industrial Average,2
+Nvidia,Toyota,2
+Intel,Morgan Stanley,2
+First Solar,Shell,2
+Bank of America,Toronto-Dominion Bank,2
+Bank of America,Sun Life Financial,2
+Bank of America,Royal Bank of Canada,2
+Nokia,Siemens,2
+Monsanto,Siemens,2
+Monsanto,SAP,2
+ASML,UBS,2
+Deutsche Bank,Liberty Global,2
+China Telecom,ChinaCache,2
+ASML,Intel,2
+Credit Suisse,Ferrari,2
+BlackRock,Microsoft,2
+Amazon,Nike,2
+Rent The Runway,Walmart,2
+Amazon,Rent The Runway,2
+Enbridge,Spectra Energy,2
+UBS,ZTO Express,2
+Morgan Stanley,ZTO Express,2
+Goldman Sachs,ZTO Express,2
+Deutsche Bank,ZTO Express,2
+Credit Suisse,ZTO Express,2
+Citigroup,ZTO Express,2
+American Airlines,American Airlines Group,2
+Cushman & Wakefield,Google,2
+Microsoft,Ribbon Communications,2
+CME Group,Shell,2
+Qualcomm,Texas Instruments,2
+Broadcom,Texas Instruments,2
+MSCI,Walmart,2
+Google,VMware,2
+JD.com,Morgan Stanley,2
+Deutsche Bank,Google,2
+Accenture,Deutsche Bank,2
+HEICO,International,2
+Credit Suisse,Intel,2
+Century Aluminum,U.S. Steel,2
+CBS Corporation,Viacom,2
+Deutsche Bank,Novartis,2
+Monsanto,Qualcomm,2
+Broadcom,Monsanto,2
+Alibaba Group,Baidu,2
+American Express,Wells Fargo,2
+American Express,U.S. Bancorp,2
+American Express,SunTrust Banks,2
+American Express,Morgan Stanley,2
+American Express,Fifth Third Bancorp,2
+American Express,Citigroup,2
+Smithfield Foods,Tyson Foods,2
+Google,Johnson & Johnson,2
+Juniper Networks,Nortel,2
+U.S. Bancorp,Wells Fargo,2
+SunTrust Banks,Wells Fargo,2
+Fifth Third Bancorp,Wells Fargo,2
+Fifth Third Bancorp,U.S. Bancorp,2
+Fifth Third Bancorp,SunTrust Banks,2
+Bristol-Myers Squibb,Credit Suisse,2
+CME Group,Unilever,2
+Sangamo Therapeutics,Sanofi,2
+Johnson & Johnson,Sangamo Therapeutics,2
+American Express,Walmart,2
+Bank of America,Lehman Brothers,2
+Google,Viacom,2
+Overstock.com,Walmart,2
+Rayonier,Rayonier Advanced Materials,2
+Canadian Imperial Bank of Commerce,UBS,2
+Credit Suisse,Nvidia,2
+AMD,Credit Suisse,2
+British American Tobacco,Smith & Nephew,2
+Fifth Third Bancorp,Goldman Sachs,2
+Google,LG Display,2
+Dominion Energy,SCANA,2
+Citigroup,SunTrust Banks,2
+Citigroup,Fifth Third Bancorp,2
+Safeway,Walmart,2
+Union Pacific Corporation,Union Pacific Railroad,2
+Hewlett Packard Enterprise,IBM,2
+Nike,Wells Fargo,2
+Broadcom,ISS,2
+AT&T,Deutsche Bank,2
+J. Walter Thompson,Vodafone,2
+J. Walter Thompson,Unilever,2
+Amazon,HSBC,2
+British American Tobacco,Morgan Stanley,2
+Air France-KLM,Ryanair,2
+Citigroup,Nomura Group,2
+AT&T,Hewlett-Packard,2
+MoneyGram,Oaktree Capital Management,2
+General Mills,Unilever,2
+Axalta Coating Systems,General Cable,2
+Deutsche Bank,S&P Global Ratings,2
+Baker Hughes,General Electric,2
+Amazon,Bank of America,2
+Google,Vodafone,2
+Evogene Ltd,Monsanto,2
+DuPont,Monsanto,2
+Baker Hughes,Morgan Stanley,2
+Boeing,Copa Airlines,2
+Rentokil Initial,Unilever,2
+BP,Rentokil Initial,2
+Credit Suisse,MPLX,2
+Goldman Sachs,Walmart,2
+Deutsche Bank,First Hawaiian Bank,2
+Procter & Gamble,UBS,2
+Mylan,Novartis,2
+Broadcom,Hewlett-Packard,2
+Bank of America,Comcast,2
+Meredith Corporation,Walmart,2
+British American Tobacco,Microsoft,2
+Amazon,British American Tobacco,2
+Dell EMC,Dell Technologies,2
+Equifax,ISS,2
+Google,Mattel,2
+IBM,Walmart,2
+Google,MGM Resorts International,2
+Astra,Bristol-Myers Squibb,2
+ArcelorMittal,Unilever,2
+ArcelorMittal,Morgan Stanley,2
+Safeway,SuperValu,2
+Deutsche Bank,IBM,2
+Uber,Walmart,2
+Ford Motor Company,General Motors,2
+Caterpillar,General Motors,2
+Boeing,General Motors,2
+Google,Sonos,2
+Instacart,Whole Foods Market,2
+Boeing,Siemens,2
+Boeing,Starbucks,2
+MSCI,Westpac,2
+Marriott International,Marriott Vacations Worldwide Corporation,2
+ISS,Wells Fargo,2
+Bank of America,Lloyds Banking Group,2
+Amazon,GSK,2
+BlackRock,Morgan Stanley,2
+Deutsche Telekom,Royal Bank of Canada,2
+Getty Images,Microsoft,2
+DuPont,Evogene Ltd,2
+Comcast,Wells Fargo,2
+GSK,Orchard Therapeutics,2
+Bloom Energy,Morgan Stanley,2
+Credit Suisse,Incyte,2
+Humana,Tesla,2
+Manulife Financial,Suncor Energy,2
+Goldman Sachs,SAP,2
+Humana,Walmart,2
+Kroger,Safeway,2
+Costco,SuperValu,2
+Costco,Safeway,2
+Mondelez International,PepsiCo,2
+GSK,Unilever,2
+GSK,PepsiCo,2
+GSK,Mondelez International,2
+BlackRock,Smith & Wesson,2
+Google,Humana,2
+Microsoft,RingCentral,2
+IBM,RingCentral,2
+Ford Motor Company,HSBC,2
+Deutsche Telekom,UBS,2
+PepsiCo,Unilever,2
+Carlyle Group,Credit Suisse,2
+HSBC,Iridium Communications,2
+Broadcom,Mobileye,2
+IBM,Unisys,2
+Citigroup,Microsoft,2
+Kroger,Whole Foods Market,2
+Nokia,UBS,2
+Amazon,Caterpillar,2
+AMD,Amazon,2
+Boeing,Nike,2
+Novartis,Orchard Therapeutics,2
+Verizon Communications,Viacom,2
+Amazon,Toyota,2
+Gilead Sciences,Mylan,2
+Google,Nokia,2
+Google,Rentokil Initial,2
+Hewlett Packard Enterprise,Pfizer,2
+HSBC,Pfizer,2
+Nissan,UBS,2
+Alabama Power,Southern Company,2
+AT&T,Vodafone,2
+Magellan Midstream Partners,WPX Energy,2
+Scotiabank,UBS,2
+Goldman Sachs,Scotiabank,2
+Goldman Sachs,Ryanair,2
+BlackBerry,Microsoft,2
+Air France-KLM,Boeing,2
+IBM,Veeva Systems,2
+Goldman Sachs,Siemens,2
+Google,LifeLock,2
+Broadridge Financial Solutions,Centene Corporation,2
+Amgen,Novartis,2
+Scotiabank,Toronto-Dominion Bank,2
+Goldman Sachs,Kroger,2
+Caterpillar,Nucor,2
+Axalta Coating Systems,Liberty Global,2
+Microsoft,SolarWinds,2
+Comcast,Morgan Stanley,2
+BP,Ryanair,2
+British American Tobacco,Reynolds American,2
+Delta Air Lines,Medtronic,2
+Shell,YPF,2
+Comcast,Verizon Communications,2
+21st Century Fox,Comcast,2
+Intel,Wells Fargo,2
+Deutsche Bank,Park Hotels & Resorts,2
+Caterpillar,Intel,2
+Amazon,STMicroelectronics,2
+Goldman Sachs,Intercontinental Exchange,2
+First Financial Bank,MainSource Bank,2
+Antero Resources,Range Resources,2
+Shell,Tesla,2
+British American Tobacco,Credit Suisse,2
+Coinbase,Goldman Sachs,2
+Baidu,Microsoft,2
+GSK,Morgan Stanley,2
+GSK,Goldman Sachs,2
+Amgen,GSK,2
+American Greetings,Deutsche Bank,2
+NetApp,Nokia,2
+Air Lease,Boeing,2
+IAC,Vimeo,2
+Amazon,Costco,2
+FedEx,Walmart,2
+Amazon,Baidu,2
+Microsoft,Siemens,2
+Dell Technologies,Microsoft,2
+Adobe,Google,2
+Express,Express Scripts,2
+Amgen,Express,2
+Royal Bank of Canada,Vodafone,2
+Liberty Global,Royal Bank of Canada,2
+ArcelorMittal,Vedanta Resources,2
+Amazon,Mattel,2
+Mastercard,Visa,2
+Airbnb,Google,2
+Credit Suisse,Kraft Heinz,2
+Sears,Walmart,2
+Ferrari,Morgan Stanley,2
+Capital One,Wells Fargo,2
+Intel,NXP Semiconductors,2
+Qualcomm,Royal Bank of Canada,2
+Broadcom,Royal Bank of Canada,2
+Credit Suisse,Scotiabank,2
+Hertz Car Sales,The Hertz Corporation,2
+Monsanto,Unilever,2
+IBM,Monsanto,2
+Brookfield Business Partners,Unilever,2
+General Motors,Intel,2
+General Motors,Honda,2
+General Mills,Goldman Sachs,2
+BlackRock,Invesco,2
+Amazon,Nokia,2
+Microsoft,eBay,2
+Amazon,UBS,2
+HudBay Minerals,Tahoe Resources,2
+Medtronic,Smith & Nephew,2
+Cision,Credit Suisse,2
+Broadridge Financial Solutions,Cision,2
+Lehman Brothers,Unilever,2
+Kraft Heinz,Morgan Stanley,2
+Kraft Heinz,Lehman Brothers,2
+DuPont,Unilever,2
+DuPont,Morgan Stanley,2
+DuPont,Lehman Brothers,2
+DuPont,Kraft Heinz,2
+Credit Suisse,Lehman Brothers,2
+Nokia,Unilever,2
+Nokia,Shell,2
+Deutsche Telekom,Walmart,2
+Bank of America,Boeing,2
+Juniper Networks,Nokia,2
+CureVac,SAP,2
+Harley-Davidson,Tesla,2
+Range Resources,Southwestern Energy,2
+Antero Resources,Southwestern Energy,2
+Intel,Siemens,2
+Google,Siemens,2
+FactSet,Microsoft,2
+Sumitomo Mitsui Financial Group,Toyota,2
+Nissan,Sumitomo Mitsui Financial Group,2
+Honda,Sumitomo Mitsui Financial Group,2
+Citigroup,MSCI,2
+Ameriprise Financial,BGC Partners,2
+Deutsche Bank,Smith & Nephew,2
+Citigroup,Shell,2
+GlobalFoundries,Qualcomm,2
+American Airlines,General Electric,2
+Comcast,Walmart,2
+BlackBerry,General Motors,2
+AerCap,GPA,2
+Deutsche Telekom,Intel,2
+Check Point,Google,2
+Goldman Sachs,LPL Financial,2
+Baidu,Credit Suisse,2
+Microsoft,Nintendo,2
+Comcast,Vodafone,2
+Comcast,Royal Bank of Canada,2
+FTI Consulting,Iovance Biotherapeutics,2
+Kodak,PepsiCo,2
+Goldman Sachs,U.S. Bancorp,2
+AT&T,The Walt Disney Company,2
+Kellogg’s,Kimberly-Clark,2
+Deutsche Telekom,Orange,2
+Deutsche Bank,Orange,2
+Google,United Airlines,2
+Hewlett Packard Enterprise,Microsoft,2
+Nissan,Uber,2
+Goldman Sachs,Nissan,2
+Apollo Global Management,Royal Bank of Canada,2
+Baker Hughes,ConocoPhillips,2
+IAC,Match Group,2
+AT&T,CME Group,2
+AerCap,SLB,2
+Amphenol,BGC Partners,2
+Citigroup,Vivo,1
+Goldman Sachs,Nomura Group,1
+Credit Suisse,Nomura Group,1
+Citigroup,Virtu Financial,1
+Nissan,Tesla,1
+General Electric,SPX Corporation,1
+Baker Hughes,SPX Corporation,1
+AMD,Raytheon,1
+AstraZeneca,Sempra,1
+Nintendo,T. Rowe Price,1
+Novartis,Pall Corporation,1
+MSCI,Mitsubishi UFJ Financial Group,1
+MSCI,Mizuho Financial Group,1
+Dell EMC,IBM,1
+Dell EMC,Microsoft,1
+Morgan Stanley,Salesforce,1
+AT&T,American Express,1
+American Express,Hewlett-Packard,1
+American Express,Xerox,1
+Hewlett-Packard,Xerox,1
+AGL Resources,FTI Consulting,1
+American Airlines,Citigroup,1
+American Airlines Group,Citigroup,1
+Amazon,Johnson & Johnson,1
+Johnson & Johnson,Morgan Stanley,1
+First Midwest Bancorp,International,1
+American Express,MoneyGram,1
+McDonald's,Shell,1
+McDonald's,eBay,1
+Nissan,Shell,1
+Nissan,eBay,1
+Shell,eBay,1
+Charter Communications,Motorola Mobility,1
+DuPont,Lifeway Foods,1
+Hasbro,UBS,1
+Mattel,UBS,1
+Accenture,Hewlett-Packard,1
+Accenture,eBay,1
+Google,Hewlett-Packard,1
+Hewlett-Packard,eBay,1
+LPL Financial,Virtu Financial,1
+Microsoft,Tyler Technologies,1
+Amgen,Regeneron Pharmaceuticals,1
+Amgen,Sanofi,1
+Regeneron Pharmaceuticals,Sanofi,1
+DuPont,Renewable Energy Group,1
+Abbott Laboratories,Johnson & Johnson,1
+Vedanta Resources,Walmart,1
+Broadcom,International,1
+HubSpot,News Corp,1
+AMD,Qualcomm,1
+American Airlines,Qualcomm,1
+General Electric,Qualcomm,1
+Citigroup,Walmart,1
+GlobalFoundries,Google,1
+Google,Qualcomm,1
+Ryder,Tesla,1
+Church & Dwight,Newell Brands,1
+Church & Dwight,Reynolds American,1
+Newell Brands,Reynolds American,1
+MAA,Post Properties,1
+IBM,Verizon Communications,1
+Microsoft,Starbucks,1
+Ferrari,Tesla,1
+Kimberly-Clark,Starbucks,1
+Kimberly-Clark,Walmart,1
+Starbucks,Walmart,1
+Juniper Networks,Salesforce,1
+Juniper Networks,Synopsys,1
+Juniper Networks,Trulia,1
+Juniper Networks,Tyler Technologies,1
+Microsoft,Synopsys,1
+Microsoft,Trulia,1
+Orchard Therapeutics,Wynn Resorts,1
+AstraZeneca,Mallinckrodt Pharmaceuticals,1
+AstraZeneca,Sucampo Pharmaceuticals,1
+Mallinckrodt Pharmaceuticals,Sucampo Pharmaceuticals,1
+General Electric,IBM,1
+AT&T,ArcelorMittal,1
+ArcelorMittal,CME Group,1
+Aetna,Sun Life Financial,1
+Synopsys,TD Ameritrade,1
+Salesforce,Trulia,1
+Salesforce,Tyler Technologies,1
+Synopsys,Trulia,1
+Synopsys,Tyler Technologies,1
+Trulia,Tyler Technologies,1
+AstraZeneca,National Grid,1
+National Grid,Unilever,1
+Deutsche Bank,Shell,1
+Ryanair,Shell,1
+BlackRock,Comcast,1
+Boeing,Huntington Ingalls Industries,1
+Elanco,Eli Lilly and Company,1
+Logitech,Smith & Nephew,1
+ExxonMobil,General Electric,1
+DigitalGlobe,Maxar Technologies,1
+Express,Visa,1
+Safeway,Starbucks,1
+Honda,Tesla,1
+Cavium,Marvell Technology,1
+Cavium,Qualcomm,1
+Marvell Technology,Qualcomm,1
+Salesforce,Synopsys,1
+MGM Resorts International,Orchard Therapeutics,1
+Citigroup,Lazard,1
+Lazard,Morgan Stanley,1
+Bristol-Myers Squibb,Nektar Therapeutics,1
+General Mills,Whole Foods Market,1
+Delta Air Lines,Marriott International,1
+Abbott Laboratories,Jazz Pharmaceuticals,1
+Scotiabank,Teck Resources,1
+Microsoft,The Coca-Cola Company,1
+AT&T,Salesforce,1
+Broadcom,LSI Corporation,1
+HubSpot,Qualtrics,1
+International,Investors Bank,1
+Harte Hanks,SurveyMonkey,1
+Siemens,Texas Instruments,1
+Liberty Global,Nokia,1
+Deutsche Bank,Ryanair,1
+Calpine,Talen Energy,1
+Biogen,Novartis,1
+Biogen,Vertex Pharmaceuticals,1
+Novartis,Vertex Pharmaceuticals,1
+Amgen,Morgan Stanley,1
+Coca-Cola Enterprises,Equifax,1
+HSBC,Invesco,1
+Google,Whirlpool,1
+Amdocs,Nokia,1
+Amdocs,Vodafone,1
+Hain Celestial Group,Rent-A-Center,1
+Ingram Micro,Synnex,1
+ExxonMobil,UBS,1
+Micron Technology,TSMC,1
+Airbnb,Amazon,1
+Citigroup,PTC Therapeutics,1
+Citigroup,Mastercard,1
+Broadridge Financial Solutions,General Mills,1
+Citigroup,Plug Power,1
+McDermott International,S&P Global,1
+BHP,ExxonMobil,1
+Medtronic,T. Rowe Price,1
+Smith & Nephew,T. Rowe Price,1
+AT&T,Southern Company,1
+Credit Suisse,GrafTech,1
+Simon Property Group,Younkers,1
+New Mountain Capital,Salesforce,1
+New Mountain Capital,UnitedHealth Group,1
+Credit Suisse,PTC Therapeutics,1
+International,Mattel,1
+Stein Mart,Tailored Brands,1
+Bank of America,TransUnion,1
+CIT Group,Deutsche Bank,1
+CIT Group,Ingram Micro,1
+Deutsche Bank,Ingram Micro,1
+Baidu,eBay,1
+Tyson Foods,Viacom,1
+Advanced Energy,IDEX Corporation,1
+FedEx,MetLife,1
+Life Technologies,Thermo Fisher Scientific,1
+Accenture,Envestnet,1
+Lithia Motors,Toyota,1
+Citigroup,ConocoPhillips,1
+CoStar Group,LoopNet,1
+Blackstone Group,Park Hotels & Resorts,1
+Match Group,Vimeo,1
+Motorola,SMTC Corporation,1
+Cimarex Energy,Devon Energy,1
+AutoNation,Nissan,1
+AutoNation,Omnicom Group,1
+AutoNation,Ulta Beauty,1
+La-Z-Boy,McDonald's,1
+La-Z-Boy,Nissan,1
+Goldman Sachs,Mastercard,1
+Deutsche Bank,Oaktree Capital Management,1
+Amazon,Siemens,1
+Google,Silicon Graphics International,1
+AT&T,Carlyle Group,1
+AT&T,Eletrobras,1
+Carlyle Group,Eletrobras,1
+Salesforce,UnitedHealth Group,1
+Kraft Foods Group,Kraft Heinz,1
+Kraft Foods Group,Restaurant Brands International,1
+Kraft Heinz,Restaurant Brands International,1
+IBM,Itron,1
+Costco,Google,1
+BP,Randgold Resources,1
+Carbonite,Silicon Valley Bank,1
+Goldman Sachs,SoFi,1
+Deutsche Bank,Wyndham Worldwide,1
+Goldman Sachs,Wyndham Worldwide,1
+Baidu,Wells Fargo,1
+Advance America,AutoNation,1
+Advance America,La-Z-Boy,1
+Advance America,McDonald's,1
+Advance America,Nissan,1
+Advance America,Omnicom Group,1
+Advance America,Ulta Beauty,1
+AutoNation,La-Z-Boy,1
+AutoNation,McDonald's,1
+La-Z-Boy,Omnicom Group,1
+La-Z-Boy,Ulta Beauty,1
+McDonald's,Omnicom Group,1
+McDonald's,Ulta Beauty,1
+Nissan,Omnicom Group,1
+Nissan,Ulta Beauty,1
+Omnicom Group,Ulta Beauty,1
+Baker Hughes,Moelis & Company,1
+Adobe,eBay,1
+FMC Corporation,Ford Motor Company,1
+Gartner,ServiceNow,1
+Baidu,Citigroup,1
+Cimpress,PepsiCo,1
+Adobe,Keysight Technologies,1
+Edison International,IBM,1
+Edison International,Itron,1
+IBM,ServiceNow,1
+ServiceNow,Veeva Systems,1
+Uber,Visa,1
+DXC Technology,Unisys,1
+Avery Dennison,PepsiCo,1
+American Greetings,HSBC,1
+American Greetings,Sumitomo Mitsui Financial Group,1
+Deutsche Bank,Sumitomo Mitsui Financial Group,1
+HSBC,Sumitomo Mitsui Financial Group,1
+Bank of America,GSK,1
+Bank of America,Pfizer,1
+Goldman Sachs,Pfizer,1
+Morgan Stanley,Pfizer,1
+Bank of America,SJW Group,1
+GSK,Liberty Property Trust,1
+CalAmp,LoJack,1
+JetBlue Airways,Johnson & Johnson,1
+JetBlue Airways,Mattel,1
+Johnson & Johnson,Mattel,1
+Motorola,SolarWinds,1
+Comcast,Nissan,1
+Axalta Coating Systems,Deutsche Telekom,1
+Micron Technology,Nike,1
+Carlyle Group,Goldman Sachs,1
+CIT Group,S&P Global Ratings,1
+CalAmp,TransUnion,1
+LoJack,TransUnion,1
+CenterPoint Energy,Fresenius Medical Care,1
+CenterPoint Energy,United Bank,1
+Fresenius Medical Care,United Bank,1
+Goldman Sachs,Yingli,1
+Equifax,Synchrony Financial,1
+American Airlines,Brookfield Properties,1
+Brookfield Properties,United Airlines,1
+Aruba Networks,Barracuda Networks,1
+Aruba Networks,Fortinet,1
+Aruba Networks,Hewlett Packard Enterprise,1
+Barracuda Networks,Fortinet,1
+Barracuda Networks,Hewlett Packard Enterprise,1
+Fortinet,Hewlett Packard Enterprise,1
+HSBC,JPMorgan Chase,1
+JPMorgan Chase,UBS,1
+Hill International,Stewart Information Services Corporation,1
+Comcast,PJT Partners,1
+Morgan Stanley,PJT Partners,1
+Kroger,Walgreens,1
+General Motors,Johnson & Johnson,1
+General Motors,Mattel,1
+Apollo Global Management,Morgan Stanley,1
+Boeing,Monsanto,1
+Boeing,TransUnion,1
+Monsanto,TransUnion,1
+Honda,McDonald's,1
+McDonald's,Toyota,1
+Nike,Nokia,1
+Adobe,Warner Music Group,1
+Caterpillar,National Grid,1
+Comcast,Viacom,1
+RealPage,Starbucks,1
+Intel,Sun Microsystems,1
+General Motors,eBay,1
+Knight Capital Group,Virtu Financial,1
+General Motors,JetBlue Airways,1
+Kodak,Nokia,1
+Express Scripts,Toyota,1
+Hewlett-Packard,Uber,1
+CrowdStrike,Palo Alto Networks,1
+Spirit AeroSystems,Triumph Group,1
+Deutsche Telekom,Viasat,1
+Shire plc,ViroPharma,1
+AT&T,Mitel,1
+AT&T,Polycom,1
+AT&T,RingCentral,1
+Google,Mitel,1
+Digi International,IBM,1
+Credit Suisse,Zoom Video Communications,1
+UBS,Zoom Video Communications,1
+Getty Images,Viacom,1
+AT&T,General Motors,1
+Geron Corporation,Jazz Pharmaceuticals,1
+Marathon Oil,Tyson Foods,1
+Hewlett-Packard,Pentair,1
+Hewlett-Packard,Sun Microsystems,1
+AT&T,Extreme Networks,1
+Citigroup,Extreme Networks,1
+Shell,Vedanta Resources,1
+Google,RingCentral,1
+IBM,Mitel,1
+IBM,Polycom,1
+Microsoft,Mitel,1
+Microsoft,Polycom,1
+Mitel,Polycom,1
+Mitel,RingCentral,1
+Polycom,RingCentral,1
+HRG Group,Spectrum Brands,1
+CRISPR Therapeutics,Vertex Pharmaceuticals,1
+Boeing,UBS,1
+Citigroup,Micron Technology,1
+First Interstate Bank,Wells Fargo,1
+Amazon,"Precigen, Inc",1
+BHP,Unilever,1
+BHP,Vodafone,1
+Amazon,United Parcel Service,1
+Google,United Parcel Service,1
+AMD,Boeing,1
+AMD,Caterpillar,1
+AMD,General Motors,1
+AMD,Tesla,1
+Google,Polycom,1
+Nike,UBS,1
+ExxonMobil,Marathon Oil,1
+ExxonMobil,Tyson Foods,1
+Amazon,General Motors,1
+Boeing,Tesla,1
+Caterpillar,Tesla,1
+Broadcom,FactSet,1
+FactSet,NXP Semiconductors,1
+Apollo Global Management,National Grid,1
+International,Siemens,1
+American Express,Johnson & Johnson,1
+AmBev,UBS,1
+EHang,Intel,1
+ArcelorMittal,Shell,1
+Shell,Siemens,1
+Sears,Seritage Growth Properties,1
+Sears,Stanley Black & Decker,1
+Seritage Growth Properties,Stanley Black & Decker,1
+Boeing,Nokia,1
+SVB Financial Group,Silicon Valley Bank,1
+Nike,Prudential Financial,1
+American International Group,UBS,1
+American International Group,XL Group,1
+UBS,XL Group,1
+International Paper,Lazard,1
+International Paper,MeadWestvaco,1
+International Paper,Wells Fargo,1
+Lazard,MeadWestvaco,1
+Lazard,Wells Fargo,1
+MeadWestvaco,Wells Fargo,1
+Deutsche Bank,Getty Images,1
+Deutsche Bank,Intel,1
+Deutsche Bank,SAP,1
+Getty Images,IBM,1
+Getty Images,Intel,1
+Alaska Airlines,Hawaiian Airlines,1
+Getty Images,SAP,1
+Google,Nvidia,1
+PriceSmart,Walmart,1
+AerCap,Boeing,1
+BHP,Vale,1
+Google,Tencent Music,1
+Microsoft,Tencent Music,1
+Amazon,Sonos,1
+Citigroup,Stifel,1
+Micron Technology,Stifel,1
+Micron Technology,UBS,1
+Micron Technology,Wells Fargo,1
+Stifel,UBS,1
+Stifel,Wells Fargo,1
+Instacart,Kroger,1
+BankUnited,Raytheon,1
+Caesars Entertainment,Wynn Resorts,1
+CA Technologies,Ruckus Networks,1
+Goldman Sachs,eBay,1
+Republic Services,Waste Connections,1
+Amazon,Micron Technology,1
+Amazon,Stifel,1
+Microsoft,ServiceNow,1
+FTI Consulting,Rex Energy,1
+Comcast,MSCI,1
+Google,Verizon Communications,1
+MSCI,Verizon Communications,1
+Arena Pharmaceuticals,Geron Corporation,1
+IBM,Pegasystems,1
+Microsoft,Pegasystems,1
+Acuity Brands,Morgan Stanley,1
+British American Tobacco,Comcast,1
+Comcast,UBS,1
+AT&T,Nike,1
+AT&T,Prudential Financial,1
+Delta Air Lines,Hawaiian Airlines,1
+Delta Air Lines,Spirit Airlines,1
+Delta Air Lines,Virgin America,1
+Hawaiian Airlines,Spirit Airlines,1
+Hawaiian Airlines,Virgin America,1
+Spirit Airlines,Virgin America,1
+Nokia,ShoreTel,1
+Nokia,Sotheby's,1
+ShoreTel,Sotheby's,1
+Credit Suisse,PepsiCo,1
+Axalta Coating Systems,Carlyle Group,1
+Axalta Coating Systems,Comcast,1
+Credit Suisse,Marathon Petroleum,1
+MPLX,Marathon Petroleum,1
+Carlyle Group,Comcast,1
+Carlyle Group,General Cable,1
+Carlyle Group,Liberty Global,1
+Comcast,General Cable,1
+General Cable,Liberty Global,1
+Southwest Airlines,Walmart,1
+Fortune Brands Home & Security,Mohawk Industries,1
+Dean Foods,PepsiCo,1
+Dean Foods,Viad,1
+PepsiCo,Viad,1
+Corporacion America Airports,Grupo Aeroportuario Centro Norte,1
+Meredith Corporation,Moelis & Company,1
+Alaska Airlines,Spirit Airlines,1
+JPMorgan Chase,Microsoft,1
+Starbucks,Unilever,1
+Hewlett Packard Enterprise,UBS,1
+Micro Focus International,UBS,1
+DowDuPont,Evogene Ltd,1
+Alibaba Group,Amazon,1
+Life Technologies,Maxygen,1
+Life Technologies,Qiagen,1
+Maxygen,Qiagen,1
+CGI,eBay,1
+United Bank,United Financial Bancorp,1
+PepsiCo,Tesla,1
+Intel,Salix Pharmaceuticals,1
+Motorola,Tyco International,1
+Deutsche Bank,General Motors,1
+Citigroup,First Hawaiian Bank,1
+First Hawaiian Bank,Goldman Sachs,1
+CRISPR Therapeutics,Lehman Brothers,1
+CRISPR Therapeutics,STX Entertainment,1
+CRISPR Therapeutics,Semiconductor Manufacturing International Corporation,1
+Lehman Brothers,STX Entertainment,1
+Lehman Brothers,Semiconductor Manufacturing International Corporation,1
+STX Entertainment,Semiconductor Manufacturing International Corporation,1
+Ferrari,Toyota,1
+Avis Budget Group,I.D. Systems,1
+Moelis & Company,UBS,1
+Canadian National Railway,Canadian Natural Resources,1
+Canadian National Railway,Suncor Energy,1
+Juniper Networks,Mitel,1
+Mitel,Nortel,1
+Credit Suisse,Randgold Resources,1
+Amazon,CGI,1
+Mondelez International,Starbucks,1
+Alcoa,Century Aluminum,1
+Alcoa,Nucor,1
+Alcoa,U.S. Steel,1
+Century Aluminum,Nucor,1
+GlobalFoundries,STMicroelectronics,1
+GlobalFoundries,Siemens,1
+STMicroelectronics,Siemens,1
+Ford Motor Company,SAP,1
+Bank of Ireland,HSBC,1
+Bank of Ireland,Lloyds Banking Group,1
+General Mills,Mondelez International,1
+General Mills,Starbucks,1
+MSCI,Silicon Valley Bank,1
+Randgold Resources,Ryanair,1
+Equifax,Mastercard,1
+Mitel,ShoreTel,1
+Humana,JPMorgan Chase,1
+Goldman Sachs,Petrobras,1
+Amazon,TD Ameritrade,1
+Amazon,Booking Holdings,1
+Allegiant Air,Delta Air Lines,1
+ASML,Scotiabank,1
+Caterpillar,International Paper,1
+International Paper,Microsoft,1
+PepsiCo,Philip Morris International,1
+PepsiCo,Procter & Gamble,1
+Philip Morris International,Procter & Gamble,1
+Charter Communications,Viacom,1
+Alcoa,Boeing,1
+Alcoa,Caterpillar,1
+Alcoa,Dollar General,1
+Credit Suisse,Ryanair,1
+General Motors,Ingersoll Rand,1
+Ingersoll Rand,Tesla,1
+McDermott International,Nokia,1
+IBM,Salesforce,1
+ISS,USG Corporation,1
+Coca-Cola FEMSA,FEMSA,1
+Invesco,MSCI,1
+Alcoa,Steel Dynamics,1
+Boeing,Dollar General,1
+Boeing,Steel Dynamics,1
+Caterpillar,Dollar General,1
+Caterpillar,Steel Dynamics,1
+Dollar General,General Motors,1
+Dollar General,Steel Dynamics,1
+General Motors,Steel Dynamics,1
+PepsiCo,USANA Health Sciences,1
+Boston Scientific,Hologic,1
+Hyundai Motor America,Toyota,1
+Deutsche Bank,Intercept Pharmaceuticals,1
+HSBC,Randgold Resources,1
+Blackstone Group,Goldman Sachs,1
+Blackstone Group,HSBC,1
+Blackstone Group,Royal Bank of Canada,1
+Blackstone Group,UBS,1
+Blackstone Group,Wells Fargo,1
+Credit Suisse,Royal Bank of Canada,1
+HSBC,Wells Fargo,1
+Alcoa,General Motors,1
+MSCI,Wells Fargo,1
+Silicon Valley Bank,Wells Fargo,1
+Gartner,IBM,1
+Gartner,SAP,1
+Applied Genetic Technologies Corporation,Eli Lilly and Company,1
+Amazon,Duke Energy,1
+Amazon,Prudential Financial,1
+Duke Energy,Prudential Financial,1
+General Electric,HSBC,1
+General Electric,Nokia,1
+HSBC,Nokia,1
+Intel,Novell,1
+AMD,American Express,1
+AMD,TSMC,1
+American Express,Intel,1
+American Express,TSMC,1
+Intel,TSMC,1
+Dow Jones Utility Average,WEC Energy Group,1
+Heidrick & Struggles,United Airlines,1
+Lehman Brothers,UBS,1
+BP,Intel,1
+Goldman Sachs,Invesco,1
+General Motors,Magna International,1
+LabCorp,Luminex,1
+UBS,Vodafone,1
+Amazon,Walgreens,1
+Aetna,Express,1
+Intel,PepsiCo,1
+Microsoft,PepsiCo,1
+Morgan Stanley,PepsiCo,1
+Brunswick Corporation,Wells Fargo,1
+Accenture,Microsoft,1
+Royal Bank of Canada,UBS,1
+Invesco,Shell,1
+Abbott Laboratories,Applied Genetic Technologies Corporation,1
+Abbott Laboratories,Eli Lilly and Company,1
+Kodak,Stratasys,1
+British American Tobacco,Siemens,1
+Amazon,Yatra.com,1
+PepsiCo,Yatra.com,1
+PepsiCo,eBay,1
+Yatra.com,eBay,1
+General Electric,Hawaiian Airlines,1
+ArcelorMittal,Bank of America,1
+Google,Juniper Networks,1
+AT&T,Cisco,1
+AT&T,Motorola,1
+Cisco,IBM,1
+Cisco,Microsoft,1
+Grab,Toyota,1
+Monsanto,Nokia,1
+Nokia,SAP,1
+General Motors,Sevcon,1
+Innoviz Technologies,Magna International,1
+Innoviz Technologies,Sevcon,1
+Magna International,Sevcon,1
+Albany International,Boeing,1
+IBM,Procter & Gamble,1
+Nike,Tesla,1
+BHP,UBS,1
+Natera,Qiagen,1
+Akamai Technologies,Neustar,1
+Akamai Technologies,Time Warner Cable,1
+Neustar,Time Warner Cable,1
+AstraZeneca,Liberty Global,1
+BP,Liberty Global,1
+Colliers International,Walker & Dunlop,1
+Heidrick & Struggles,Marsh & McLennan Companies,1
+American International Group,Pioneer Natural Resources,1
+Equifax,International,1
+FactSet,Match Group,1
+PepsiCo,Stratasys,1
+National Grid,Nissan,1
+Eversource Energy,National Grid,1
+AstraZeneca,British American Tobacco,1
+AstraZeneca,HSBC,1
+British American Tobacco,Gilead Sciences,1
+British American Tobacco,Novartis,1
+Gilead Sciences,HSBC,1
+Gilead Sciences,Novartis,1
+Gilead Sciences,Unilever,1
+HSBC,Novartis,1
+Sonos,Viacom,1
+Cisco,Motorola,1
+Caterpillar,Siemens,1
+Caterpillar,UBS,1
+Microsoft,Sun Microsystems,1
+NetApp,Sun Microsystems,1
+Buckeye Partners,Noble Energy,1
+Google,Toyota,1
+SAP,Toyota,1
+Honda,Uber,1
+BlackRock,Visa,1
+Bank of America,Microsoft,1
+General Motors,Google,1
+Express Scripts,Regeneron Pharmaceuticals,1
+Procter & Gamble,The Hershey Company,1
+Equifax,OneSpan,1
+Equifax,TransUnion,1
+OneSpan,TransUnion,1
+AT&T,American Airlines,1
+AT&T,Boeing,1
+AT&T,Southwest Airlines,1
+BlackRock,Google,1
+BlackRock,MSCI,1
+BorgWarner,General Motors,1
+BorgWarner,Innoviz Technologies,1
+BorgWarner,Magna International,1
+BorgWarner,Sevcon,1
+General Motors,Innoviz Technologies,1
+BHP,SSR Mining,1
+BP,GSK,1
+British American Tobacco,GSK,1
+BHP,HSBC,1
+Intel,MSCI,1
+Broadridge Financial Solutions,PPL,1
+Butterfield Bank,UBS,1
+AMD,Johnson & Johnson,1
+AMD,Pfizer,1
+SurveyMonkey,Unilever,1
+Applied Genetic Technologies Corporation,Biogen,1
+Deere & Company,Target Corporation,1
+Canadian Imperial Bank of Commerce,Magna International,1
+Blackbaud,Zeta Interactive,1
+Blackbaud,eBay,1
+Zeta Interactive,eBay,1
+Clorox,Deutsche Bank,1
+Adobe,Amazon,1
+Adobe,Credit Suisse,1
+Johnson & Johnson,Office Depot,1
+AT&T,Credit Suisse,1
+Restaurant Brands International,Tim Hortons,1
+Caesars Entertainment,MGM Resorts International,1
+Adobe,VMware,1
+Amazon,VMware,1
+Credit Suisse,VMware,1
+Korea Electric Power Corporation,Southern California Edison,1
+Logitech,Procter & Gamble,1
+Logitech,Whirlpool,1
+Procter & Gamble,Whirlpool,1
+GoPro,Morgan Stanley,1
+Bank of America,Lending Club,1
+Citigroup,Lending Club,1
+Citigroup,Visa,1
+Credit Suisse,Lending Club,1
+Credit Suisse,Visa,1
+Lending Club,Visa,1
+Butterfield Bank,Canadian Imperial Bank of Commerce,1
+Lehman Brothers,Lumber Liquidators,1
+Mattson Technology,Quantum Corporation,1
+AT&T,International,1
+Goldman Sachs,ISS,1
+Amgen,Bristol-Myers Squibb,1
+Amgen,Eli Lilly and Company,1
+Bristol-Myers Squibb,Eli Lilly and Company,1
+Boeing,Google,1
+Boeing,IBM,1
+Bausch & Lomb,Mallinckrodt Pharmaceuticals,1
+Deutsche Bank,Pentair,1
+Morgan Stanley,Pentair,1
+DoorDash,Google,1
+JPMorgan Chase,NextEra Energy,1
+BP,Petrobras,1
+Petrobras,Shell,1
+HSBC,Ryanair,1
+Boeing,Wells Fargo,1
+Southwest Airlines,Wells Fargo,1
+Amazon,FireEye,1
+Amazon,Juniper Networks,1
+FireEye,Juniper Networks,1
+FireEye,Microsoft,1
+Ford Motor Company,Toyota,1
+HSBC,Mitsubishi UFJ Financial Group,1
+McDonald's,Nike,1
+Citigroup,Crown Holdings,1
+Amazon,Procter & Gamble,1
+Esterline,ITT Corporation,1
+Google,JPMorgan Chase,1
+JPMorgan Chase,Tesla,1
+Mondelez International,Willis Towers Watson,1
+Hewlett-Packard,Qualcomm,1
+BHP,Noble Energy,1
+Aptiv,Ford Motor Company,1
+Aptiv,General Motors,1
+AT&T,Target Corporation,1
+International,Target Corporation,1
+Sun Communities,UDR,1
+Delta Air Lines,Southwest Airlines,1
+Southwest Airlines,United Airlines,1
+Dunkin' Brands,The Coca-Cola Company,1
+Dunkin' Brands,The J.M. Smucker Company,1
+The Coca-Cola Company,The J.M. Smucker Company,1
+AT&T,Broadcom,1
+AT&T,Brocade Communications Systems,1
+AT&T,Qualcomm,1
+International,Meritor,1
+McDonald's,RadiSys,1
+McDonald's,Wells Fargo,1
+Nike,RadiSys,1
+RadiSys,Wells Fargo,1
+Baidu,BlackBerry,1
+Hewlett Packard Enterprise,Motorola,1
+Bilibili,Broadridge Financial Solutions,1
+BP,General Motors,1
+AT&T,Charter Communications,1
+Broadcom,Motorola,1
+Brocade Communications Systems,Deutsche Bank,1
+Brocade Communications Systems,Hewlett-Packard,1
+Brocade Communications Systems,Morgan Stanley,1
+Brocade Communications Systems,Qualcomm,1
+Deutsche Bank,Hewlett-Packard,1
+Hewlett-Packard,Morgan Stanley,1
+IBM,Nvidia,1
+Microsoft,Nvidia,1
+Morgan Stanley,Nvidia,1
+Agios Pharmaceuticals,Novartis,1
+Dover Corporation,General Electric,1
+General Electric,Lazard,1
+BP,Hewlett Packard Enterprise,1
+BP,United Airlines,1
+CME Group,Nissan,1
+Boeing,JPMorgan Chase,1
+General Electric,JPMorgan Chase,1
+PACCAR,Sierra Wireless,1
+DBV Technologies,Goldman Sachs,1
+DBV Technologies,Morgan Stanley,1
+Alexion Pharmaceuticals,Amgen,1
+Broadcom,Brocade Communications Systems,1
+Airbnb,Trivago,1
+General Mills,Google,1
+Advantest,Kyocera,1
+Advantest,MSCI,1
+Kyocera,MSCI,1
+Avnet,Mortgage Guaranty Insurance Corporation,1
+Community Health Systems,Health Management Associates,1
+American River Bank,Colliers International,1
+Magellan Midstream Partners,Phillips 66,1
+Deutsche Bank,General Electric,1
+Abbott Laboratories,Boston Scientific,1
+Abbott Laboratories,Medtronic,1
+Boston Scientific,Medtronic,1
+Bank of America,Lazard,1
+Amazon,Nvidia,1
+Deutsche Bank,Nvidia,1
+HSBC,Uber,1
+Morgan Stanley,Uber,1
+Royal Bank of Canada,Uber,1
+Citigroup,The Walt Disney Company,1
+IBM,Lehman Brothers,1
+IBM,The Walt Disney Company,1
+Avaya,Hewlett-Packard,1
+Eversource Energy,Wells Fargo,1
+SJW Group,Wells Fargo,1
+AstraZeneca,DuPont,1
+AstraZeneca,FMC Corporation,1
+Caterpillar,Morgan Stanley,1
+Endo International plc,International,1
+Compaq,Motorola,1
+Yum China,Yum! Brands,1
+21st Century Fox,Amazon,1
+SuperValu,Sysco,1
+SuperValu,United Natural Foods,1
+Sysco,United Natural Foods,1
+Johnson & Johnson,MSCI,1
+Johnson & Johnson,Procter & Gamble,1
+MSCI,Procter & Gamble,1
+Intel,Nvidia,1
+Canadian Natural Resources,Enbridge,1
+Abbott Laboratories,Texas Instruments,1
+Alexion Pharmaceuticals,Boeing,1
+Alexion Pharmaceuticals,Sears,1
+Boeing,Sears,1
+Boeing,National Bank of Greece,1
+Boeing,Xerox,1
+National Bank of Greece,Xerox,1
+Deutsche Bank,Uber,1
+Biogen,Editas Medicine,1
+Biogen,PerkinElmer,1
+Lehman Brothers,The Walt Disney Company,1
+Deutsche Telekom,OTE,1
+Dean Foods,Oppenheimer Holdings,1
+Coeur Mining,Teck Resources,1
+Comcast,Netgear,1
+Flagstar Bank,United Wholesale Mortgage,1
+BEA Systems,IBM,1
+Comcast,ExxonMobil,1
+ExxonMobil,Walmart,1
+Affirm,The Honest Company,1
+PACCAR,Spartan Motors,1
+Canadian Natural Resources,Manulife Financial,1
+Safeway,Sysco,1
+Safeway,United Natural Foods,1
+Goldman Sachs,Prudential Financial,1
+JPMorgan Chase,Prudential Financial,1
+Prudential Financial,Wells Fargo,1
+AT&T,Emerson Electric,1
+Marathon Oil,PNC Financial Services,1
+Marathon Oil,PPG Industries,1
+Canadian Natural Resources,Royal Bank of Canada,1
+Canadian National Railway,Cenovus Energy,1
+General Electric,Google,1
+General Electric,Procter & Gamble,1
+Deutsche Bank,Thor Industries,1
+Thor Industries,UBS,1
+Mitel,Teradata,1
+Allison Transmission,General Motors,1
+ISS,Wynn Resorts,1
+International,OTE,1
+General Electric,Texas Instruments,1
+AstraZeneca,Boeing,1
+Boeing,Unilever,1
+Costco,Sysco,1
+Costco,United Natural Foods,1
+Kroger,SuperValu,1
+Kroger,Sysco,1
+Kroger,United Natural Foods,1
+SAP,Unisys,1
+AT&T,SunPower,1
+Google,SunPower,1
+DST Systems,S&P Global,1
+Costco,Humana,1
+Humana,Kroger,1
+Arrow Electronics,DaVita,1
+Qualcomm,SomaLogic,1
+Frontier Communications,PNC Financial Services,1
+Frontier Communications,Sykes Enterprises,1
+Frontier Communications,TECO Energy,1
+Marriott International,Marshall & Ilsley,1
+Marriott International,PNC Financial Services,1
+Marriott International,Sykes Enterprises,1
+Marriott International,TECO Energy,1
+Marathon Oil,U.S. Steel,1
+PNC Financial Services,PPG Industries,1
+PNC Financial Services,U.S. Steel,1
+PPG Industries,U.S. Steel,1
+Deutsche Telekom,Morgan Stanley,1
+BP,Ford Motor Company,1
+BP,National Grid,1
+Airbnb,Morgan Stanley,1
+Editas Medicine,PerkinElmer,1
+Burlington,PRA Group,1
+BP,Procter & Gamble,1
+ASML,Deutsche Bank,1
+ASML,STMicroelectronics,1
+Deutsche Bank,STMicroelectronics,1
+Infosys,Wipro,1
+VMware,Zscaler,1
+Ally Financial,Bank of America,1
+Bank of America,Frontier Communications,1
+Bank of America,Marriott International,1
+Bank of America,Marshall & Ilsley,1
+Bank of America,PNC Financial Services,1
+Bank of America,Sykes Enterprises,1
+Bank of America,TECO Energy,1
+Frontier Communications,Marriott International,1
+Frontier Communications,Marshall & Ilsley,1
+CIT Group,JPMorgan Chase,1
+CIT Group,Morgan Stanley,1
+CIT Group,SunTrust Banks,1
+CIT Group,U.S. Bancorp,1
+Goldman Sachs,SunTrust Banks,1
+JPMorgan Chase,SunTrust Banks,1
+JPMorgan Chase,U.S. Bancorp,1
+A10 Networks,Aerohive Networks,1
+Marshall & Ilsley,PNC Financial Services,1
+Marshall & Ilsley,Sykes Enterprises,1
+Marshall & Ilsley,TECO Energy,1
+PNC Financial Services,Sykes Enterprises,1
+PNC Financial Services,TECO Energy,1
+Sykes Enterprises,TECO Energy,1
+ForgeRock,Gartner,1
+Goldman Sachs,iQIYI,1
+CVS Health,GSK,1
+CVS Health,Walgreens Boots Alliance,1
+Deutsche Bank,GSK,1
+Deutsche Bank,Walgreens Boots Alliance,1
+GSK,Walgreens Boots Alliance,1
+DuPont,Novartis,1
+Adobe,Morgan Stanley,1
+Abbott Laboratories,General Electric,1
+CA Technologies,Google,1
+Ally Financial,Goldman Sachs,1
+Ally Financial,JPMorgan Chase,1
+Ally Financial,Morgan Stanley,1
+Ally Financial,SunTrust Banks,1
+Ally Financial,U.S. Bancorp,1
+Bank of America,CIT Group,1
+CIT Group,Goldman Sachs,1
+Federal-Mogul,Tenneco,1
+Microsoft,NetEase,1
+Citigroup,General Motors,1
+General Motors,JPMorgan Chase,1
+General Motors,Morgan Stanley,1
+General Motors,Wells Fargo,1
+Advantage Oil & Gas,Blackstone Group,1
+Citigroup,Fiat Chrysler Automobiles,1
+Citigroup,Tesla,1
+Fiat Chrysler Automobiles,Goldman Sachs,1
+Fiat Chrysler Automobiles,Google,1
+Fiat Chrysler Automobiles,Morgan Stanley,1
+Fiat Chrysler Automobiles,Tesla,1
+Ally Financial,CIT Group,1
+Qualcomm,UBS,1
+CVS Health,Deutsche Bank,1
+Citigroup,Unisys,1
+Google,Unisys,1
+Microsoft,Unisys,1
+Broadridge Financial Solutions,Duke Energy,1
+Citigroup,Duke Energy,1
+Credit Suisse,Duke Energy,1
+Duke Energy,Morgan Stanley,1
+Accenture,Credit Suisse,1
+IBM,MFS Investment Management,1
+Dassault Systèmes,Sun Microsystems,1
+ArcelorMittal,Brookfield Business Partners,1
+Dollar General,Fred's,1
+Amazon,Sprouts Farmers Market,1
+Instacart,Sprouts Farmers Market,1
+Sprouts Farmers Market,Whole Foods Market,1
+Deutsche Bank,Prologis,1
+Estée Lauder,Revlon,1
+Unilever,Walmart,1
+Shaw Communications,Suncor Energy,1
+Marriott International,Starwood,1
+FireEye,Google,1
+FireEye,LifeLock,1
+Citigroup,General Electric,1
+Goldman Sachs,Tesla,1
+Nissan,SAP,1
+General Motors,Uber,1
+CA Technologies,Citigroup,1
+CA Technologies,IBM,1
+CA Technologies,Microsoft,1
+CA Technologies,SAP,1
+CA Technologies,Unisys,1
+Citigroup,SAP,1
+Mizuho Financial Group,Sumitomo Mitsui Financial Group,1
+Allergan plc,Tyco International,1
+IBM,Link Motion Inc,1
+Link Motion Inc,Microsoft,1
+Boeing,Rockwell Collins,1
+Morgan Stanley,Principal Financial Group,1
+Hewlett Packard Enterprise,Novell,1
+Hewlett Packard Enterprise,Progress Software,1
+Novell,Progress Software,1
+Alibaba Group,Cenovus Energy,1
+Alibaba Group,Dow Jones Industrial Average,1
+BP,Kroger,1
+BP,PBF Energy,1
+ExxonMobil,PBF Energy,1
+Credit Suisse,ISS,1
+Diebold Nixdorf,Jack Henry & Associates,1
+Johnson & Johnson,United Airlines,1
+SM Energy,Southwestern Energy,1
+Cenovus Energy,Dow Jones Industrial Average,1
+Cloudflare,Microsoft,1
+Cloudflare,Mimecast,1
+Microsoft,Mimecast,1
+Deutsche Bank,Lumentum Holdings,1
+Deutsche Bank,TSMC,1
+Lumentum Holdings,Morgan Stanley,1
+Lumentum Holdings,TSMC,1
+Morgan Stanley,TSMC,1
+BlackRock,Lloyds Banking Group,1
+PepsiCo,Wells Fargo,1
+Caterpillar,Freeport-McMoRan,1
+Freeport-McMoRan,Intel,1
+Freeport-McMoRan,Microsoft,1
+Credit Suisse,Iron Mountain Incorporated,1
+PepsiCo,Pfizer,1
+Air France-KLM,Copa Airlines,1
+Copa Airlines,Delta Air Lines,1
+British American Tobacco,Citigroup,1
+Express Scripts,International,1
+Alaska Airlines,American Airlines,1
+Alaska Airlines,United Airlines,1
+Atmel,Microchip Technology,1
+Kansas City Southern,Morgan Stanley,1
+Apollo Global Management,General Electric,1
+Apollo Global Management,SunEdison,1
+Apollo Global Management,SunPower,1
+General Electric,SunEdison,1
+General Electric,SunPower,1
+SunEdison,SunPower,1
+Morgan Stanley,Whole Foods Market,1
+Deutsche Telekom,Verizon Communications,1
+Etsy,Goldman Sachs,1
+Etsy,Morgan Stanley,1
+AT&T,Etsy,1
+Electronic Arts,The Walt Disney Company,1
+Microsoft,The Walt Disney Company,1
+HSBC,Vodafone,1
+Tesla,Vodafone,1
+Mississippi Power,Southern Company,1
+Viacom,Xerox,1
+BHP,Blackstone Group,1
+BHP,Devon Energy,1
+Blackstone Group,Devon Energy,1
+Blackstone Group,Shell,1
+Devon Energy,Shell,1
+Affirm,Amazon,1
+Valero Energy,Valvoline,1
+General Motors,Mobileye,1
+Honda,Intel,1
+Honda,Mobileye,1
+Intel,Nissan,1
+Mobileye,Nissan,1
+Deutsche Bank,Fiat Chrysler Automobiles,1
+Brookfield Business Partners,IBM,1
+Brookfield Business Partners,Monsanto,1
+Mondelez International,Procter & Gamble,1
+Mondelez International,Reynolds American,1
+Electronic Arts,Microsoft,1
+Amazon,Hain Celestial Group,1
+Hain Celestial Group,Morgan Stanley,1
+Hain Celestial Group,Whole Foods Market,1
+Etsy,eBay,1
+IBM,LifeLock,1
+IBM,eBay,1
+LifeLock,eBay,1
+Motorola,eBay,1
+Procter & Gamble,Reynolds American,1
+Google,Kroger,1
+Broadridge Financial Solutions,Novavax,1
+Citigroup,Novavax,1
+Baidu,General Motors,1
+American International Group,Comcast,1
+American International Group,Deutsche Telekom,1
+American International Group,Liberty Global,1
+Mondelez International,The Coca-Cola Company,1
+Qualcomm,TSMC,1
+Avaya,IBM,1
+CVS Health,Safeway,1
+CVS Health,SuperValu,1
+Costco,Omnicare,1
+Omnicare,Safeway,1
+Omnicare,SuperValu,1
+Marriott International,The Home Depot,1
+Aetna,Amazon,1
+Aetna,Nike,1
+Aetna,Whole Foods Market,1
+Nike,Whole Foods Market,1
+Philip Morris International,Reynolds American,1
+AMAG Pharmaceuticals,Avadel Pharmaceuticals,1
+Harte Hanks,Wipro,1
+Etsy,Google,1
+Etsy,IBM,1
+Etsy,LifeLock,1
+Canadian Natural Resources,Teck Resources,1
+Logitech,Ryanair,1
+Blackstone Group,Canadian Natural Resources,1
+Blackstone Group,Shaw Communications,1
+Blackstone Group,Suncor Energy,1
+Canadian Natural Resources,Shaw Communications,1
+AT&T,Equinix,1
+AT&T,The Home Depot,1
+Bloom Energy,Equinix,1
+Bloom Energy,The Home Depot,1
+Equinix,Morgan Stanley,1
+Equinix,The Home Depot,1
+Morgan Stanley,The Home Depot,1
+Alexander & Baldwin,Forest City Realty Trust,1
+CVS Health,Costco,1
+CVS Health,Omnicare,1
+Google,Prologis,1
+Google,Robinhood,1
+Baidu,Deutsche Bank,1
+Baidu,Lehman Brothers,1
+Deutsche Bank,Lehman Brothers,1
+AT&T,Bloom Energy,1
+Enron,Shell,1
+Blue Apron,DoorDash,1
+Blue Apron,The Cheesecake Factory,1
+DoorDash,The Cheesecake Factory,1
+Siemens,Vodafone,1
+Carlyle Group,General Electric,1
+Citigroup,Nissan,1
+Citigroup,Sun Life Financial,1
+Nissan,Sun Life Financial,1
+Devon Energy,Noble Energy,1
+Kenon Holdings Ltd,Toronto-Dominion Bank,1
+Bank of America,Webster Bank,1
+RadioShack,Sears,1
+CSX Corporation,Canadian National Railway,1
+CSX Corporation,Strayer University,1
+Canadian National Railway,Strayer University,1
+Deutsche Telekom,Microsoft,1
+Airbnb,Starwood,1
+Deutsche Telekom,Goldman Sachs,1
+Goldman Sachs,Orange,1
+Orange,Vodafone,1
+AT&T,Juniper Networks,1
+Goldman Sachs,Oaktree Capital Management,1
+Bank of America,Cushman & Wakefield,1
+Deutsche Bank,International Paper,1
+Goldman Sachs,International Paper,1
+Microsoft,Tech Data,1
+Abbott Laboratories,Smith & Nephew,1
+IBM,Ultimate Software,1
+Motorola,Ultimate Software,1
+Citigroup,Kelso & Company,1
+Morgan Stanley,Newell Brands,1
+American Express,TrueCar,1
+IBM,Markit,1
+AngloGold Ashanti,Gold Fields,1
+IAC,Yelp,1
+First Solar,Tesla,1
+Accenture,Marriott International,1
+Goldman Sachs,Monsanto,1
+Agilent Technologies,Juniper Networks,1
+Blackstone Group,Kenon Holdings Ltd,1
+Blackstone Group,Toronto-Dominion Bank,1
+Citigroup,Viacom,1
+ConocoPhillips,Ryanair,1
+Aetna,General Motors,1
+Apollo Global Management,Unilever,1
+International,Mattress Firm,1
+Deutsche Bank,Randgold Resources,1
+Nike,Perry Ellis International,1
+Bank of America,Caterpillar,1
+Bank of America,General Electric,1
+Caterpillar,General Electric,1
+Delta Air Lines,HSBC,1
+Capella Education Company,Strayer University,1
+Ferrari,IBM,1
+General Mills,Johnson & Johnson,1
+PepsiCo,Stitch Fix,1
+Lloyds Banking Group,Morgan Stanley,1
+Broadridge Financial Solutions,MAA,1
+CarGurus,Zillow,1
+MoneyGram,UBS,1
+Microsoft,Visa,1
+Credit Suisse,MSCI,1
+BMO Financial Group,Diebold Nixdorf,1
+IBM,Lloyds Banking Group,1
+CureVac,Eli Lilly and Company,1
+Eli Lilly and Company,SAP,1
+Murphy USA,Walmart,1
+Citigroup,Dominion Energy,1
+BP,Vodafone,1
+Gaylord Hotels,Ryman Hospitality Properties,1
+Bristol-Myers Squibb,Kodak,1
+Bristol-Myers Squibb,PepsiCo,1
+Bank of America,Intel,1
+ExxonMobil,Ferrari,1
+Delta Air Lines,Dow Jones Industrial Average,1
+Cognizant,Microsoft,1
+Renewable Energy Group,S&P Global,1
+Intelsat,Vodafone,1
+FactSet,Google,1
+FactSet,IBM,1
+FactSet,Morgan Stanley,1
+Credit Suisse,Siemens,1
+First Merchants Bank,First Merchants Corporation,1
+First Merchants Bank,International,1
+First Merchants Corporation,International,1
+"Gevo, Inc",The Coca-Cola Company,1
+MAA,Proteon,1
+Google,News Corp,1
+AT&T,FactSet,1
+Ingram Micro,Walmart,1
+Ellie Mae,Zscaler,1
+Citigroup,Toronto-Dominion Bank,1
+Goldman Sachs,Toronto-Dominion Bank,1
+Morgan Stanley,Toronto-Dominion Bank,1
+Arrow Electronics,IBM,1
+Arrow Electronics,Microsoft,1
+Delta Air Lines,Xerox,1
+Bank of America,IBM,1
+Bank of America,MSCI,1
+BorgWarner,Gentex,1
+General Dynamics,McDermott International,1
+General Dynamics,Ryanair,1
+McDermott International,Ryanair,1
+Burlington,Procter & Gamble,1
+Burlington,Unilever,1
+Amazon,General Mills,1
+Comcast,Goldman Sachs,1
+Comcast,JPMorgan Chase,1
+JPMorgan Chase,Unilever,1
+ExxonMobil,Honda,1
+ArcelorMittal,Deutsche Bank,1
+Capital One,Credit Suisse,1
+Capital One,Morgan Stanley,1
+Bank of America,UBS,1
+Booking Holdings,Vodafone,1
+Air Lease,General Electric,1
+Google,Sears,1
+Amazon,Dangdang,1
+Amazon,Ingram Micro,1
+Dangdang,Ingram Micro,1
+Dangdang,Walmart,1
+Citigroup,Rosetta Stone,1
+Deutsche Bank,Rosetta Stone,1
+Hertz Car Sales,Hertz Global Holdings,1
+Hertz Global Holdings,The Hertz Corporation,1
+Goldman Sachs,Randgold Resources,1
+Equinix,NetApp,1
+Asbury Automotive Group,Toyota,1
+CRH,Deutsche Bank,1
+CRH,Randgold Resources,1
+Bally Technologies,International Game Technology,1
+Gartner,Microsoft,1
+Dow Jones Industrial Average,Procter & Gamble,1
+AstraZeneca,Novavax,1
+Aptiv,Autoliv,1
+Aptiv,Intel,1
+Autoliv,Intel,1
+Amazon,American Express,1
+Amazon,Starbucks,1
+American Express,Starbucks,1
+IBM,Starbucks,1
+Fiat Chrysler Automobiles,Toyota,1
+Capital One,HSBC,1
+Kroger,Morgan Stanley,1
+Deutsche Telekom,Turkcell,1
+Deutsche Telekom,VEON,1
+Turkcell,VEON,1
+GoDaddy,Pluralsight,1
+AC Immune,Amgen,1
+AC Immune,Biogen,1
+AC Immune,Ironwood Pharmaceuticals,1
+Amgen,Biogen,1
+Viacom,Walmart,1
+Nissan,PepsiCo,1
+General Motors,UBS,1
+Amgen,Ironwood Pharmaceuticals,1
+Biogen,Ironwood Pharmaceuticals,1
+Gilead Sciences,Intel,1
+Cushman & Wakefield,Wells Fargo,1
+Goldman Sachs,Johnson & Johnson,1
+Goldman Sachs,Molina Healthcare,1
+Molina Healthcare,Vodafone,1
+British American Tobacco,Pfizer,1
+Capital One,Gartner,1
+Gartner,Wells Fargo,1
+Hewlett-Packard,Motorola,1
+Boeing,Broadcom,1
+Boeing,Lumentum Holdings,1
+Boeing,Micron Technology,1
+AVG Technologies,Morgan Stanley,1
+AVG Technologies,UBS,1
+Applied Materials,Nordstrom,1
+Accenture,Red Hat,1
+Broadcom,Lumentum Holdings,1
+Broadcom,Micron Technology,1
+Caterpillar,Lumentum Holdings,1
+Caterpillar,Micron Technology,1
+Lumentum Holdings,Micron Technology,1
+AstraZeneca,UBS,1
+Tyson Foods,Valspar,1
+Informatica,Sun Microsystems,1
+Biogen,Johnson & Johnson,1
+General Mills,United Airlines,1
+Amazon,Lehman Brothers,1
+HSBC,Park Electrochemical Corp,1
+Boston Scientific,Stryker Corporation,1
+Dow Jones Industrial Average,Royal Bank of Canada,1
+Dow Jones Industrial Average,Toronto-Dominion Bank,1
+Novartis,Sangamo Therapeutics,1
+Novartis,Sanofi,1
+NW Natural,Portland General Electric,1
+Google,PepsiCo,1
+Coinbase,Getty Images,1
+Johnson & Johnson,Rite Aid,1
+Boston Scientific,Smith & Nephew,1
+Hewlett-Packard,VMware,1
+Entravision Communications,Spanish Broadcasting System,1
+Braskem,LyondellBasell,1
+Amazon,Gartner,1
+Laureate Education,PepsiCo,1
+Broadcom,Caterpillar,1
+DoorDash,Instacart,1
+Adaptive Biotechnologies,Genomic Health,1
+ConocoPhillips,Murphy Oil,1
+Morgan Stanley,Shell,1
+Duff & Phelps,Virtus Investment Partners,1
+American Express,Raytheon,1
+Raytheon,Walmart,1
+Spartan Motors,Taylor Corporation,1
+MAA,Silicon Valley Bank,1
+Boeing,Ralph Lauren Corporation,1
+Kroger,Sears,1
+Safeway,Sears,1
+Amazon,Brookfield Property Partners,1
+Microsoft,Uber,1
+General Electric,Sanofi,1
+Dow Jones Industrial Average,General Electric,1
+Amazon,Overstock.com,1
+General Electric,Primoris Services Corporation,1
+Hansen Medical,Medtronic,1
+IBM,Tech Data,1
+General Mills,Procter & Gamble,1
+AT&T,China Telecom,1
+Citigroup,Mitsubishi UFJ Financial Group,1
+Deutsche Bank,Mitsubishi UFJ Financial Group,1
+Goldman Sachs,Mitsubishi UFJ Financial Group,1
+Mitsubishi UFJ Financial Group,Morgan Stanley,1
+Mitsubishi UFJ Financial Group,Wells Fargo,1
+Duke Energy,Gulf Power Company,1
+Duke Energy,Southern Company,1
+Gulf Power Company,Southern Company,1
+AT&T,NXP Semiconductors,1
+Google,NXP Semiconductors,1
+Credit Suisse,Vodafone,1
+Goldman Sachs,Liberty Global,1
+Liberty Global,Morgan Stanley,1
+Morgan Stanley,Vodafone,1
+BP,DuPont,1
+DuPont,Shell,1
+Abbott Laboratories,Bristol-Myers Squibb,1
+CRH,UBS,1
+Colgate-Palmolive,Google,1
+Colgate-Palmolive,Unilever,1
+FireEye,IBM,1
+CME Group,Vedanta Resources,1
+Broadridge Financial Solutions,Moelis & Company,1
+Citigroup,Moelis & Company,1
+Credit Suisse,Moelis & Company,1
+Moelis & Company,Morgan Stanley,1
+China Telecom,Intel,1
+Comcast,Semtech Corporation,1
+Ryanair,UBS,1
+ExxonMobil,Stone Energy Corporation,1
+Shell,Stone Energy Corporation,1
+China Telecom,Shell,1
+ChinaCache,Shell,1
+Amazon,Shell,1
+American Express,Getty Images,1
+Getty Images,Visa,1
+Intercontinental Exchange,UBS,1
+Kimberly-Clark,PepsiCo,1
+Bank of Ireland,Deutsche Bank,1
+Bank of Ireland,Nokia,1
+BlackRock,Lehman Brothers,1
+Credit Suisse,Liberty Global,1
+Cadence Design Systems,Hewlett Packard Enterprise,1
+Cadence Design Systems,Microsoft,1
+Deutsche Bank,Nokia,1
+Hyatt Hotels Corporation,Shutterfly,1
+Hyatt Hotels Corporation,Sotheby's,1
+Shutterfly,Sotheby's,1
+Carlyle Group,Tesla,1
+Amazon,Vornado Realty Trust,1
+Hasbro,Vornado Realty Trust,1
+Mattel,Vornado Realty Trust,1
+Altice USA,UBS,1
+Deutsche Bank,Rio Tinto,1
+Rio Tinto,UBS,1
+Microsoft,Shell,1
+Bristol-Myers Squibb,Onyx Pharmaceuticals,1
+Bristol-Myers Squibb,Quest Diagnostics,1
+IBM,Xerox,1
+Texas Instruments,Xerox,1
+Amazon,Carlyle Group,1
+Onyx Pharmaceuticals,Quest Diagnostics,1
+Arconic,Goldman Sachs,1
+Lloyds Banking Group,UBS,1
+Camping World,Corporate Office Properties Trust,1
+Starwood,UBS,1
+CapitalSource,PacWest Bancorp,1
+Airbnb,American Express,1
+Citigroup,Columbia Bank,1
+Columbia Bank,Morgan Stanley,1
+AT&T,Cadence Design Systems,1
+AT&T,Frontier Communications,1
+AT&T,Hewlett Packard Enterprise,1
+Cadence Design Systems,Frontier Communications,1
+Fiat Chrysler Automobiles,Nintendo,1
+First Niagara Bank,Microsoft,1
+First Niagara Bank,Nike,1
+First Niagara Bank,Nintendo,1
+Microsoft,Nike,1
+Nike,Nintendo,1
+Frontier Communications,Hewlett Packard Enterprise,1
+Frontier Communications,Microsoft,1
+China Telecom,Xunlei Limited,1
+Investment Technology Group,TD Ameritrade,1
+Investment Technology Group,Virtu Financial,1
+TD Ameritrade,Virtu Financial,1
+AT&T,Texas Instruments,1
+Google,Texas Instruments,1
+Google,Xerox,1
+IBM,Texas Instruments,1
+Amazon,U.S. Auto Parts,1
+Lionbridge,Microsoft,1
+Capital One,Salesforce,1
+Capital One,WeWork,1
+Salesforce,WeWork,1
+FirstEnergy,IBM,1
+Amazon,Liberty Global,1
+Google,Visa,1
+Amazon,The Cheesecake Factory,1
+FactSet,The Cheesecake Factory,1
+Monsanto,Motorola,1
+Motorola,SAP,1
+Voya Financial,Wells Fargo,1
+Fiat Chrysler Automobiles,First Niagara Bank,1
+Fiat Chrysler Automobiles,Microsoft,1
+Fiat Chrysler Automobiles,Nike,1
+Mallinckrodt Pharmaceuticals,Medtronic,1
+Amazon,Viacom,1
+Cirrus Logic,National Instruments,1
+Blackstone Group,Liberty Global,1
+Alibaba Group,ServiceNow,1
+Blackbaud,Microsoft,1
+Intel,LPL Financial,1
+Sally Beauty Holdings,Sotheby's,1
+Ferrari,HSBC,1
+Ferrari,MSCI,1
+Ferrari,Scotiabank,1
+MSCI,Scotiabank,1
+American International Group,Broadcom,1
+Orbotech,QuinStreet,1
+General Electric,MSCI,1
+Amazon,Visa,1
+AT&T,Mercer,1
+CME Group,Mercer,1
+CME Group,Visa,1
+Mercer,Visa,1
+Cbeyond,Motorola,1
+American Airlines,American Express,1
+American Airlines,Simon Property Group,1
+American Express,Simon Property Group,1
+Costco,Nordstrom,1
+Express,FedEx,1
+Air France-KLM,American Airlines,1
+American Airlines,HSBC,1
+Comcast,Vonage,1
+Instacart,Walmart,1
+Apollo Global Management,Overstock.com,1
+Aegon,BHP,1
+Amazon,Urban Outfitters,1
+Google,Urban Outfitters,1
+Aegon,Rio Tinto,1
+Gilead Sciences,Goldman Sachs,1
+Blackstone Group,Hilton Grand Vacations,1
+Colgate-Palmolive,Goldman Sachs,1
+Colgate-Palmolive,Marriott International,1
+Colgate-Palmolive,Medtronic,1
+Goldman Sachs,Marriott International,1
+Goldman Sachs,Medtronic,1
+Marriott International,Medtronic,1
+21st Century Fox,News Corp,1
+Comcast,News Corp,1
+Amazon,Novartis,1
+Citigroup,Lloyds Banking Group,1
+Lloyds Banking Group,Wells Fargo,1
+CommScope,Monsanto,1
+CommScope,Siemens,1
+American Express,Comcast,1
+American Express,Spirit Airlines,1
+Comcast,Spirit Airlines,1
+AMD,Novartis,1
+MarketAxess,UBS,1
+Goldman Sachs,Tyson Foods,1
+POSCO,Vornado Realty Trust,1
+Johnson & Johnson,Medtronic,1
+HubSpot,Salesforce,1
+HubSpot,ServiceNow,1
+Salesforce,ServiceNow,1
+Deutsche Bank,EQT,1
+EQT,Goldman Sachs,1
+RELX,Siemens,1
+Sears,Washington Prime Group,1
+Boeing,LifeLock,1
+Boeing,Visa,1
+British American Tobacco,CRH,1
+Bank of America,Simmons Bank,1
+Visa,Walmart,1
+Ford Motor Company,Intel,1
+BEA Systems,Visa,1
+ASML,NXP Semiconductors,1
+Simon Property Group,Walmart,1
+Hewlett-Packard,IBM,1
+Hewlett-Packard,Microsoft,1
+Hewlett-Packard,RingCentral,1
+Fiat Chrysler Automobiles,Scotiabank,1
+CommScope,Intuit,1
+CommScope,Microsoft,1
+Getty Images,Walmart,1
+Getty Images,Wayfair,1
+Intuit,Microsoft,1
+Intuit,Monsanto,1
+Intuit,Siemens,1
+Microsoft,Monsanto,1
+Amgen,Cytokinetics,1
+ArcelorMittal,POSCO,1
+First Solar,Shinhan Financial Group,1
+Shell,Shinhan Financial Group,1
+Cenovus Energy,Enbridge,1
+Ford Motor Company,Google,1
+Citrix Systems,Nutanix,1
+Bank of America,Union Pacific Corporation,1
+Boeing,Union Pacific Corporation,1
+Urban Outfitters,eBay,1
+Allergan plc,International,1
+Morgan Stanley,Trina Solar,1
+BHP,MSCI,1
+American Eagle Outfitters,The Michaels Companies,1
+American Eagle Outfitters,Walmart,1
+Costco,The Michaels Companies,1
+The Michaels Companies,Walmart,1
+Alliance Data,FTI Consulting,1
+Hewlett Packard Enterprise,Sears,1
+Procter & Gamble,Yum! Brands,1
+City National Bank,Credit Suisse,1
+City National Bank,Morgan Stanley,1
+City National Bank,Wells Fargo,1
+Analog Devices,Nortel,1
+Getty Images,Overstock.com,1
+Getty Images,Sears,1
+Microsoft,Overstock.com,1
+Microsoft,Sears,1
+Microsoft,Wayfair,1
+Overstock.com,Sears,1
+Overstock.com,Wayfair,1
+Sears,Wayfair,1
+Walmart,Wayfair,1
+Aethlon Medical,International,1
+Microsoft,Prologis,1
+Broadridge Financial Solutions,Deutsche Bank,1
+Broadridge Financial Solutions,Salesforce,1
+American Eagle Outfitters,Costco,1
+Citrix Systems,PepsiCo,1
+Adobe,Dell Technologies,1
+Adobe,Microsoft,1
+Dell Technologies,Google,1
+Citigroup,Salesforce,1
+Deutsche Bank,Salesforce,1
+Adobe,Airbnb,1
+DowDuPont,Olin Corporation,1
+CME Group,Intercontinental Exchange,1
+Medtronic,Rockwell Automation,1
+S&P Global,S&P Global Ratings,1
+ISS,Unilever,1
+HDFC Bank,ICICI Bank,1
+Deutsche Bank,Signature Bank,1
+Morgan Stanley,Stifel,1
+Fortinet,Intel,1
+Goldman Sachs,United Airlines,1
+IBM,United Airlines,1
+Morgan Stanley,United Airlines,1
+Coinbase,eToro,1
+Citigroup,Intel,1
+Charter Communications,Time Warner Cable,1
+BP,BlackRock,1
+Amazon,NDTV,1
+IBM,UBS,1
+Equifax,Google,1
+Amazon,GPA,1
+Rio Tinto,Royal Bank of Canada,1
+S&P Global Ratings,Sibanye-Stillwater,1
+Standard Pacific Homes,TRI Pointe Group,1
+General Electric,TE Connectivity,1
+Harman International Industries,InterDigital,1
+Harman International Industries,Nokia,1
+InterDigital,Nokia,1
+Best Buy,Toyota,1
+Coinstar,Starbucks,1
+Bankrate,Live Oak Bank,1
+Caterpillar,Hewlett-Packard,1
+Caterpillar,Texas Instruments,1
+Hewlett-Packard,Texas Instruments,1
+Starwood,WeWork,1
+Intel,SolarWinds,1
+Anadarko Petroleum,Eni,1
+Google,Grab,1
+Ameriprise Financial,MSCI,1
+Ford Motor Company,Strategy,1
+Sysco,Verizon Communications,1
+AT&T,Caterpillar,1
+AT&T,Johnson & Johnson,1
+Caterpillar,Citigroup,1
+Caterpillar,Johnson & Johnson,1
+Caterpillar,Xerox,1
+Tupperware,Tupperware Brands,1
+FBR Capital Markets,Juniper Networks,1
+BlackRock,Citigroup,1
+BlackRock,Wells Fargo,1
+The Coca-Cola Company,The Hershey Company,1
+Citigroup,Johnson & Johnson,1
+Citigroup,Xerox,1
+Intel,Johnson & Johnson,1
+Johnson & Johnson,Xerox,1
+Colfax Corporation,ESAB,1
+Aetna,Surgery Partners,1
+UBS,Viacom,1
+FireEye,Fortinet,1
+IBM,Novartis,1
+Genesco,Walmart,1
+Sunrise Senior Living,Welltower,1
+Amazon,Parker Hannifin,1
+Eaton Corporation,Parker Hannifin,1
+Grab,Johnson & Johnson,1
+Grab,Vale,1
+Grab,Vista Oil & Gas,1
+SAP,UBS,1
+AT&T,Telenav,1
+AT&T,Toyota,1
+Telenav,Toyota,1
+GoPro,Walmart,1
+Comcast,Extreme Reach,1
+Aimco,Airbnb,1
+IBM,Vodafone,1
+Icahn Enterprises,Xerox,1
+Google,Motorola Mobility,1
+First Financial Bancorp,MainSource Bank,1
+Microsoft,Nortel,1
+City National Bank,PacWest Bancorp,1
+CME Group,Johnson & Johnson,1
+Fidelity National Information Services,Invesco,1
+Fidelity National Information Services,Regis Corporation,1
+Goldman Sachs,Instacart,1
+Principal Financial Group,WSFS Bank,1
+Google,Motorola,1
+General Mills,Kraft Heinz,1
+Exponent,Tesla,1
+Exponent,Toyota,1
+Delta Air Lines,Morgan Stanley,1
+Broadridge Financial Solutions,Google,1
+Broadridge Financial Solutions,Microsoft,1
+Huron Consulting Group,IBM,1
+Amazon,Eaton Corporation,1
+Deutsche Bank,Virtu Financial,1
+Gilead Sciences,Intercept Pharmaceuticals,1
+MoneyGram,Principal Financial Group,1
+S&P Global,Washington Prime Group,1
+Intel,Walmart,1
+Grab,YPF,1
+Johnson & Johnson,Vale,1
+Johnson & Johnson,Vista Oil & Gas,1
+Johnson & Johnson,YPF,1
+Vale,Vista Oil & Gas,1
+Vale,YPF,1
+Vista Oil & Gas,YPF,1
+Credit Suisse,Juniper Networks,1
+Credit Suisse,Nortel,1
+Goldman Sachs,Juniper Networks,1
+Goldman Sachs,Nortel,1
+Goldman Sachs,Lam Research,1
+Hasbro,Walmart,1
+Blackstone Group,Lazard,1
+Intel,Nokia,1
+Goldman Sachs,Zscaler,1
+Microsoft,Zscaler,1
+Invesco,Regis Corporation,1
+Broadridge Financial Solutions,General Electric,1
+Broadridge Financial Solutions,Siemens,1
+MetLife,United Airlines,1
+Credit Suisse,Kinder Morgan,1
+AerCap,General Electric,1
+Nike,Starbucks,1
+Starbucks,Wells Fargo,1
+Credit Suisse,KCG Holdings,1
+Deutsche Bank,KCG Holdings,1
+Calgon Carbon,S&P Global,1
+Nomura Group,Virtu Financial,1
+GPA,Goldman Sachs,1
+GPA,Walmart,1
+Alnylam Pharmaceuticals,Pfizer,1
+Alnylam Pharmaceuticals,Stifel,1
+Pfizer,Stifel,1
+Aflac,CVS Health,1
+Banco Santander,Citigroup,1
+Encore Capital Group,International,1
+Boeing,Citigroup,1
+Boeing,Goldman Sachs,1
+BP,Tesla,1
+Deutsche Bank,MoneyGram,1
+Bank of America,Tesla,1
+Airbnb,Citigroup,1
+AstraZeneca,General Electric,1
+AstraZeneca,Humana,1
+General Electric,Goldman Sachs,1
+General Electric,Humana,1
+Goldman Sachs,Humana,1
+Avista,Johnson & Johnson,1
+Credit Suisse,Vivo,1
+Shell,Vivo,1
+Alaska Air Group,Alaska Airlines,1
+Alaska Air Group,Virgin America,1
+Goldman Sachs,Virtu Financial,1
+Morgan Stanley,Zscaler,1
+Salesforce,Siemens,1
+Salesforce,Zscaler,1
+Siemens,Zscaler,1
+Mobileye,Qualcomm,1

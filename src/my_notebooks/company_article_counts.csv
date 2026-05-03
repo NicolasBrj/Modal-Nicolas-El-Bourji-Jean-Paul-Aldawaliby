@@ -1,0 +1,2564 @@
+company_id,company,article_count
+Q1472929,"Nasdaq, Inc.",1524
+Q312,Apple Inc.,684
+Q3884,Amazon,587
+Q95,Google,515
+Q66,Boeing,434
+Q193326,Goldman Sachs,409
+Q334204,Morgan Stanley,394
+Q2283,Microsoft,371
+Q66048,Deutsche Bank,343
+Q2529982,The New York Times Company,283
+Q768773,MSCI,278
+Q478214,Tesla,274
+Q372657,Credit Suisse,258
+Q20800404,Alphabet Inc.,245
+Q193199,UBS,241
+Q81965,General Motors,232
+Q190464,HSBC,225
+Q219508,Citigroup,220
+Q35476,AT&T,212
+Q245343,Barclays plc,187
+Q1129792,The Cooper Companies,186
+Q483551,Walmart,178
+Q950380,CBS Corporation,174
+Q26678,BMW Group,173
+Q54173,General Electric,171
+Q1113804,Comcast,166
+Q248,Intel,163
+Q29739,International,157
+Q544847,Qualcomm,148
+Q154950,Shell,140
+Q53268,Toyota,137
+Q37156,IBM,132
+Q108770716,Samsara,131
+Q157062,Unilever,127
+Q116452644,"Netflix, Inc.",119
+Q744149,Wells Fargo,118
+Q333718,Johnson & Johnson,115
+Q675585,Moody's Corporation,112
+Q780442,Uber,111
+Q487907,Bank of America,109
+Q44294,Ford Motor Company,108
+Q319642,Chevron Corporation,108
+Q13218598,NatWest Group,107
+Q880942,Blackstone Group,105
+Q1359568,Alibaba Group,103
+Q17145596,Tesco Corporation,101
+Q219635,BlackRock,100
+Q507154,Novartis,100
+Q81230,Siemens,100
+Q207983,Monsanto,97
+Q470156,Cencora,96
+Q1023876,CME Group,88
+Q731938,AstraZeneca,87
+Q2837996,Alliance Data,85
+Q27530,Mercedes-Benz Group,82
+Q9584,Honda,82
+Q22243729,Ferrari,82
+Q1655409,Iamgold,81
+Q1046951,Target Corporation,80
+Q5095516,Chicago Bridge & Iron Company,79
+Q4972280,Broadridge Financial Solutions,78
+Q5439999,Federal Agricultural Mortgage Corporation,76
+Q1152764,Lloyds Banking Group,75
+Q122141,Vodafone,73
+Q188920,Delta Air Lines,72
+Q20165,Nissan,72
+Q301965,Sprint Corporation,71
+Q37158,Starbucks,70
+Q459965,Caterpillar,70
+Q15678788,Fiat Chrysler Automobiles,68
+Q9396,Deutsche Telekom,67
+Q38076,McDonald's,65
+Q14772,Baidu,64
+Q905049,Shire plc,63
+Q467752,Verizon Communications,63
+Q30635731,"Cboe Global Markets, Inc.",63
+Q170614,Ryanair,62
+Q41187,Sony Group,62
+Q212322,GSK,61
+Q552581,SAP,60
+Q1418,Nokia,60
+Q1961658,NV Energy,59
+Q266423,Bristol-Myers Squibb,59
+Q127278673,LinkedIn Corporation,59
+Q192314,JPMorgan Chase,58
+Q625713,BHP,57
+Q58024,eBay,56
+Q27893,ArcelorMittal,56
+Q6049324,International Coal Group,55
+Q735261,Royal Bank of Canada,55
+Q212405,Procter & Gamble,54
+Q7893563,Essendant,54
+Q214346,Viacom,54
+Q144617,TIM Group,53
+Q483915,Nike,53
+Q156238,ExxonMobil,53
+Q206921,Pfizer,52
+Q27988145,Post Holdings,52
+Q734779,Comscore,49
+Q898750,Teva Pharmaceutical Industries Ltd.,49
+Q470517,Amgen,49
+Q503308,Southwest Airlines,48
+Q194360,American Express,48
+Q619121,Apollo Global Management,47
+Q334800,PepsiCo,47
+Q19923099,Hewlett Packard Enterprise,47
+Q407237,Air France-KLM,47
+Q458363,Marathon Petroleum,47
+Q856411,British American Tobacco,46
+Q5184408,Crescent Point Energy,46
+Q106309492,"Agora, Inc.",44
+Q153417,Kroger,44
+Q328840,Visa,44
+Q5384453,Equifax,43
+Q899010,Mylan,43
+Q27022329,Snap Inc.,43
+Q19873469,Bio-Techne,43
+Q1141267,Thomson Reuters,42
+Q19900,Oracle Corporation,42
+Q645708,ING Group,42
+Q1570773,Kohlberg Kravis Roberts,42
+Q7243481,Primerica,42
+Q128896,AMD,41
+Q1114148,Comerica,41
+Q1156045,Public Storage,41
+Q632694,Archer Daniels Midland,41
+Q5189378,Crown Holdings,40
+Q155026,United Parcel Service,40
+Q55931,Hyundai Motor Company,39
+Q2843129,Ameriprise Financial,39
+Q1155668,NXP Semiconductors,38
+Q4778915,Cloudflare,38
+Q689791,ISS,38
+Q451476,Scotiabank,37
+Q158205,Sanofi,37
+Q1339966,Enbridge,36
+Q629998,General Mills,36
+Q20873932,Grab,36
+Q1503753,Vedanta Resources,36
+Q247489,Merck & Co.,36
+Q1009458,Bunge Limited,35
+Q6060469,Inversiones y Representaciones Sociedad Anónima,35
+Q2274089,Wynn Resorts,35
+Q80978,Hewlett-Packard,35
+Q212235,American International Group,35
+Q1921579,Meredith Corporation,34
+Q1374135,Prudential plc,34
+Q926806,Carlyle Group,34
+Q596139,Mattel,34
+Q105557,Embraer,34
+Q1423218,Sunoco,33
+Q152433,Xerox,33
+Q804353,Baker Hughes,33
+Q7240,Lockheed Martin,33
+Q135683211,PayPal Holdings,32
+Q1032229,Canadian Natural Resources,32
+Q6723256,Macerich,32
+Q1652574,Manulife Financial,32
+Q214763,ConocoPhillips,32
+Q663596,Gilead Sciences,32
+Q624375,CVS Health,32
+Q212900,Lehman Brothers,32
+Q619111,Apollo Group,31
+Q568532,MGM Resorts International,31
+Q877536,Dell EMC,31
+Q5479360,"Macy's, Inc.",30
+Q666694,Canadian Imperial Bank of Commerce,30
+Q15589464,Dropbox Inc.,30
+Q642189,Medtronic,30
+Q11235714,NIS Group,30
+Q2874395,Avis Budget Group,30
+Q1045758,United Technologies Corporation,30
+Q1516410,Suncor Energy,29
+Q1194832,Toronto-Dominion Bank,29
+Q1541470,GPA,29
+Q5377000,Energy Transfer,28
+Q841458,Intercontinental Exchange,28
+Q459477,FedEx,28
+Q1465461,National Grid,28
+Q697311,Magna International,28
+Q5376211,Endo International plc,28
+Q7663801,Global Industrial Company,28
+Q632240,Eli Lilly and Company,28
+Q5013012,CMS Energy,28
+Q3598926,JD.com,28
+Q502940,General Dynamics,28
+Q899097,BRF,27
+Q5152510,Commercial Metals Company,27
+Q97961992,Brilliance China Automotive Holdings,27
+Q182477,Nvidia,27
+Q63327,Airbnb,27
+Q11407,VMware,27
+Q3958138,Vedanta Limited,27
+Q1023765,CIT Group,27
+Q1392999,FICO,27
+Q1325987,Tyson Foods,27
+Q654762,Sotheby's,26
+Q3511885,T-Mobile US,26
+Q2662418,American Research and Development Corporation,26
+Q1030544,Campbell's,26
+Q1885491,FactSet,26
+Q1645081,Nucor,26
+Q1519267,Omnicom Group,26
+Q5172422,Corporate Office Properties Trust,26
+Q637440,Lazard,26
+Q20183163,Union Pacific Corporation,25
+Q329953,Northrop Grumman Corporation,25
+Q583268,Vale,25
+Q3208192,Stepan Company,25
+Q12010467,Weibo Corporation,25
+Q3067064,Sociedad Química y Minera de Chile,25
+Q221062,DuPont,25
+Q502121,BlackBerry,24
+Q38589917,DowDuPont,24
+Q483637,Anadarko Petroleum,24
+Q607131,MetLife,24
+Q941127,Salesforce,24
+Q2037125,State Street Corporation,24
+Q1089060,Chubb Corp.,24
+Q835456,Sun Life Financial,24
+Q1141173,Marriott International,23
+Q26049,Aetna,23
+Q7414,The Walt Disney Company,23
+Q1809448,Whole Foods Market,23
+Q5906990,Hortonworks,23
+Q4751571,Anaplan,23
+Q18354527,Trinseo,23
+Q18712620,Walgreens Boots Alliance,23
+Q489921,Mastercard,23
+Q106158,S&P Global Ratings,23
+Q898208,"Honeywell International, Inc.",23
+Q174198,Gartner,23
+Q1577587,Marathon Oil,23
+Q677464,Dominion Energy,23
+Q795221,CNOOC Limited,22
+Q864338,Biogen,22
+Q180816,Dow Jones Industrial Average,22
+Q430745,Teradata,22
+Q806693,BMO Financial Group,22
+Q1283291,Valero Energy,22
+Q72539,U.S. Steel,22
+Q294721,AMC Theatres,22
+Q7712716,The Advisory Board Company,21
+Q3518066,Tenet Healthcare,21
+Q7893929,Universal Corporation,21
+Q503182,PetroChina Company Limited,21
+Q570473,McKesson Corporation,21
+Q12857502,Mondelez International,21
+Q1785405,Newmont Mining Corporation,21
+Q899133,Takeda Pharmaceutical Company,21
+Q5041354,Carlisle Companies,20
+Q1034654,Capital One,20
+Q3511946,T. Rowe Price,20
+Q60269744,Spotify Technology,20
+Q501476,Hasbro,20
+Q668737,Yum! Brands,20
+Q52825,ABB Group,20
+Q1024454,CSX Corporation,19
+Q5337641,Edgewell Personal Care,19
+Q123616697,Camden National Corporation,19
+Q7098806,Optical Cable Corporation,19
+Q1453620,Freeport-McMoRan,19
+Q522617,Invesco,19
+Q5450340,Finisar,19
+Q624798,Canadian National Railway,19
+Q119991,APA Corporation,19
+Q715583,Costco,19
+Q906187,Allergan plc,19
+Q496302,Deere & Company,19
+Q8074786,Zscaler,19
+Q2288792,Sinclair Broadcast Group,19
+Q1472539,Alpha Tomo Global Resoures Sdn Bhd,19
+Q24525746,BCE Inc.,18
+Q38928,PNC Financial Services,18
+Q1049080,Juniper Networks,18
+Q259011,Motorola,18
+Q217583,Berkshire Hathaway,18
+Q7045708,Noble Corporation,18
+Q1471346,Whirlpool,18
+Q571779,Liberty Global,18
+Q3301958,Overstock.com,17
+Q768231,Express Scripts,17
+Q420822,Gap Inc.,17
+Q908324,Brookfield Corporation,17
+Q16981175,Lennar Corporation,17
+Q931032,Kinder Morgan,17
+Q1264404,Duke Energy,17
+Q193412,Texas Instruments,17
+Q1852556,Philip Morris International,17
+Q47500199,Aurora Cannabis,17
+Q2901365,Mobileye,17
+Q192814,Harley-Davidson,17
+Q7311031,"Reliance, Inc.",16
+Q842947,Celgene,16
+Q27500963,Dell Technologies,16
+Q23133268,Match Group,16
+Q1390577,"Twitter, Inc.",16
+Q1516849,Shaw Communications,16
+Q306764,Abbott Laboratories,16
+Q894585,Boston Scientific,16
+Q6840048,Microsemi,16
+Q631047,HDFC Bank,16
+Q5203782,D. R. Horton,16
+Q667599,Newell Brands,16
+Q156644,Raytheon,16
+Q1197548,Micron Technology,16
+Q19681433,Kraft Heinz,16
+Q1542175,Mitsubishi UFJ Financial Group,16
+Q5139058,Coca-Cola Bottling Co. Consolidated,16
+Q3295867,The Coca-Cola Company,16
+Q902397,Cardinal Health,16
+Q624649,KLA Corporation,16
+Q2923022,Boyd Gaming,16
+Q303341,Wyndham Worldwide,16
+Q115056594,Cohen & Steers,16
+Q48742870,Nutrien,16
+Q917487,Brinker International,16
+Q1915079,McDermott International,16
+Q267313,"McAfee, LLC",15
+Q1516562,Liberty Media,15
+Q202972,International Paper,15
+Q181507,SunTrust Banks,15
+Q1419248,FirstEnergy,15
+Q15913890,iQIYI,15
+Q27988239,MAA,15
+Q5452773,First Commonwealth Bank,15
+Q24705550,Brookfield Business Partners,15
+Q210047,Petrobras,15
+Q1653258,ICICI Bank,15
+Q5323987,EQT,15
+Q705392,Seagate Technology,15
+Q16953039,Moelis & Company,15
+Q5427196,FTI Consulting,15
+Q15272375,RetailMeNot,15
+Q3493556,Spirit AeroSystems,15
+Q868587,S&P Global,15
+Q739084,U.S. Bancorp,15
+Q1944412,MoneyGram,15
+Q727697,Coach,15
+Q338825,Accenture,15
+Q1145004,Randgold Resources,15
+Q5370757,Emergent,15
+Q135325,Alcoa,15
+Q174310,Nordstrom,14
+Q831445,Sinopec,14
+Q1023013,"CBRE, Inc.",14
+Q1384784,Express,14
+Q60748073,"Connecticut Water Service, Inc.",14
+Q22671405,B2Gold,14
+Q48754,PPG Industries,14
+Q5674337,Harte Hanks,14
+Q1410766,Fibria,14
+Q96095585,Pinterest Inc.,14
+Q7856196,Turquoise Hill Resources,14
+Q17112054,Silicon Valley Bank,14
+Q16979157,PBF Energy,14
+Q4999220,Burlington,14
+Q327751,Kraft Foods Group,14
+Q8085893,Expedia Group,14
+Q16972754,Coinbase,14
+Q5178891,Covanta,14
+Q6994181,Caladrius Biosciences,14
+Q688725,Teck Resources,14
+Q2207629,SPX Corporation,13
+Q165684,Rogers Communications,13
+Q1152374,GE HealthCare,13
+Q1389504,"Morningstar, Inc.",13
+Q910866,Humana,13
+Q4828988,Avista,13
+Q1325369,Elbit Systems Ltd.,13
+Q5147194,Colliers International,13
+Q589288,The Bank of New York Mellon,13
+Q1146061,Cushman & Wakefield,13
+Q22909236,Instacart,13
+Q498746,W. R. Grace and Company,13
+Q899183,FMC Corporation,13
+Q7308054,Regeneron Pharmaceuticals,13
+Q6459734,LPL Financial,13
+Q11463,Adobe,13
+Q590897,Empresas ICA,13
+Q18619470,Restaurant Brands International,13
+Q130326112,Kellogg’s,13
+Q5167736,Cooper-Standard Automotive,13
+Q1741634,Kimberly-Clark,13
+Q489080,"Automatic Data Processing, Inc. (ADP)",13
+Q7309349,Register.com,13
+Q39046155,Antero Resources,13
+Q5099817,China Nepstar,13
+Q22674048,Main Street Capital Corp,13
+Q188514,Tata Motors Ltd,13
+Q1053422,Cenovus Energy,13
+Q48740858,Compass Inc.,13
+Q3211367,Fresh Del Monte Produce,13
+Q24834296,China Telecom,13
+Q1770710,Tripadvisor,12
+Q4649932,AAR Corp,12
+Q1916402,Pearson plc,12
+Q642610,Hawaiian Airlines,12
+Q920037,J. C. Penney,12
+Q643674,Thermo Fisher Scientific,12
+Q2094989,Sumitomo Mitsui Financial Group,12
+Q7259716,PulteGroup,12
+Q291171,Aegon,12
+Q2114414,Prudential Financial,12
+Q912413,France Télécom,12
+Q6914636,Mortgage Guaranty Insurance Corporation,12
+Q1615684,Hess Corporation,12
+Q26989,Infosys,12
+Q4046987,Pioneer Natural Resources,12
+Q2144525,Scripps Networks Interactive,12
+Q4788901,Arena Pharmaceuticals,12
+Q1816028,National Bank of Greece,12
+Q4799191,Arthur J. Gallagher & Co.,12
+Q682759,Linde Group,12
+Q1534597,Gold Fields,12
+Q5227485,Dataram,12
+Q7921589,Vermilion Energy,12
+Q2103926,UnitedHealth Group,12
+Q20858163,Norfolk Southern Corporation,12
+Q483006,LG Display,12
+Q947718,Reynolds American,12
+Q5047083,Carter's,12
+Q1507642,Huaneng Power International,12
+Q2304693,Southern Company,12
+Q744683,Franklin Templeton Investments,12
+Q4546965,MongoDB Inc.,12
+Q5533818,Genuine Parts Company,12
+Q7742790,The J.M. Smucker Company,12
+Q7392916,SS&C Technologies,12
+Q7616390,Stifel,11
+Q16255113,Jazz Pharmaceuticals,11
+Q3077586,Bilibili,11
+Q21189883,Willis Towers Watson,11
+Q5189320,Crown Castle International Corp.,11
+Q1123399,"Conagra Brands, Inc.",11
+Q1373493,Lowe's,11
+Q5013072,CNA Financial,11
+Q3009498,MSA Safety,11
+Q5451274,FireEye,11
+Q1520122,Getty Images,11
+Q276345,Millicom,11
+Q166621,Mizuho Financial Group,11
+Q18619272,Greenhill & Co.,11
+Q1502712,Genworth Financial,11
+Q368181,Vornado Realty Trust,11
+Q465751,Chipotle Mexican Grill,11
+Q1740314,KeyBank,11
+Q5165314,Continental Resources,11
+Q415598,Akamai Technologies,11
+Q7673435,"Tableau Software, Inc.",11
+Q7727445,The Container Store,11
+Q1056637,The Hershey Company,11
+Q5331380,Eaton Vance,11
+Q2008551,Oaktree Capital Management,11
+Q130624258,Fifth Third Bancorp,11
+Q2448801,TransAlta Corporation,11
+Q290680,ADT Inc.,11
+Q502509,Smith & Nephew,11
+Q75256038,Cronos Group Inc,11
+Q1656230,Phillips 66,11
+Q835370,Yamana Gold,11
+Q806189,Banco Bilbao Vizcaya Argentaria,11
+Q7415751,SandRidge Energy,11
+Q938668,Sina Corporation,11
+Q7308000,Regency Centers,11
+Q1424962,IHG Hotels & Resorts,11
+Q4048013,Range Resources,11
+Q1345971,USA Today Co.,11
+Q6715131,MDC Holdings,11
+Q16959310,CST Brands,10
+Q1548363,Magic Software Enterprises Ltd.,10
+Q12123536,MHP,10
+Q5928181,HudBay Minerals,10
+Q16983765,Prologis,10
+Q16986288,Vail Resorts,10
+Q1265181,Dun & Bradstreet,10
+Q2831861,Albertsons,10
+Q8093,Nintendo,10
+Q1413997,Quantum Corporation,10
+Q899255,LyondellBasell,10
+Q967868,NextEra Energy,10
+Q3319685,Molson Coors Brewing Company,10
+Q2961234,Charter Communications,10
+Q7934906,Virtu Financial,10
+Q7002903,Neustar,10
+Q16980647,InterOil,10
+Q2287759,Simon Property Group,10
+Q1931458,Micro Focus International,10
+Q1053299,CRH,10
+Q486269,Kodak,10
+Q5287613,Docusign,10
+Q105965677,MPLX,10
+Q645525,SunPower,10
+Q643626,Aptiv,10
+Q7239519,Precision Castparts Corp.,10
+Q713418,TSMC,10
+Q5130656,Clear Channel Outdoor,10
+Q2376711,Sysco,10
+Q2659099,Noble Energy,10
+Q1028449,Cameco,10
+Q30325409,Janus Henderson,10
+Q1508234,Safeway,10
+Q903957,Icl Group Ltd,10
+Q7954024,WOW!,10
+Q757307,Atlassian,10
+Q1328252,Eletrobras,10
+Q706094,Stanley Black & Decker,10
+Q4874958,Baytex Energy,10
+Q3312613,Midas,10
+Q1057464,Hilton Worldwide,10
+Q5453752,First Republic Bank,10
+Q855639,Dow Chemical Company,10
+Q851361,Huntsman Corporation,10
+Q19995004,WeWork,10
+Q795454,Barnes & Noble,10
+Q1751032,Plum Creek Timber,10
+Q6690181,LoveSac,10
+Q16250432,Fidelity Southern Corporation,10
+Q1662481,IHS Inc.,10
+Q5586622,Gorman-Rupp Company,10
+Q5527100,Gates Corporation,10
+Q7685824,Targa Resources,9
+Q3157622,Jacobs Engineering Group,9
+Q4809155,Associated Banc-Corp,9
+Q905998,Sasol,9
+Q106253502,TopBuild Corp.,9
+Q739518,Aon plc,9
+Q225440,Celestica,9
+Q5206198,DST Systems,9
+Q1066028,Charles Schwab Corporation,9
+Q5612177,Grupo Aeroportuario del Pacífico,9
+Q2916497,Perrigo Company Plc,9
+Q30100944,Rightside Group,9
+Q48872,Eaton Corporation,9
+Q7455653,ServiceNow,9
+Q1957521,Mitel,9
+Q3297582,Massey Energy,9
+Q17141393,SJW Group,9
+Q815327,Belden,9
+Q663452,TE Connectivity,9
+Q1053560,CenterPoint Energy,9
+Q5429751,FairPoint Communications,9
+Q106253770,Lumentum Holdings,9
+Q17183768,Hub Group,9
+Q2066858,PerkinElmer,9
+Q7171522,"Pet, Inc.",9
+Q2013357,Occidental Petroleum,9
+Q4744822,American Reprographics Company,9
+Q2031726,Westpac,9
+Q644289,Altice USA,9
+Q2357515,Stryker Corporation,9
+Q7501150,Shopify,9
+Q173476,Cummins,9
+Q7098552,Oppenheimer Holdings,9
+Q16983837,Quaker Chemical Corporation,9
+Q3540193,Wayfair,9
+Q1703389,Jones Lang LaSalle,9
+Q648533,Semiconductor Manufacturing International Corporation,9
+Q806206,Bancolombia,9
+Q7924358,Viasat,9
+Q7389067,SCANA,9
+Q7336661,Ritchie Bros. Auctioneers,9
+Q6782872,Masco,9
+Q7252517,Provident Bank of New Jersey,9
+Q6724984,Macquarie Infrastructure Company,9
+Q894558,Boston Beer Company,9
+Q17182243,Oil States International,9
+Q1915049,McCormick & Company,9
+Q1431486,Orange,9
+Q5046846,cars.com,9
+Q533415,Best Buy,9
+Q464092,American Electric Power,9
+Q2909088,Boise Cascade,9
+Q4905973,Big Lots,9
+Q688687,Encana,9
+Q3999691,Tronox,9
+Q741707,Wabtec,9
+Q7814310,Toll Brothers,9
+Q2140077,Tribune Media,9
+Q518016,Unisys,9
+Q479167,Steelcase,9
+Q4743120,American Axle,8
+Q5380687,Entravision Communications,8
+Q18169198,Qorvo,8
+Q7449804,Sempra,8
+Q502344,Lear Corporation,8
+Q18148411,Esterline,8
+Q5082076,Charles River Laboratories,8
+Q1196745,Rambus,8
+Q1206980,Devon Energy,8
+Q7833641,TransUnion,8
+Q4687934,AerCap,8
+Q2140315,Textron,8
+Q853958,NTT DoCoMo,8
+Q5214701,Dana Corporation,8
+Q17077936,Lyft,8
+Q1122299,"Computer Task Group, Incorporated",8
+Q5446791,Fidelity National Financial,8
+Q7615829,Stewart Information Services Corporation,8
+Q7880076,Ulta Beauty,8
+Q319344,Abercrombie & Fitch,8
+Q538203,Patterson Companies,8
+Q21463167,HashiCorp,8
+Q1220078,Diebold Nixdorf,8
+Q7917863,Vectren,8
+Q733482,GoPro,8
+Q839466,Domino's Pizza,8
+Q5842736,Corning Inc.,8
+Q621610,Applied Materials,8
+Q16974741,AMAG Pharmaceuticals,8
+Q2303478,Synopsys,8
+Q85769855,Invitation Homes,8
+Q5045738,Carpenter Technology Corporation,8
+Q813782,Bed Bath & Beyond Inc.,8
+Q634815,Motorola Solutions Incorporated,8
+Q104158381,Vistra,8
+Q3019129,DavidsTea,8
+Q28222763,VIAVI Solutions,8
+Q7417809,Sangamo Therapeutics,8
+Q1066858,Tiffany & Co.,8
+Q5059102,Centene Corporation,8
+Q1975799,Penske Automotive Group,8
+Q1885099,Time Warner Cable,8
+Q127074,Albemarle Corporation,8
+Q2904022,Bio-Rad Laboratories,8
+Q297879,ASML,8
+Q7571413,Southwestern Energy,8
+Q20502124,Alon Blue Square Israel Ltd,8
+Q5272601,Dick's Sporting Goods,8
+Q19605389,Kenon Holdings Ltd,8
+Q22674043,Compass Diversified,8
+Q661845,STMicroelectronics,8
+Q1424293,Itaú Unibanco,8
+Q1524197,Gildan Activewear,8
+Q5517210,GAIN Capital,8
+Q60767471,Norwegian Cruise Line Holdings Ltd.,7
+Q4738904,"AmTrust Financial Services, Inc.",7
+Q291508,AES Corporation,7
+Q30273389,Aptar,7
+Q998470,RELX,7
+Q427881,Royal Caribbean Group,7
+Q85769888,Iovance Biotherapeutics,7
+Q1715931,Tech Data,7
+Q138548226,Figma Inc,7
+Q5170128,Core-Mark,7
+Q25796,AGL Resources,7
+Q742196,Darden Restaurants,7
+Q5009947,CDI Corporation,7
+Q7169774,Perry Ellis International,7
+Q970695,Northern Trust,7
+Q11306218,Service Corporation International,7
+Q203552,Zimmer Biomet Holdings,7
+Q899395,Braskem,7
+Q4914632,BioMarin Pharmaceutical,7
+Q7512923,Signet Jewelers Limited,7
+Q686785,Transocean,7
+Q5926631,HubSpot,7
+Q864407,The Home Depot,7
+Q644167,PLDT,7
+Q16956136,Cato Corporation,7
+Q552363,Starwood,7
+Q16932392,Roper Technologies,7
+Q7002174,Neurocrine Biosciences,7
+Q582418,ITT Corporation,7
+Q29469208,Simpson Manufacturing Company,7
+Q994153,Brunswick Corporation,7
+Q7164054,Pennsylvania Real Estate Investment Trust,7
+Q1400073,Federal Signal Corporation,7
+Q7128508,Palo Alto Networks,7
+Q16836218,AXIS Capital,7
+Q905086,Henry Schein,7
+Q7205253,Plug Power,7
+Q1318848,Intuit,7
+Q1371852,MBIA,7
+Q60764327,Walker & Dunlop,7
+Q3277465,Sirius XM,7
+Q14647,Sun Microsystems,7
+Q1425063,Hyatt Hotels Corporation,7
+Q6805492,Media General,7
+Q16996714,"Amneal Pharmaceuticals, Inc.",7
+Q7241774,Prestige Brands,7
+Q5592433,GrafTech,7
+Q7573905,Spartan Motors,7
+Q5575439,Shanda,7
+Q173941,Electronic Arts,7
+Q5453243,First Majestic Silver,7
+Q161086,JetBlue Airways,7
+Q6783802,Masonite International,7
+Q6015591,Incyte,7
+Q5494350,Fred's,7
+Q851641,Equinix,7
+Q1230295,Genesee & Wyoming,7
+Q4037686,Dunkin' Brands,7
+Q6159625,Jarden,7
+Q461210,Rockwell Collins,7
+Q910368,Clorox,7
+Q4914611,BioCryst Pharmaceuticals,7
+Q324616,Ingram Micro,7
+Q20486917,Welltower,7
+Q4727688,Alkermes,7
+Q470317,Ametek,7
+Q1915579,Mechel,7
+Q48976818,NeoGenomics,7
+Q5985017,Icahn Enterprises,7
+Q4743275,American Campus Communities,7
+Q5468821,Forest City Realty Trust,7
+Q111384730,Stem Inc.,7
+Q1200840,"Energizer Holdings, Inc.",7
+Q609466,Colgate-Palmolive,7
+Q3550736,USG Corporation,7
+Q6415714,Kirkland's,7
+Q38676,Agnico Eagle Mines,6
+Q917131,Regions Financial Corporation,6
+Q154387,Iridium Communications,6
+Q1515039,WME Group,6
+Q1122329,Computer Sciences Corporation,6
+Q684825,ALCON MANAGEMENT SA,6
+Q5547666,Georgia Power,6
+Q1624295,Knoll,6
+Q3331496,Myriad Genetics,6
+Q2985356,NDTV,6
+Q8027166,WEC Energy Group,6
+Q826526,Loews Corporation,6
+Q16834334,CVR Partners,6
+Q50039478,Caris Life Sciences (United States),6
+Q5206207,Designer Brands,6
+Q5272335,dice.com,6
+Q18156798,Astra,6
+Q16829606,Cimarex Energy,6
+Q21198484,Alamo Group,6
+Q296782,Arm Holdings,6
+Q3648676,"Ceva, Inc.",6
+Q5476713,21st Century Fox,6
+Q1353939,Etsy,6
+Q5611081,Group 1 Automotive,6
+Q15109925,Tractor Supply Company,6
+Q3272257,M&T Bank,6
+Q20711490,LKQ Corporation,6
+Q2299611,Yelp,6
+Q3459777,Semtech Corporation,6
+Q6955139,NRG Energy,6
+Q7505672,Shutterfly,6
+Q822614,Alaska Airlines,6
+Q4667884,AbioMed,6
+Q21021003,Xenia Hotels and Resorts,6
+Q63335,Foot Locker,6
+Q1128160,Constellation Brands,6
+Q7969661,Warnaco Group,6
+Q1075788,Choice Hotels,6
+Q6715200,MDU Resources,6
+Q5461913,Florists' Transworld Delivery,6
+Q17512182,Brixmor Property Group,6
+Q5426765,FNB Corporation,6
+Q19604459,Murphy USA,6
+Q13636126,Hilton Grand Vacations,6
+Q4983090,Buckeye Partners,6
+Q7605667,Steel Dynamics,6
+Q65066950,CNX Resources,6
+Q196259,NetEase,6
+Q6675775,LoopNet,6
+Q1134069,Otis Worldwide Corporation,6
+Q7161915,Pembina Pipeline,6
+Q22025568,Stone Energy Corporation,6
+Q27963938,Long Blockchain Corp.,6
+Q806689,Bank of Ireland,6
+Q3388421,Pilgrim's Corp,6
+Q1416215,GoDaddy,6
+Q7005093,NewAlliance Bank,6
+Q21639712,Sibanye-Stillwater,6
+Q7257522,Huntington Ingalls Industries,6
+Q7833612,TransDigm Group Inc.,6
+Q113503453,Summit Therapeutics,6
+Q967265,Kohl's,6
+Q4835545,BGC Partners,6
+Q1138888,First Solar,6
+Q979690,Netgear,6
+Q1781428,L3 Technologies,6
+Q1962059,Nabors Industries,6
+Q18619982,Century Aluminum,6
+Q787044,Autoliv,6
+Q846743,Orbotech,6
+Q3305660,Tailored Brands,6
+Q7695260,Tejon Ranch,6
+Q7120959,PTC Therapeutics,6
+Q727883,NetApp,6
+Q4803735,Asbury Automotive Group,6
+Q1411295,Fidelity National Information Services,6
+Q1199757,Dish,6
+Q600624,CA Technologies,6
+Q5416929,Evercore Partners,6
+Q17142127,Pernix Therapeutics Holdings,6
+Q2825507,AECOM,6
+Q6044894,InterDigital,6
+Q502132,Leidos,6
+Q1549511,Ormat Technologies,6
+Q6410043,Kimco Realty,6
+Q1509038,Tenneco,6
+Q2622493,Rentokil Initial,6
+Q25104482,Banco Latinoamericano de Comercio Exterior,6
+Q47080830,QEP Resources,6
+Q7276640,RGC Resources,6
+Q7516369,SSR Mining,6
+Q26913624,Blue Apron,6
+Q825943,BorgWarner,6
+Q96371983,Amplify Energy,6
+Q176587,Check Point,6
+Q18636524,Caesars Entertainment,6
+Q17074260,Patriot National Bancorp,6
+Q48977470,EPR Properties,6
+Q7669886,TD Ameritrade,6
+Q6544620,LifeLock,6
+Q1347782,Marvell Technology,6
+Q7261135,"Pure Storage, Inc.",6
+Q7881772,Columbia Bank,6
+Q6772994,Marriott Vacations Worldwide Corporation,6
+Q10876705,ZTO Express,6
+Q55622230,MarketAxess,6
+Q10856243,Newegg,6
+Q12521253,The Howard Hughes Corporation,6
+Q4976010,Brown & Brown,6
+Q5388314,Erie Insurance Group,6
+Q3344199,Eversource Energy,6
+Q1591889,Walgreens,6
+Q5426537,FLIR Systems,6
+Q1232862,Eldorado Gold,6
+Q4974387,Brookdale Senior Living,6
+Q4033665,Alaska Air Group,5
+Q24204582,OnDeck Capital,5
+Q8071921,Zillow,5
+Q17141146,CareCloud,5
+Q54953653,B&G Foods,5
+Q7129613,Pan American Silver,5
+Q135281,Alexander & Baldwin,5
+Q77581453,ViewRay,5
+Q127040202,Tempus AI,5
+Q5019738,Calgon Carbon,5
+Q16531742,Valvoline,5
+Q764321,Obsidian Energy,5
+Q2466838,SMART Technologies,5
+Q39055285,Talos Energy,5
+Q2744099,Vertex Pharmaceuticals,5
+Q1140680,Flex Ltd.,5
+Q20714323,DoorDash,5
+Q4376955,Sabre Corporation,5
+Q24896598,Gulf Island Fabrication,5
+Q95205133,Hertz Global Holdings,5
+Q4745263,American Tower Corporation,5
+Q771865,Spectrum Brands,5
+Q1922290,Mesa Air Group,5
+Q7086908,Olin Corporation,5
+Q55614037,Hudson Pacific Properties,5
+Q667865,Johnson Controls plc,5
+Q5452733,First Citizens BancShares,5
+Q1945295,Monster Beverage,5
+Q7935247,Virtus Investment Partners,5
+Q731912,Carrier Corporation,5
+Q5370909,Vertiv,5
+Q16988355,Cloud Peak Energy,5
+Q16982478,NCI Building Systems,5
+Q180922,CAE Inc.,5
+Q6795931,Maximus Inc.,5
+Q6315968,Just Energy,5
+Q29921278,Nio Inc.,5
+Q540891,Nielsen Company,5
+Q2722179,Advantest,5
+Q7538146,Skyworks Solutions,5
+Q6060808,Investment Technology Group,5
+Q7569806,Southern Copper Corporation,5
+Q16980871,Kadant,5
+Q105375474,Sphere 3D,5
+Q5158765,Concord,5
+Q55639320,Bird,5
+Q1061903,Live Nation Entertainment,5
+Q18674747,Booking Holdings,5
+Q7995089,White Mountains Insurance Group,5
+Q747207,Lattice Semiconductor Corporation,5
+Q1383669,Exelon,5
+Q6717732,MSC Industrial Direct,5
+Q145168,Dollar General,5
+Q54871457,Ribbon Communications,5
+Q2609162,Ticketmaster,5
+Q4951483,Box,5
+Q7304530,Red Lion Hotels Corporation,5
+Q7675621,Tahoe Resources,5
+Q16974682,Alnylam Pharmaceuticals,5
+Q2006989,YPF,5
+Q19903490,Navient,5
+Q2119898,Denbury Resources,5
+Q6819538,Meritage Homes Corporation,5
+Q4732268,AllianceBernstein,5
+Q1785549,Peabody Energy,5
+Q18754966,Tradeweb Llc,5
+Q4740289,Amarin Corporation,5
+Q6770621,Markel Corporation,5
+Q28406599,Workhorse Group,5
+Q5881864,HF Sinclair,5
+Q1189695,Denny's,5
+Q1760641,Parametric Technology Corporation,5
+Q4908047,Bill Barrett Corporation,5
+Q62065645,Blink,5
+Q7752327,The Mosaic Company,5
+Q48739877,Alexandria Real Estate Equities,5
+Q7450899,Senomyx,5
+Q7581369,Sprouts Farmers Market,5
+Q7360089,"Roku, Inc.",5
+Q4861529,Barnes Group,5
+Q24908086,Washington Prime Group,5
+Q653581,Fluor,5
+Q315287,Qiagen,5
+Q1104787,Coty,5
+Q20022777,Sanderson Farms,5
+Q39052499,Tonix Pharmaceuticals,5
+Q1044059,Carnival Corporation & plc,5
+Q16985829,Tupperware Brands,5
+Q6541837,QVC Group,5
+Q56421559,Huami Corporation,5
+Q4929570,Blue Nile Inc.,5
+Q8033550,Woodward,5
+Q4698062,Air Lease,5
+Q816379,Bemis Company,5
+Q7010502,New Mountain Capital,5
+Q5696498,Hecla Mining,5
+Q21077,Warner Music Group,5
+Q28222794,BlackLine,5
+Q55075186,Park Hotels & Resorts,5
+Q1155729,Scholastic Corporation,5
+Q156376,Vimeo,5
+Q223127,Logitech,5
+Q5092882,Chesapeake Utilities,5
+Q24110304,Brookfield Property Partners,5
+Q18191351,Elbit Limited,5
+Q16999030,Lakeland Industries,5
+Q14662364,AbbVie,5
+Q16975402,Euroseas,5
+Q772813,Univar Solutions,5
+Q1123366,Con-way,5
+Q1673079,Iron Mountain Incorporated,5
+Q621532,Applebee's,5
+Q447855,Aluminum Corporation of China,5
+Q791285,Avon Products Inc.,5
+Q5123314,City National Bank,5
+Q7516654,Silvercorp Metals,5
+Q19757566,Pluralsight,5
+Q1459595,Revlon,5
+Q17110635,Heidrick & Struggles,5
+Q1508526,"Sturm, Ruger & Co.",5
+Q691592,GlobalFoundries,5
+Q15727302,Arcos Dorados Holdings,5
+Q17149417,U.S. Concrete,5
+Q726654,Glatfelter,5
+Q5156101,Compass Minerals,5
+Q1407601,Grupo Aeroportuario del Sureste,5
+Q13529408,Brookfield Infrastructure Partners,5
+Q4736257,Alteon WebSystems,5
+Q7949044,WESCO International,5
+Q28782856,DXC Technology,5
+Q124724566,Employers Holdings Inc,5
+Q5649395,Hanover Insurance,5
+Q19854317,Vipshop,5
+Q1022711,CACI,5
+Q5884072,Hologic,5
+Q26215536,Axalta Coating Systems,5
+Q17153461,Civeo Corporation,5
+Q650259,Fresenius Medical Care,5
+Q6496310,Banco Santander,5
+Q790060,Broadcom,5
+Q1925384,IDT Corporation,5
+Q23680081,PJT Partners,5
+Q608776,Cadence Design Systems,5
+Q21072695,Vista Outdoor,5
+Q6791878,Mattress Firm,5
+Q7571280,Southwest Gas,5
+Q7894082,Universal Technical Institute,5
+Q6389509,Kennametal,5
+Q16984687,SM Energy,5
+Q2899735,QAD Inc,5
+Q10397787,"Aaron's, Inc.",5
+Q7981065,WellCare,5
+Q18111091,Cheetah Mobile,4
+Q7884645,UniFirst,4
+Q7562151,Sonoco,4
+Q6545004,Life Time,4
+Q17131128,Rockwell Medical Inc.,4
+Q17082992,SPS Commerce,4
+Q16983368,Park Electrochemical Corp,4
+Q3403513,Principal Financial Group,4
+Q5311573,Ducommun,4
+Q6806861,Medifast,4
+Q65091423,Diamondback Energy,4
+Q5324991,EagleBank,4
+Q5923178,Itron,4
+Q7830012,Town Sports International Holdings,4
+Q48814381,Aphria,4
+Q5762186,Hill International,4
+Q2749364,Fortinet,4
+Q7847309,TrueCar,4
+Q1786345,Marsh & McLennan Companies,4
+Q1341590,Enerplus,4
+Q4748634,Amrep Corporation,4
+Q689475,Laureate Education,4
+Q60742568,CalAmp,4
+Q4886950,Benchmark Electronics,4
+Q1137289,Nuance Communications,4
+Q19867294,WPX Energy,4
+Q5173965,Xively,4
+Q6758107,Marcus Corporation,4
+Q1758392,"IDEXX Laboratories, Inc.",4
+Q1666040,"Interface, Inc.",4
+Q1562826,VEON,4
+Q96418958,Miller Industries,4
+Q5509271,Funko,4
+Q5533602,Gentex,4
+Q2162158,BOK Financial Corporation,4
+Q1477661,PACCAR,4
+Q35339,WWE,4
+Q5204430,DBV Technologies,4
+Q7416970,Sandstorm Gold,4
+Q5761967,HillRom,4
+Q5182813,Crawford & Company,4
+Q951259,Murphy Oil,4
+Q1984481,NiSource,4
+Q434017,Altair Engineering,4
+Q5986662,Iconix Brand Group,4
+Q4922539,Blackbaud,4
+Q2032800,Ally Financial,4
+Q4993917,Varian Medical Systems,4
+Q1190598,Spirit Airlines,4
+Q7132349,Papa Murphy's,4
+Q30283141,Superconductor Technologies,4
+Q22906645,Magellan Midstream Partners,4
+Q283457,E. W. Scripps Company,4
+Q7555824,SolarCity,4
+Q1134746,Legg Mason,4
+Q17012234,Enphase Energy,4
+Q7912506,Valmont Industries,4
+Q93520415,Sea Ltd,4
+Q738770,Western Digital,4
+Q4792281,Arlington Asset Investment,4
+Q645072,Dean Foods,4
+Q5373589,Emmis Communications,4
+Q16981897,Mercury Insurance Group,4
+Q85801645,Smartsheet Inc.,4
+Q33127130,TrueBlue,4
+Q204727,Alexion Pharmaceuticals,4
+Q7201095,Planet Fitness,4
+Q4034815,Ball Corporation,4
+Q2319810,St. Jude Medical,4
+Q4751068,Analogic Corporation,4
+Q1192211,Strategy,4
+Q25230554,21Vianet,4
+Q56011958,Tencent Music,4
+Q5968523,IberiaBank Corporation,4
+Q5970002,IDEX Corporation,4
+Q596499,"KBR, Inc.",4
+Q1344587,Entergy,4
+Q4816513,Atlantic Power Corporation,4
+Q7838954,Trevena Inc,4
+Q6978096,National Retail Properties,4
+Q1224697,DigitalGlobe,4
+Q7627777,Student Transportation Inc.,4
+Q2414097,The Scotts Miracle-Gro Company,4
+Q143435,Unum,4
+Q6955096,Link Motion Inc,4
+Q474383,Ballard Power Systems,4
+Q628051,Autodesk,4
+Q620875,Goodyear Tire and Rubber Company,4
+Q7830269,Townsquare Media,4
+Q48971221,Delphi Technologies,4
+Q1812555,Leggett & Platt,4
+Q17080768,Silicon Graphics International,4
+Q6968762,Natera,4
+Q7331170,RCI Hospitality Holdings,4
+Q17086972,Huron Consulting Group,4
+Q256598,SemGroup,4
+Q65080540,Renewable Energy Group,4
+Q28127133,ElectraMeccanica,4
+Q784804,AutoNation,4
+Q3100337,Gemplus,4
+Q656165,Halliburton,4
+Q1073306,China Life Insurance Company,4
+Q125447264,Abacus Life,4
+Q6715642,MFS Investment Management,4
+Q18619467,Rayonier Advanced Materials,4
+Q2495283,United Online,4
+Q1511043,Gerdau,4
+Q5194189,Cumulus Media,4
+Q477993,iHeartMedia,4
+Q1275577,EOG Resources,4
+Q19866632,ClearSign Combustion,4
+Q8040120,Wyndham Hotels & Resorts,4
+Q5453330,First Midwest Bancorp,4
+Q915543,Briggs & Stratton,4
+Q8058700,Younkers,4
+Q1545076,Microchip Technology,4
+Q750124,Cabot Corporation,4
+Q110360228,Corporacion America Airports,4
+Q5457038,Flagstar Bank,4
+Q7119110,PFSweb,4
+Q1784126,Koppers,4
+Q25103752,UMH Properties,4
+Q1053348,Cemex,4
+Q462984,Ameren,4
+Q6744211,Mallinckrodt Pharmaceuticals,4
+Q426583,Sanmina Corporation,4
+Q7268802,Qualys,4
+Q5506152,Frost Bank,4
+Q5309468,DryShips Inc,4
+Q447403,Alumina Limited,4
+Q5089544,Chegg,4
+Q4744841,American River Bank,4
+Q17072200,Novavax,4
+Q1538585,Kelly Services,4
+Q17062565,Hyundai Motor America,4
+Q16985452,Brooks Automation,4
+Q761965,Baxter International,4
+Q15915960,Xunlei Limited,4
+Q7018524,Newmark Group,4
+Q464996,Nortel,4
+Q5157220,Compugen Ltd.,4
+Q7067716,NuVasive,4
+Q16988318,Clean Diesel Technologies,4
+Q6955706,"NVR, Inc.",4
+Q6662684,General Cable,4
+Q20667333,NextEra Energy Partners,4
+Q7084833,Old Republic International,4
+Q1107035,Cognizant,4
+Q463090,Smith & Wesson,4
+Q2178198,Ryder,4
+Q484930,Analog Devices,4
+Q20979194,American Homes 4 Rent,4
+Q7391016,SL Green Realty,4
+Q106221634,U-Haul Holding Company,4
+Q16974527,Dover Corporation,4
+Q7808625,Slack Technologies,4
+Q7989598,Westport Innovations,4
+Q7796068,Thor Industries,4
+Q7277601,RPX Corporation,4
+Q6654568,Liveperson Inc.,4
+Q5038056,Carbonite,4
+Q30287734,Corbus Pharmaceuticals,4
+Q16844753,Horizon Therapeutics,4
+Q1631922,Snap-on,4
+Q1055390,Cerner,4
+Q974846,IAC,4
+Q7248721,Progressive Corporation,4
+Q373225,Virgin Galactic,4
+Q5312314,Duff & Phelps,4
+Q4826087,AutoZone,4
+Q17143142,REX American Resources,4
+Q6982488,Navios Maritime Holdings,4
+Q17114308,Nektar Therapeutics,4
+Q106238577,Athene Holding,4
+Q7695737,TTEC,4
+Q7662493,Synnex,4
+Q5090406,Chemical Financial Corporation,4
+Q7313497,Rent-A-Center,4
+Q162852,SurveyMonkey,4
+Q5421507,Exponent,4
+Q6398035,Key Energy Services,4
+Q474621,Amphenol,4
+Q5683881,Havertys,4
+Q7309325,Regis Corporation,4
+Q2417728,Kraton Polymers,4
+Q1676726,J. Walter Thompson,4
+Q27065,Gogo Inflight Internet,4
+Q7165802,People's United Financial,4
+Q621592,"Discovery, Inc.",4
+Q327646,Enron,4
+Q109565934,Opiant Pharmaceuticals,4
+Q4811929,Asure Software,4
+Q15109916,Otelco,4
+Q7057831,Northeast Bank,4
+Q6955989,NW Natural,4
+Q1138073,Coventry Health Care,4
+Q8024771,Windstream Holdings,4
+Q541076,AngloGold Ashanti,4
+Q7361273,Rollins Inc.,4
+Q5969568,ICG Group,4
+Q5453008,First Financial Bank,4
+Q127690442,First Financial Bancorp,4
+Q5275969,Digital Realty Trust,4
+Q18151094,Kirby Corporation,4
+Q7912152,Valley National Bank,4
+Q2974454,Frontier Communications,4
+Q7271499,Questar Corporation,4
+Q18324720,Cnova,4
+Q224751,Lennox International,4
+Q173395,Cisco,4
+Q105099852,Seritage Growth Properties,4
+Q7915220,Worldpay,4
+Q3067119,Fastenal,4
+Q7319192,Rex Energy,4
+Q2007484,Oklahoma Gas & Electric,4
+Q128738,Anheuser-Busch InBev,4
+Q4931457,Boardwalk Pipeline Partners,4
+Q5206232,DTE Energy,4
+Q5552410,Geron Corporation,4
+Q43452224,RYB Education,4
+Q7606770,Stein Mart,3
+Q63862184,Braemar Hotels & Resorts,3
+Q3072937,First Hawaiian Bank,3
+Q460446,Amdocs,3
+Q1127536,Consolidated Edison,3
+Q60740820,"Arlo Technologies, Inc.",3
+Q4741030,Ambarella Inc.,3
+Q467238,American Water Works,3
+Q6522340,Lending Club,3
+Q15109891,Innospec,3
+Q15030582,CooperVision,3
+Q1341588,EnerSys,3
+Q288129,ACCO Brands,3
+Q7809764,Titan Machinery,3
+Q113153195,DiDi Global,3
+Q934853,Motorola Mobility,3
+Q4928282,Bloomin' Brands,3
+Q5617509,Gulf Power Company,3
+Q5648633,Hanmi Bank,3
+Q56273715,"Tapestry, Inc.",3
+Q5152058,CommVault Systems,3
+Q24915031,Envestnet,3
+Q1627894,W. W. Grainger,3
+Q1144929,Lafarge,3
+Q7271456,Quest Diagnostics,3
+Q4733161,Allot Ltd,3
+Q6806775,Medicis Pharmaceutical,3
+Q3433273,Rite Aid,3
+Q11074156,ONEOK,3
+Q5201295,CytRx,3
+Q7638158,Sunrun,3
+Q7972797,Waste Connections,3
+Q7943726,Vuzix,3
+Q2552219,"Waste Management, Inc",3
+Q85846831,OceanFirst Bank,3
+Q15109846,Sarepta Therapeutics,3
+Q7314415,Republic Services,3
+Q5484477,Franco-Nevada,3
+Q4928676,Blucora,3
+Q344341,Activision Blizzard,3
+Q14993631,Science Applications International Corporation,3
+Q356212,Fossil,3
+Q7162745,Pengrowth Energy,3
+Q5055187,Cavium,3
+Q2266483,AVG Technologies,3
+Q1776022,Equinor ASA,3
+Q6893780,Mohawk Industries,3
+Q1486956,Xcel Energy,3
+Q2373884,Sykes Enterprises,3
+Q5512854,GAMCO Investors,3
+Q5629392,Home Depot Supply,3
+Q24887050,Nikola Corporation,3
+Q745099,Kyocera,3
+Q4982028,Bsquare corporation,3
+Q1136433,Costamare,3
+Q5969799,ICU Medical,3
+Q7109415,Otter Tail Corporation,3
+Q7501097,ShopRite,3
+Q20714950,Primoris Services Corporation,3
+Q4705296,Alabama Power,3
+Q5357940,Electro Scientific Industries,3
+Q5120253,Cincinnati Financial,3
+Q7385029,"Ryerson, Inc.",3
+Q1157767,Daktronics,3
+Q5122694,Citizens Financial Group,3
+Q7119849,TXNM Energy,3
+Q2393592,Indosat,3
+Q1683034,Janus Capital Group,3
+Q17020720,SoFi,3
+Q17068000,Mackinac Financial Corporation,3
+Q5629432,HEICO,3
+Q3485048,Sinovac Biotech,3
+Q1269170,Dynegy,3
+Q113459125,AMTD Digital,3
+Q2305438,PT Telkom Indonesia (Persero),3
+Q7067710,NuScale,3
+Q5330003,Eastern Bank,3
+Q6776123,Martin Marietta Materials,3
+Q445007,Altria,3
+Q15238661,CNH Industrial,3
+Q6952158,NACCO Industries,3
+Q101209811,Pool Corporation,3
+Q6468754,Spire Inc.,3
+Q5058678,Cementos Pacasmayo,3
+Q849404,Copa Airlines,3
+Q4828605,Aviat Networks,3
+Q106301677,WillScot Mobile Mini Holdings Corp.,3
+Q107364296,Orchard Therapeutics,3
+Q5578424,Golar LNG,3
+Q880296,Black Hills Corporation,3
+Q212433,Avaya,3
+Q977627,Starz Inc.,3
+Q6787989,"Matson, Inc.",3
+Q5018092,Cal-Maine,3
+Q3341241,Nidec,3
+Q15109913,Netlist Inc.,3
+Q7236078,Powell Industries,3
+Q392221,Brown-Forman,3
+Q16733729,Kosmos Energy,3
+Q6735371,Maiden Holdings,3
+Q4033073,Arris Group,3
+Q25245312,Rush Enterprises,3
+Q7246635,ProAssurance,3
+Q7296403,Raven Industries,3
+Q4648219,A. O. Smith,3
+Q2645636,Allstate,3
+Q7561788,Sonic Automotive,3
+Q1023155,CDW,3
+Q7907809,Vaalco Energy,3
+Q3973262,Stericycle,3
+Q930919,Public Service Enterprise Group,3
+Q2004423,FEI Company,3
+Q6782217,MasTec,3
+Q2091479,Nice Ltd,3
+Q813780,Becton Dickinson,3
+Q1045842,The Cheesecake Factory,3
+Q577911,"Pepco Holdings, Inc.",3
+Q22121866,Exact Sciences,3
+Q16996000,Houston Wire & Cable,3
+Q931233,Cision,3
+Q4636301,3D Systems,3
+Q4653724,ARIAD Pharmaceuticals,3
+Q28402394,Home BancShares,3
+Q7049673,Noodles & Company,3
+Q6367245,Kapstone,3
+Q6541925,Liberty Property Trust,3
+Q39075113,Scorpio Tankers,3
+Q6109309,J & J Snack Foods,3
+Q62621,Canon Inc.,3
+Q7696143,Teleflex,3
+Q203386,Zim Integrated Shipping Services Ltd,3
+Q4674547,Acorn Energy,3
+Q2466256,U.S. Cellular,3
+Q175106,Tim Hortons,3
+Q2404292,Teradyne,3
+Q1342041,Lam Research,3
+Q15109880,Harmonic Inc.,3
+Q3093459,GW Pharmaceuticals,3
+Q5644848,Hamilton Beach Brands,3
+Q8042415,"XPO, Inc.",3
+Q4686194,Advanced Energy,3
+Q7229656,"Popular, Inc.",3
+Q7833614,TFI International,3
+Q484143,Gravity Corporation,3
+Q7669439,Tat Technologies Ltd,3
+Q16157155,A10 Networks,3
+Q4957288,Brandywine Realty Trust,3
+Q30256497,Perma-Fix Environmental Services,3
+Q5154604,CommunityOne Bank,3
+Q8072593,ZipRealty,3
+Q48791239,Maxar Technologies,3
+Q7392495,SPDR,3
+Q6426028,Kohlberg & Company,3
+Q3853691,Mediacom,3
+Q5278020,Dine Brands Global,3
+Q1543874,The Hertz Corporation,3
+Q332477,Victoria’s Secret,3
+Q135579976,Uniti,3
+Q380,Meta Platforms,3
+Q7955609,WSFS Bank,3
+Q5763038,"Hillenbrand, Inc.",3
+Q1477156,Seadrill,3
+Q1824441,Life Technologies,3
+Q5639346,Hain Celestial Group,3
+Q7983629,WesBanco,3
+Q963809,Polycom,3
+Q1470619,Parker Hannifin,3
+Q7084595,Old National Bank,3
+Q16982326,Mueller Water Products,3
+Q17326957,Westlake Corporation,3
+Q5099579,China Automotive Systems,3
+Q30281437,Celldex Therapeutics,3
+Q1335585,Emerson Electric,3
+Q2108251,Precision Drilling,3
+Q18385610,Stitch Fix,3
+Q1660027,The McClatchy Company,3
+Q4833850,B.O.S. Better Online Solutions,3
+Q17088705,Spanish Broadcasting System,3
+Q4671580,Acadia Pharmaceuticals,3
+Q1780382,Weyerhaeuser,3
+Q7114733,Owens & Minor,3
+Q5207184,DaVita,3
+Q7120810,PS Business Parks,3
+Q638036,Arctic Cat,3
+Q120946412,Limbach Holdings,3
+Q1254149,Dr Pepper Snapple Group,3
+Q4732492,Alliant Energy,3
+Q183184,Sabesp,3
+Q106295041,Digital Turbine,3
+Q1410137,Houlihan Lokey,3
+Q7889101,United Rentals,3
+Q7696488,Telephone and Data Systems,3
+Q7537214,"SkyWest, Inc.",3
+Q7231939,Portland General Electric,3
+Q491325,Shinhan Financial Group,3
+Q8025339,Wingstop,3
+Q8041964,XG Technology,3
+Q65085822,Affirm,3
+Q25004808,Diplomat Pharmacy,3
+Q6522334,"Black Knight, Inc.",3
+Q6113060,Jack Henry & Associates,3
+Q16840288,Griffon Corporation,3
+Q20311716,Axovant Sciences,3
+Q6981538,Evogene Ltd,3
+Q7707945,Texas Roadhouse,3
+Q1129847,Cooper Tire & Rubber Company,3
+Q4974587,Brookfield Renewable,3
+Q464767,American Greetings,3
+Q2450722,Cellcom Israel Ltd.,3
+Q1502794,GEO Group,3
+Q6107753,JA Solar Holdings,3
+Q124129932,Fidelity D & D Bancorp,3
+Q5198104,Cyclacel,3
+Q21196367,Black Stone Minerals,3
+Q7090375,Omnicare,3
+Q6550657,Lincoln Electric,3
+Q1850587,Polaris,3
+Q5570544,Global Payments,3
+Q5170174,Core Laboratories,3
+Q124724103,Eagle Bulk Shipping Inc.,3
+Q22121862,Applied Genetic Technologies Corporation,3
+Q202210,GameStop,3
+Q7958645,Wabash National,3
+Q4718099,Alexander's,3
+Q5446775,Fidelity & Guaranty Life,3
+Q757135,Atlas Air,3
+Q7555837,SolarWinds,3
+Q7939183,VocalTec,3
+Q17109642,Sandy Spring Bank,3
+Q524989,NCR Corporation,3
+Q16920636,United Bank,3
+Q690604,Axon Enterprise,3
+Q7875835,US Airways Group,3
+Q60764012,Pattern Energy,3
+Q2034659,Extreme Networks,3
+Q2286044,Silicon Laboratories,3
+Q725793,Union Pacific Railroad,3
+Q1132272,PVH Corp.,3
+Q30298339,POET Technologies,3
+Q96575127,PennantPark Investment Corporation,3
+Q30282590,"Precigen, Inc",3
+Q1091783,Ciena,3
+Q25245434,Aerie Pharmaceuticals,3
+Q691637,Gol Linhas Aéreas,3
+Q7095328,Ooma,3
+Q17114199,NeoGen,3
+Q7880250,Ultimate Software,3
+Q6537727,Lexicon Pharmaceuticals,3
+Q24890758,CrowdStrike,3
+Q305473,"IQVIA Holdings, Inc.",3
+Q6035325,InnerWorkings,3
+Q2071102,Primo Water,3
+Q1144473,CureVac,3
+Q2594130,Worthington Industries,3
+Q4868109,Bassett Furniture,3
+Q5501354,FreightCar America,3
+Q103793759,Cardlytics,3
+Q1641437,Ralph Lauren Corporation,3
+Q784022,Renren,3
+Q30256843,bluebird bio,3
+Q7272057,QuinStreet,3
+Q25326524,Mesoblast,3
+Q3492619,Sonos,3
+Q16824426,Agios Pharmaceuticals,3
+Q7575161,Spectra Energy,3
+Q48741327,Micron Products,3
+Q8025558,Winnebago Industries,3
+Q4930359,Bluegreen Corporation,3
+Q5595849,Granite Construction,3
+Q7974766,Watsco,3
+Q4650685,ACI Worldwide,3
+Q7888979,United Natural Foods,3
+Q7457122,Sevcon,3
+Q5162777,Conseco,3
+Q23018189,Albany International,3
+Q59089890,Qudian,3
+Q54622058,Texas Capital Bank,3
+Q7242563,PriceSmart,3
+Q1129117,Tupperware,3
+Q98424095,M/I Homes,3
+Q3216588,Lamar Advertising Company,3
+Q1433308,Harris Corporation,3
+Q5140275,Codexis,3
+Q16957733,China Yuchai International,3
+Q27150140,Ameris Bancorp,3
+Q21874220,"Atara Biotherapeutics, Inc.",3
+Q17499083,58.com,3
+Q5972866,ION Geophysical,3
+Q7160600,Pegasystems,3
+Q4677870,Acuity Brands,3
+Q7233641,Post Consumer Brands,3
+Q3482689,Shutterstock,3
+Q26311,Aflac,3
+Q19867417,SeaChange International,3
+Q7848008,Trupanion,3
+Q7809768,Titan Pharmaceuticals,3
+Q4969137,Bristow Helicopters,3
+Q17109460,Mack-Cali Realty Corporation,3
+Q5056859,Cedar Realty Trust,3
+Q48881,Sherwin-Williams,3
+Q16997126,Intercept Pharmaceuticals,3
+Q4688714,Aethlon Medical,3
+Q1139541,Frontier Airlines,3
+Q7800873,Tidewater,3
+Q4692116,Agenus,3
+Q3552193,Urban Outfitters,3
+Q5376971,Energy Recovery Inc.,3
+Q2581220,"Williams-Sonoma, Inc.",3
+Q5050852,Destination XL Group,3
+Q5190505,CryoLife,3
+Q6750663,MannKind Corporation,3
+Q4650338,ABM Industries,3
+Q170416,Koninklijke Philips Electronics N.V.,2
+Q8035757,World Fuel Services,2
+Q6522339,LendingTree,2
+Q100321332,United Nuclear Corporation,2
+Q5597139,Graphic Packaging,2
+Q17182820,Cytosorbents,2
+Q4047452,"Proofpoint, Inc.",2
+Q28446528,Renasant Bank,2
+Q2331913,Stantec,2
+Q16984188,Rogers Corporation,2
+Q1591976,Haynes International,2
+Q21992261,"American Public Education, Inc.",2
+Q6952868,NBT Bank,2
+Q5472859,Fortune Brands Home & Security,2
+Q8178679,MainSource Bank,2
+Q7299366,Rayonier,2
+Q1065090,Intersil,2
+Q7276947,RLI Corp.,2
+Q6511665,Lechters Housewares,2
+Q2157448,Robert Half,2
+Q56585268,10X Genomics,2
+Q60480286,Tilray,2
+Q17086475,Ultralife Corporation,2
+Q852787,Groupon,2
+Q672885,Tyco International,2
+Q5398941,Esperion Therapeutics,2
+Q56527497,"Neenah, Inc.",2
+Q7776719,The York Water Company,2
+Q7847653,Trulia,2
+Q7289304,RPT Realty,2
+Q1106938,Cogent Communications,2
+Q4751693,Anaren,2
+Q123269714,TTM Technologies,2
+Q6990264,Nelnet,2
+Q20708193,Live Oak Bank,2
+Q17080510,Mattersight Corporation,2
+Q5116536,Church & Dwight,2
+Q124224170,Aehr Test Systems,2
+Q30280160,Elanco,2
+Q4698090,Air Methods,2
+Q17125902,ZIOPHARM Oncology,2
+Q1577907,Lionbridge,2
+Q17145997,UFP Technologies,2
+Q1159256,Danaher Corporation,2
+Q1058722,Shake Shack,2
+Q7937913,Vivint Solar,2
+Q5209286,Daily Journal Corporation,2
+Q7727656,The Corporate Executive Board Company,2
+Q104480012,Axsome Therapeutics,2
+Q17073430,Organovo,2
+Q17078981,Carrols Restaurant Group,2
+Q17113791,Middlesex Water Company,2
+Q23090931,Outfront Media,2
+Q5063137,Century Casinos,2
+Q91498427,U.S. Auto Parts,2
+Q6702957,Lululemon Athletica,2
+Q136654090,ProPhase Labs,2
+Q2142669,AmBev,2
+Q17006727,Kandi Technologies,2
+Q7617297,Stillwater Mining Company,2
+Q7554565,Sogou,2
+Q1585599,Harman International Industries,2
+Q16974697,Exterran Holdings,2
+Q54621346,BiondVax,2
+Q25775,Affiliated Managers Group,2
+Q7268803,Qualtrics,2
+Q3996930,Tower International,2
+Q5277215,Dime Community Bank,2
+Q1825763,Lincoln National Corporation,2
+Q19604285,Adams Resources & Energy Inc.,2
+Q15831130,Infoblox,2
+Q694872,Torm PLC,2
+Q20715093,Teladoc,2
+Q1425316,SLB,2
+Q15109905,Maxygen,2
+Q17147182,Zynex,2
+Q27988152,Federal Realty Investment Trust,2
+Q4906978,Biglari Holdings Inc.,2
+Q16933746,SEACOR Holdings,2
+Q2124539,RR Donnelley,2
+Q22078063,Snowflake Inc.,2
+Q22909604,"Valhi, Inc.",2
+Q16958713,Clarcor,2
+Q56276186,Peloton,2
+Q27346316,Fortress Biotech,2
+Q1107088,"Coherent, Inc.",2
+Q4688284,Aerohive Networks,2
+Q6902090,Monro Muffler Brake,2
+Q2882085,Banco de Chile,2
+Q2453426,Trina Solar,2
+Q5270905,Diamond Resorts,2
+Q483946,POSCO,2
+Q16335785,Pivotal Software,2
+Q785943,Staples Inc.,2
+Q16959629,Nutanix,2
+Q55627388,Okta,2
+Q7917805,Vector Group,2
+Q5426582,FLY Leasing,2
+Q7191691,Pier 1 Imports,2
+Q96482451,MEDLEY,2
+Q19876423,Hyster-Yale Materials Handling,2
+Q4749580,Amyris,2
+Q48647846,C&J Energy Services,2
+Q6746136,ManTech International,2
+Q5748967,Hexcel,2
+Q5281775,Discover Financial,2
+Q286214,AAON,2
+Q121033088,Standard Lithium Ltd,2
+Q806215,Santander Group,2
+Q2839509,Alpha Natural Resources,2
+Q30284052,Athersys,2
+Q7250893,Prosperity Bancshares,2
+Q96481629,Ellomay Capital Ltd,2
+Q7738224,The Greenbrier Companies,2
+Q2059537,Arrow Electronics,2
+Q7978891,Webster Bank,2
+Q100323973,Whitestone REIT,2
+Q6801109,McEwen Mining,2
+Q121816947,Victory Capital,2
+Q8073337,Zoetis,2
+Q16988748,CoStar Group,2
+Q20486937,Superior Energy Services,2
+Q13529476,Sierra Wireless,2
+Q16974884,American States Water,2
+Q12859164,National Fuel Gas,2
+Q7313510,Rent The Runway,2
+Q1477575,Smithfield Foods,2
+Q17143144,PacWest Bancorp,2
+Q935059,Toro,2
+Q1815011,Pacific Gas and Electric Company,2
+Q30268745,AC Immune,2
+Q5376661,Endurance International Group,2
+Q6794502,MaxLinear,2
+Q17551096,Keysight Technologies,2
+Q18217462,Tandy Leather Factory,2
+Q5972276,Voya Financial,2
+Q7893954,Universal Forest Products,2
+Q15917534,FutureFuel,2
+Q546880,Kinross Gold,2
+Q7980370,Weis Markets,2
+Q452340,HSN,2
+Q824278,Six Flags,2
+Q15109865,Dexcom,2
+Q206678,OTE,2
+Q4045977,Belmond,2
+Q5099546,ChinaCache,2
+Q386193,Coeur Mining,2
+Q11159866,Gilat Satellite Networks Ltd.,2
+Q787324,BEA Systems,2
+Q7850758,TubeMogul,2
+Q4119347,A. T. Cross Company,2
+Q28776959,Richardson Electronics,2
+Q6391583,La-Z-Boy,2
+Q420506,Wix.com,2
+Q1740323,Key Tronic,2
+Q60763554,Urstadt Biddle Properties,2
+Q2995071,Constellium,2
+Q115978123,"One Stop Systems, Inc.",2
+Q19604577,Tempur Sealy International,2
+Q2167391,Gateway,2
+Q4810399,Assurant,2
+Q85811579,UPC Insurance,2
+Q5554922,"Gevo, Inc",2
+Q112038007,Leonardo DRS,2
+Q2843029,American Superconductor,2
+Q124668353,Surgery Partners,2
+Q1364176,Wipro,2
+Q5192265,Cubist Pharmaceuticals,2
+Q5643474,Halozyme Therapeutics,2
+Q1818970,Telkom,2
+Q846246,Neonode,2
+Q5503081,Freshpet,2
+Q6029685,Infinera,2
+Q23680018,Wintrust Financial,2
+Q390074,Houghton Mifflin Harcourt,2
+Q16985465,Textainer Group Holdings,2
+Q2037080,Tesoro Corporation,2
+Q1321054,Norfolk Southern Railway,2
+Q28404585,DCP Midstream Partners,2
+Q625708,Aramark,2
+Q5265143,Destination Maternity Corporation,2
+Q7682888,Tanger Inc.,2
+Q6896175,Molina Healthcare,2
+Q2838738,Pampa Energía,2
+Q612714,Sunrise Senior Living,2
+Q7248285,Profire Energy,2
+Q104875961,GRAIL,2
+Q7017778,Newfield Exploration,2
+Q56582970,Blueprint Medicines (United States),2
+Q106301317,TG Therapeutics,2
+Q4818872,Atwood Oceanics,2
+Q7851426,Tuesday Morning,2
+Q16974631,Ellie Mae,2
+Q20714863,Coca-Cola FEMSA,2
+Q4854759,Bandwidth.com,2
+Q7903503,Utz Brands,2
+Q7314050,RepliWeb,2
+Q2506396,Voxx International,2
+Q30283331,Inovio Pharmaceuticals,2
+Q4914627,Bioline Rx Ltd.,2
+Q24204493,Veeva Systems,2
+Q790650,Avery Dennison,2
+Q7165001,Pentair,2
+Q16240807,AutoWeb,2
+Q2036530,Allison Transmission,2
+Q104822216,Penumbra,2
+Q1195490,RadioShack,2
+Q7385192,Ryman Hospitality Properties,2
+Q7856971,Tutor Perini,2
+Q4838903,Bachoco,2
+Q7876045,UTStarcom,2
+Q117061817,Boston Private Financial Holdings,2
+Q5532704,Genesco,2
+Q30269121,Kura Oncology,2
+Q3421578,RealD,2
+Q5023914,Calpine,2
+Q4745391,American Woodmark,2
+Q223407,Novell,2
+Q20687182,Talen Energy,2
+Q8038871,WuXi AppTec,2
+Q119844805,Hamilton Lane,2
+Q4474231,Jakks Pacific,2
+Q4876829,Beasley Broadcast Group,2
+Q47016300,Autohome,2
+Q17079580,SciQuest,2
+Q6735891,MainConcept,2
+Q7837478,Tredegar corporation,2
+Q16958009,Isac,2
+Q80635,Airgas,2
+Q1572831,Yingli,2
+Q29641502,"Aware, Inc.",2
+Q111839764,SVB Financial Group,2
+Q8075252,Zumiez,2
+Q18636367,Extreme Reach,2
+Q17144598,Unitil Corporation,2
+Q916196,Citrix Systems,2
+Q92639564,Arconic,2
+Q7119231,PHH Corporation,2
+Q5161257,Conn's,2
+Q7909276,Valassis,2
+Q8072594,ZipRecruiter,2
+Q17562023,NewMarket Corporation,2
+Q16980898,Kansas City Southern,2
+Q30283539,"Altimmune, Inc.",2
+Q3442791,Ross Dress for Less,2
+Q144060,Cray,2
+Q6517792,Flagstar Financial,2
+Q4670840,Acacia Research,2
+Q91490380,Accelerate Diagnostics,2
+Q30284075,Adamis Pharmaceuticals Corporation,2
+Q245772,Zynga,2
+Q7388926,SBA Communications,2
+Q26110522,Pinnacle West Capital Corporation,2
+Q5508083,Full House Resorts,2
+Q1067998,Cirrus Logic,2
+Q17538813,Similarweb,2
+Q500088,DreamWorks Animation,2
+Q2895117,Audiocodes Ltd.,2
+Q7169321,Permian Basin Royalty Trust,2
+Q1506045,Las Vegas Sands,2
+Q7234972,Potlatch Corp.,2
+Q2981188,Coca-Cola Enterprises,2
+Q18151484,Methode Electronics,2
+Q5151691,Comfort Systems USA,2
+Q18636301,Patriot Transportation,2
+Q47099,Grupo Televisa,2
+Q21189310,DraftKings,2
+Q4817084,Atmos Energy,2
+Q7934840,ViroPharma,2
+Q905806,CF Industries,2
+Q7248824,Waste Connections of Canada,2
+Q17114287,Newpark Resources,2
+Q7334682,RingCentral,2
+Q259195,Constellation Energy,2
+Q1206686,DDR Corp.,2
+Q5445393,Ferro Corporation,2
+Q121001340,Noah Holdings,2
+Q52876645,Mastech Digital,2
+Q5417806,Everyday Health,2
+Q1969091,Oshkosh Corporation,2
+Q1083470,Echelon Corporation,2
+Q147224,HRG Group,2
+Q104480207,CRISPR Therapeutics,2
+Q7002474,"Neuronetics, Inc.",2
+Q397223,Agrium,2
+Q65056153,Pony.ai,2
+Q2047336,Palantir Technologies,2
+Q7368695,Rosetta Stone,2
+Q10394124,XP Investimentos,2
+Q283852,Turkcell,2
+Q110220617,Matthews International,2
+Q4938392,Boingo Wireless,2
+Q2063056,NASDAQ Biotechnology Index,2
+Q5453261,First Merchants Corporation,2
+Q18349283,Hertz Car Sales,2
+Q7239836,Preferred Bank,2
+Q4672868,R1 RCM,2
+Q4411116,Rubicon Project,2
+Q16975567,Healthpeak Properties,2
+Q6348410,Kaiser Aluminum,2
+Q2087612,Tucows,2
+Q29526078,Bloom Energy,2
+Q7829730,Tower Semiconductor Ltd.,2
+Q23131313,Editas Medicine,2
+Q6695701,Luby's,2
+Q3406795,Resolute Forest Products,2
+Q16980395,Hornbeck Offshore Services,2
+Q5656147,"Hardinge, Inc.",2
+Q7597506,stamps.com,2
+Q6813052,Mellanox Technologies,2
+Q1706317,Southern California Edison,2
+Q5215970,Dangdang,2
+Q5516980,Gaia,2
+Q16985644,Titanium Metals,2
+Q154037,TotalEnergies,2
+Q16997523,J2 Global,2
+Q33129672,Grand Canyon Education,2
+Q4781837,Apricus Biosciences,2
+Q98713358,Arcturus Therapeutics,2
+Q16249409,Eagle Materials,2
+Q2743863,Intuitive Surgical,2
+Q124343843,Nuvve Holding Corp,2
+Q22661749,"Chart Industries, Inc",2
+Q16824882,Alliance One International,2
+Q717093,Itochu,2
+Q5453107,First Interstate Bank,2
+Q105760370,Alamos Gold,2
+Q17086854,Uranium Resources,2
+Q682047,SuperValu,2
+Q778126,Intelsat,2
+Q6458324,LGI Homes,2
+Q5169368,CorVel Corporation,2
+Q1665653,Veeco,2
+Q11074158,Silicon Motion,2
+Q940421,General American Transportation Corporation,2
+Q1337797,Office Depot,2
+Q19604418,Helmerich & Payne,2
+Q7265394,QCR Holdings,2
+Q2044512,PPL,2
+Q5192200,CubeSmart,2
+Q1573416,Madison Square Garden Sports,2
+Q7113744,Overland Storage,2
+Q13576574,Ituran,2
+Q7809776,Titan Tire Corporation,2
+Q5133094,Cleveland-Cliffs,2
+Q7053620,NorthWestern Energy,2
+Q18149200,Catalyst Pharmaceuticals,2
+Q4045079,Nature's Sunshine Products,2
+Q16980616,Insperity,2
+Q7622587,Strayer University,2
+Q304509,MCA Inc.,2
+Q17108791,Mississippi Power,2
+Q80947821,Steris,2
+Q2979728,Cloudera,2
+Q2934771,Cameron International,2
+Q5017084,CafePress,2
+Q5036376,Capstone Turbine,2
+Q8003525,Willbros Group,2
+Q5227174,Data I/O,2
+Q5419989,Exelixis,2
+Q17103838,Markit,2
+Q7695732,Telenav,2
+Q6058618,Intrepid Potash,2
+Q13715273,Atotech,2
+Q3370152,"Patterson-UTI Energy, Inc",2
+Q5028383,Camping World,2
+Q5684524,Hawaiian Electric Industries,2
+Q3285819,Manhattan Associates,2
+Q7130852,Panera Bread,2
+Q5130494,Clean Harbors,2
+Q260833,SanDisk,2
+Q58041994,TRI Pointe Group,2
+Q7156760,Paylocity Corporation,2
+Q324603,Compaq,2
+Q21410960,Cornerstone OnDemand Inc.,2
+Q6555405,Lion Electric Company,2
+Q431454,Bruker,2
+Q6731214,Magma Design Automation,2
+Q16995776,HomeTrust Bancshares,2
+Q16162525,Auburn National Bancorporation,2
+Q5376825,Energen,2
+Q5178840,Cousins Properties,2
+Q5021439,Calix,2
+Q5191790,Trip.com Group,2
+Q7280957,Urban One,2
+Q2308517,Speedway Motorsports,2
+Q4829076,Avnet,2
+Q120755508,eHi,2
+Q2902305,Brink's,2
+Q7501286,ShoreTel,2
+Q7275093,Rada Electronic Industries Ltd,2
+Q15109885,I.D. Systems,2
+Q7987345,"Westell Technologies, Inc.",2
+Q7178935,Petroleum & Resources Corporation,2
+Q14903417,Delhaize Le Lion,2
+Q30272258,Align Technology,2
+Q20630716,Chemours,2
+Q902908,Potash Corporation of Saskatchewan,2
+Q16993862,FuelCell Energy,2
+Q25831370,AppFolio,2
+Q13683,NYSE Euronext Liffe,2
+Q21843099,Freedom Holding,2
+Q7711656,TheStreet,2
+Q5295362,Donaldson Company,2
+Q3975878,Stratasys,2
+Q16993447,Avadel Pharmaceuticals,2
+Q4856910,Banner Bank,2
+Q4744566,American National Insurance Company,2
+Q78203110,Phunware,2
+Q7092720,One Horizon Group,2
+Q407744,Air Products & Chemicals,2
+Q1172038,Dassault Systèmes,2
+Q8003328,Willamette Valley Vineyards,2
+Q6703279,Luminex,2
+Q18155123,Robinhood,2
+Q5532813,Genesis HealthCare,2
+Q107657476,Proteon,2
+Q16997309,Ironwood Pharmaceuticals,2
+Q4733274,Allscripts,2
+Q6422289,Knight-Swift Transportation,2
+Q107457363,Beam Therapeutics,2
+Q21189117,WD-40 Company,2
+Q16959074,United Financial Bancorp,2
+Q6387063,Kemper Corporation,2
+Q16980281,Haemonetics,2
+Q2297063,Trimble,2
+Q4856439,Bankrate,2
+Q133806332,Flagstar Bancorp,2
+Q109680037,Franchise Group,2
+Q99976763,Nam Tai Property,2
+Q6466630,LabCorp,2
+Q18148458,Farmer Brothers,2
+Q13529435,New Gold,2
+Q1129426,Convergys,2
+Q5152539,Commercial Vehicle Group,2
+Q7156755,Payless ShoeSource,2
+Q7713699,The Andersons,2
+Q16998439,Kingstone Companies,2
+Q645084,Virgin America,2
+Q1501630,Interpublic Group of Companies,2
+Q1391599,Mercer,2
+Q19604609,Vericel,2
+Q7887635,United Community Bank,2
+Q5531627,Generac Holdings Inc.,2
+Q19654979,Johnson Outdoors,2
+Q20059505,Telefônica Brasil,2
+Q7124128,PagSeguro,2
+Q15109932,WiLAN,2
+Q1630559,Host Hotels & Resorts,2
+Q16985313,TC PipeLines,2
+Q4863194,Barracuda Networks,2
+Q151670,Alleghany Corporation,2
+Q7389686,SEI Investments Company,2
+Q4189507,Cathay Bank,2
+Q906055,Orix,2
+Q17145638,National Rural Utilities Cooperative Finance Corporation,1
+Q18636409,Sprinklr,1
+Q17078090,Repligen,1
+Q5038907,Career Education Corporation,1
+Q7688650,Taubman Centers,1
+Q10382234,ThoughtWorks,1
+Q3893521,Centrus Energy,1
+Q1812489,Odyssey Marine Exploration,1
+Q1937503,Terex,1
+Q7858039,Twilio,1
+Q5324516,eToro,1
+Q28407181,Acadia Healthcare,1
+Q2099437,Plexus Corporation,1
+Q111384721,Meridian Corporation,1
+Q24204571,Signature Bank,1
+Q2943995,Cellectis,1
+Q1526456,Kimball International,1
+Q1529234,Rockwell Automation,1
+Q17085620,Planet Labs,1
+Q1977666,Paysafe Group,1
+Q7573912,SpartanNash,1
+Q863127,International Rectifier,1
+Q5340903,Education Management Corporation,1
+Q8046013,Yellow Corporation,1
+Q282997,Fox Factory,1
+Q85770729,Jamf,1
+Q7428211,Savient Pharmaceuticals,1
+Q7611370,Sterling Bank,1
+Q7907666,VWR International,1
+Q688556,Dow Jones Utility Average,1
+Q7893879,Universal American,1
+Q7008861,New Horizons Computer Learning Centers,1
+Q689446,Armstrong World Industries,1
+Q5384681,Equity One,1
+Q5006774,Bard,1
+Q23781052,Dentsply Sirona,1
+Q98525405,Vista Oil & Gas,1
+Q130318284,Q130318284,1
+Q19868261,STX Entertainment,1
+Q861042,Western Union,1
+Q7020906,Nexstar Media Group,1
+Q16951448,Copart,1
+Q4994426,Invacare,1
+Q5154635,"Community Bank, N.A.",1
+Q6016398,Independent Financial,1
+Q2502355,USANA Health Sciences,1
+Q1319601,Allegiant Air,1
+Q2207539,SPDR Gold Shares,1
+Q4781544,Applied Industrial Technologies,1
+Q1054787,"NTT, Inc.",1
+Q2504058,Golden Ocean,1
+Q16968189,Yatra.com,1
+Q5118415,Chuy's,1
+Q7000660,Netwitness,1
+Q6774578,Martha Stewart Living Omnimedia,1
+Q22022108,"Clearfield, Inc.",1
+Q4844439,Boston Properties,1
+Q8075320,Zuora,1
+Q5612176,Grupo Aeroportuario Centro Norte,1
+Q7924444,Viad,1
+Q2470307,Guess,1
+Q5048400,Casella Waste Systems,1
+Q104845916,California Water Service Group,1
+Q1121216,CPFL Energia,1
+Q27988208,Veritiv,1
+Q1507228,Harmony Gold,1
+Q5983823,Avangrid,1
+Q824467,PAREXEL,1
+Q6863447,Mind CTI,1
+Q5474321,Foundation Coal,1
+Q2852632,UGI Corporation,1
+Q22060267,Aegion,1
+Q17146520,Natural Grocers,1
+Q1112588,Columbia Sportswear Company,1
+Q5422801,e.l.f. Cosmetics,1
+Q16858667,Kratos Defense & Security Solutions,1
+Q7242653,priceline.com,1
+Q7298901,Raymond James Financial,1
+Q6048685,International Bancshares Corporation,1
+Q2516971,Virtusa,1
+Q3552887,OneSpan,1
+Q5025803,Camden Property Trust,1
+Q5255058,Demandware,1
+Q65062134,Bally's Corporation,1
+Q111804995,Innoviz Technologies,1
+Q5570946,Globant,1
+Q4045074,National Western Life,1
+Q60769878,Enviva,1
+Q1592340,Tivity Health,1
+Q7307899,Regal Rexnord,1
+Q893221,Booz Allen Hamilton,1
+Q7120927,EyePoint Pharmaceuticals,1
+Q6803126,MeadWestvaco,1
+Q115625249,Silvergate Capital,1
+Q5627799,H&R Block,1
+Q1544312,Telecom Argentina,1
+Q7280252,RadiSys,1
+Q2607502,E-Trade,1
+Q6533918,Jefferies Financial Group,1
+Q325789,Jefferies & Company,1
+Q24204272,Burford Capital,1
+Q5033676,Canterbury Park,1
+Q4041316,Impinj,1
+Q5009135,CBL Properties,1
+Q295774,"ANSYS, Inc.",1
+Q917002,TiVo Corporation,1
+Q7958965,Waddell & Reed,1
+Q4795598,Arotech Corporation,1
+Q2335199,Macro Bank,1
+Q486737,Korea Electric Power Corporation,1
+Q98608948,JFrog Ltd,1
+Q73883753,Alteryx,1
+Q96397546,Opendoor,1
+Q1295969,TransMontaigne,1
+Q8069710,Zeta Interactive,1
+Q5111816,Christopher & Banks,1
+Q1532489,Pall Corporation,1
+Q17063707,Kulicke & Soffa Industries,1
+Q120877642,Recursion Pharmaceuticals,1
+Q7920749,Vera Bradley,1
+Q7885165,Unify Corporation,1
+Q105602379,Five9 Inc.,1
+Q1872227,Louisiana-Pacific,1
+Q1654103,IMAX Corporation,1
+Q15507516,Triumph Group,1
+Q2905359,Black Diamond Equipment,1
+Q26832896,Adient,1
+Q7268255,Quad,1
+Q54621387,Intellia Therapeutics,1
+Q4742486,AmeriServ Financial,1
+Q13529450,Oncolytics Biotech,1
+Q811857,Bausch & Lomb,1
+Q1485061,GE Aerospace,1
+Q7843323,Triple-S Management Corporation,1
+Q96482427,Medigus,1
+Q5011381,CHS Inc.,1
+Q23134166,RealPage,1
+Q1881941,MTS Systems Corporation,1
+Q7984882,West Corporation,1
+Q27988153,UDR,1
+Q7638250,Sun Communities,1
+Q2188613,CMB.TECH,1
+Q8070896,Zhone Technologies,1
+Q17068557,Mattson Technology,1
+Q456563,Ambac,1
+Q6703090,Lumber Liquidators,1
+Q20486914,"Greif, Inc.",1
+Q6326486,KB Home,1
+Q2438391,Chuck E. Cheese,1
+Q13583352,Aircastle,1
+Q16983192,ONE Gas,1
+Q18387139,Synchrony Financial,1
+Q6663075,LoJack,1
+Q5380195,"Audacy, Inc.",1
+Q1030096,Orbital Sciences Corporation,1
+Q1415501,Lexmark,1
+Q106301656,Dada Nexus Limited,1
+Q2424396,Brocade Communications Systems,1
+Q16829833,Cobalt International Energy,1
+Q16994588,Guaranty Federal Bancshares,1
+Q945521,Consol Energy,1
+Q5002877,Butterfield Bank,1
+Q2021416,Volcom,1
+Q3197996,Knight Capital Group,1
+Q7735265,The Fresh Market,1
+Q428977,Pitney Bowes,1
+Q2905535,Blackboard Inc.,1
+Q16984071,RenaissanceRe,1
+Q4674790,Acquity Group,1
+Q4655072,AVX Corporation,1
+Q1435628,FEMSA,1
+Q1260606,Estée Lauder,1
+Q16255259,Span-America Medical Systems,1
+Q5888363,Home Federal Bank,1
+Q919511,EarthLink,1
+Q8027406,WisdomTree Investments,1
+Q265286,Trivago,1
+Q20709176,Alico,1
+Q4904902,Big 5 Sporting Goods,1
+Q7070498,Nutrisystem,1
+Q5533183,Genie Energy,1
+Q1668265,US Foods,1
+Q58606588,Arrow Financial Corporation,1
+Q48180669,Triton International,1
+Q925249,Fox Entertainment Group,1
+Q3146975,Xylem Inc.,1
+Q5560152,GigaMedia Limited,1
+Q4686044,Advance America,1
+Q5031634,Syneron Candela,1
+Q30645592,Yum China,1
+Q7444830,Secureworks Inc.,1
+Q7273147,Qwest Corporation,1
+Q747489,Cyrix,1
+Q18635282,OncoMed,1
+Q5154770,Community Health Systems,1
+Q5690594,Health Management Associates,1
+Q7280047,Radcom Ltd,1
+Q1666568,International Flavor & Fragrances,1
+Q1285819,TJX Companies,1
+Q1384324,Expeditors International,1
+Q96407440,TAL Education Group,1
+Q106238038,Western Alliance Bancorporation,1
+Q18643660,Fifth Street Asset Management,1
+Q20486915,H.B. Fuller,1
+Q63035278,XPeng,1
+Q539056,MDC Partners,1
+Q18534725,The Honest Company,1
+Q930639,Williams Companies,1
+Q926699,"Crocs, Inc.",1
+Q110877094,United Wholesale Mortgage,1
+Q16996938,InfoSonics Corporation,1
+Q7371324,Rouse Properties,1
+Q4047736,Qiwi,1
+Q17052116,DigitalOcean,1
+Q7557672,Solera Holdings,1
+Q1503728,Rowan Companies,1
+Q8030548,Wolverine World Wide,1
+Q1531473,Plantronics,1
+Q8034666,"Workday, Inc.",1
+Q30297996,Integer,1
+Q29098065,SomaLogic,1
+Q6763754,Marin Software,1
+Q966556,Sears Holdings Corporation,1
+Q13403399,Kirin Holdings,1
+Q5635303,HNI Corporation,1
+Q4671583,Acadia Realty Trust,1
+Q17109683,JBG Smith,1
+Q489469,Herman Miller,1
+Q4674531,Acorda Therapeutics,1
+Q6647881,Lithia Motors,1
+Q289761,Federal-Mogul,1
+Q4651203,Adtran,1
+Q7705659,Xperi Corporation,1
+Q7404876,Salix Pharmaceuticals,1
+Q6770934,Marketo,1
+Q20065324,Pharmacyclics,1
+Q16994021,Gentherm Incorporated,1
+Q16968655,Rocket Fuel Inc.,1
+Q3259355,Loral Space & Communications,1
+Q4672920,Accuride Corporation,1
+Q5462295,Flowers Foods,1
+Q5987232,Idacorp,1
+Q18150963,ForgeRock,1
+Q7669940,TECO Energy,1
+Q1902726,Marshall & Ilsley,1
+Q18712957,Farfetch,1
+Q1516108,TC Energy,1
+Q392445,Aerojet Rocketdyne Holdings,1
+Q7899307,Upstart,1
+Q55080120,UiPath,1
+Q21233433,Bumble,1
+Q5570537,Global Partners,1
+Q1685287,Vulcan Materials Company,1
+Q4686414,Advantage Oil & Gas,1
+Q16984522,Select Medical,1
+Q30298277,Mirion Technologies,1
+Q7313537,Rentech,1
+Q238765,Alliant Techsystems,1
+Q1056839,DirecTV,1
+Q15109912,Natural Alternatives International,1
+Q16950619,Community West Bancshares,1
+Q1420513,Fiserv,1
+Q5253556,"Delcath Systems, Inc.",1
+Q2031485,Under Armour,1
+Q899022,Eastman Chemical Company,1
+Q1280748,EchoStar,1
+Q65117079,LoanDepot,1
+Q15109896,Investors Bank,1
+Q96413806,Veritone Inc.,1
+Q7557128,TerraVia,1
+Q17070831,National Research Corporation,1
+Q5508431,Fulton Financial Corporation,1
+Q4465402,Tumi Inc.,1
+Q18636342,Amicus Therapeutics,1
+Q7842860,Trinity Industries,1
+Q19572998,Capri Holdings,1
+Q2443609,Zebra Technologies,1
+Q2907743,Radware,1
+Q7662679,Syntel,1
+Q2025791,Open Text,1
+Q4708382,"Alarm.com, Inc.",1
+Q7115371,Oxford Industries,1
+Q7171526,PetMed Express,1
+Q24960003,Nicolet Bankshares,1
+Q322153,Meritor,1
+Q137009694,Marten Transport,1
+Q48802335,Tyler Technologies,1
+Q7100213,Orchard Supply Hardware,1
+Q5599440,Great Lakes Dredge and Dock Company,1
+Q1722848,Kaman Corporation,1
+Q7233708,Post Properties,1
+Q8208082,Atento,1
+Q7925565,Vicor Corporation,1
+Q6404433,Kid Brands,1
+Q5063604,Ceradyne,1
+Q5905787,Horsehead Corporation,1
+Q757489,Atmel,1
+Q1364494,Medco Health Solutions,1
+Q5376884,EnergySolutions,1
+Q5765159,Himax,1
+Q16997846,Mimecast,1
+Q692041,monster.com,1
+Q741046,Progress Software,1
+Q4854030,BancFirst,1
+Q7012977,New York & Company,1
+Q707530,Cinemark,1
+Q8074159,Zoom Telephonics,1
+Q5189410,Hallmark Media,1
+Q5035870,Capitol Federal Savings Bank,1
+Q373740,Black Box Corporation,1
+Q6955544,nTelos,1
+Q1579222,Ultrapar,1
+Q5254843,Deltek,1
+Q5118174,Churchill Downs Incorporated,1
+Q1130970,Copel,1
+Q1327874,RealNetworks,1
+Q285161,iRobot,1
+Q4887418,Beneficial Bank,1
+Q7500007,Shoe Carnival,1
+Q17089427,Tallgrass Energy Partners,1
+Q2925856,Broadvision,1
+Q5025090,Cambium Learning Group,1
+Q96482278,Kitov Pharma,1
+Q680841,Sigma-Aldrich,1
+Q946713,SunEdison,1
+Q4771754,Anthera Pharmaceuticals,1
+Q7251369,Protective Life,1
+Q19604569,Sucampo Pharmaceuticals,1
+Q4808787,Asset Acceptance,1
+Q6545549,Lifeway Foods,1
+Q3156864,JBT Marel Corporation,1
+Q485593,Red Hat,1
+Q106760435,Jounce Therapeutics,1
+Q7692121,TechFaith,1
+Q5353752,Elbit Imaging Ltd.,1
+Q21404084,HP Inc.,1
+Q113503877,Arcus Biosciences,1
+Q17068931,East Boston Savings Bank,1
+Q5433448,Famous Dave's,1
+Q55948312,Tenable Network Security,1
+Q117461845,TowneBank,1
+Q8965165,"Banco Santander México, S.A.",1
+Q7399844,Saia,1
+Q22121872,"Tandem Diabetes Care, Inc.",1
+Q7638414,Sun National Bank,1
+Q16975645,Hersha Hospitality Trust,1
+Q7376642,Ruckus Networks,1
+Q794565,Aéropostale,1
+Q4855887,BankUnited,1
+Q113530745,Arrowhead Pharmaceuticals,1
+Q2070689,Performance Food Group,1
+Q20979249,Everi Holdings,1
+Q25046191,New Senior Investment Group,1
+Q28404490,Conduent,1
+Q18168364,Sears Hometown and Outlet Stores,1
+Q30269384,Viking Therapeutics,1
+Q5647025,Hancock Whitney,1
+Q7987101,Westamerica Bank,1
+Q6036711,Inovalon,1
+Q918208,Ternium,1
+Q385452,Avid Technology,1
+Q393762,Agilent Technologies,1
+Q27919383,Fortive,1
+Q4040469,Headhunter,1
+Q6889843,Steel Connect,1
+Q469553,Timken Company,1
+Q1238739,Domtar,1
+Q6386533,Kelso & Company,1
+Q5452290,First American Corporation,1
+Q1470525,Hospira,1
+Q17183462,"Glacier Bancorp, Inc",1
+Q1096013,Fairchild Semiconductor,1
+Q16986417,Versar,1
+Q472536,Amkor Technology,1
+Q7072730,OMNOVA Solutions,1
+Q4878288,Beazer Homes USA,1
+Q3099664,Gaylord Hotels,1
+Q999567,Linear Technology,1
+Q105580834,Adams Funds,1
+Q127962,Levi Strauss & Co.,1
+Q48755,RPM International,1
+Q4686419,Advaxis,1
+Q45600,Bitstream Inc.,1
+Q5130952,Clearwater Paper,1
+Q5690400,Encompass Health,1
+Q16953751,CyrusOne,1
+Q118905009,CONMED Corporation,1
+Q5035257,Capella Education Company,1
+Q5057419,Celadon Group,1
+Q1117943,TRW Automotive,1
+Q8044687,Xinyuan Real Estate,1
+Q729754,Belo,1
+Q6907265,Moog Inc.,1
+Q15109906,Mazor Robotics,1
+Q10819817,Silicom,1
+Q106239511,New Fortress Energy,1
+Q15964713,Cepheid,1
+Q7548877,Snyder's-Lance,1
+Q5175243,Così,1
+Q6485221,Landstar System,1
+Q19572527,First Merchants Bank,1
+Q7009312,New Jersey Resources,1
+Q4790268,SAP Ariba,1
+Q2931412,Viridien,1
+Q7060191,Northwest Bank,1
+Q18636688,Atlantic Coast Financial,1
+Q30283745,Zynerba Pharmaceuticals,1
+Q7076047,Ocean Power Technologies,1
+Q136959566,High Voltage Engineering Corporation,1
+Q7097878,Opexa Therapeutics,1
+Q20648663,Tegna Inc.,1
+Q7761625,The Rouse Company,1
+Q50239180,Cardtronics,1
+Q18344949,Globus Medical,1
+Q805383,Bally Technologies,1
+Q7067712,NuStar Energy,1
+Q16959092,United Security Bancshares,1
+Q5450341,"Finish Line, Inc.",1
+Q1074666,Chiquita Brands International,1
+Q4743779,American Financial Group,1
+Q5025239,Cambrex Corporation,1
+Q15109904,Magnetek,1
+Q27346385,Manchester United plc,1
+Q41590812,Artisan Partners,1
+Q139545572,LuxExperience,1
+Q16975278,Green Dot Corporation,1
+Q54263910,Vici Properties,1
+Q22121871,Scansource,1
+Q1181953,Deckers Outdoor Corporation,1
+Q8064381,Zagg,1
+Q7311538,Remark Media,1
+Q16828730,Annaly Capital Management,1
+Q5380346,Enterprise Products,1
+Q15606898,Danaos Corporation,1
+Q48822,Valspar,1
+Q17051868,Poshmark,1
+Q2912154,VeriFone,1
+Q4928758,BlueLinx,1
+Q5061578,Central Pacific Bank,1
+Q17141691,Pixelworks,1
+Q136815592,Heartland Express,1
+Q15845093,Credit Acceptance,1
+Q7256219,Psychemedics Corporation,1
+Q734338,Verisign,1
+Q109291018,ArcBest,1
+Q125003256,Fusion Pharmaceuticals,1
+Q5255025,Leaf Group,1
+Q7208364,Pointer Telocation,1
+Q838716,Repsol Oil & Gas Canada,1
+Q8044926,Xoom Corporation,1
+Q941392,Informatica,1
+Q17108492,Middleby Corporation,1
+Q897097,Brady Corporation,1
+Q7692144,TechTarget,1
+Q15964806,ImmunoGen Inc.,1
+Q5289230,Dollar Tree,1
+Q48988040,DaVita Medical Group,1
+Q30283420,Adaptive Biotechnologies,1
+Q5254919,Deluxe Corporation,1
+Q4932386,Bob Evans Restaurants,1
+Q48976878,Berkshire Bank,1
+Q2528284,Vishay Intertechnology,1
+Q17050423,CarGurus,1
+Q28175069,Genomic Health,1
+Q1135278,CoreCivic,1
+Q285931,GlassBridge Enterprises,1
+Q547450,Celanese Corporation,1
+Q85876205,51job.com,1
+Q17108752,Taylor Corporation,1
+Q5291323,Domo,1
+Q4835755,BJ's Restaurant & Brewery,1
+Q17068984,eGain,1
+Q5530848,GenOn Energy,1
+Q1835753,Splunk Inc.,1
+Q4855875,BankAtlantic,1
+Q17460900,Zoom Video Communications,1
+Q5275716,Digi International,1
+Q19866242,Catalent,1
+Q1419446,First Horizon National Corporation,1
+Q662095,Edison International,1
+Q124258509,HarborOne Bancorp,1
+Q6554513,Linn Energy,1
+Q13631921,New Oriental,1
+Q5651043,Hansen Medical,1
+Q16245358,Berry Petroleum Company,1
+Q5204878,DEX One,1
+Q6038080,Insight Enterprises,1
+Q1225892,Sonim Technologies,1
+Q5453450,First Niagara Bank,1
+Q22121865,Cimpress,1
+Q4112833,Caleres,1
+Q1369955,W. R. Berkley,1
+Q5629085,Tokio Marine HCC,1
+Q20642307,Fleetmatics,1
+Q844805,Dillard's,1
+Q43303430,Twist Bioscience,1
+Q15917582,Quidel,1
+Q6911967,Morgans Hotel Group,1
+Q15109907,Medivation,1
+Q5324689,EXL,1
+Q5035425,CapitalSource,1
+Q7095196,Onyx Pharmaceuticals,1
+Q30297735,Applied Optoelectronics,1
+Q5380128,Entegris,1
+Q866972,Vonage,1
+Q19903773,Varonis Systems,1
+Q6818651,Mercury Systems,1
+Q2866017,Aruba Networks,1
+Q4974584,Brookfield Properties,1
+Q5064245,"Dayforce, Inc.",1
+Q5055619,Cbeyond,1
+Q5703474,Helen of Troy Limited,1
+Q1700871,Bausch Health,1
+Q7405065,Sally Beauty Holdings,1
+Q56826699,MariaDB Corporation Ab,1
+Q7431894,Schneider National,1
+Q1544413,National Instruments,1
+Q18636683,Global Industrial,1
+Q1381973,Everest Re,1
+Q107520260,Matterport,1
+Q863675,Freescale Semiconductor,1
+Q5570647,Global Sources,1
+Q21010691,Westwood Holdings Group,1
+Q5431722,FalconStor Software,1
+Q28402389,Simmons Bank,1
+Q529157,Frontline,1
+Q30591272,"Halozyme, Inc.",1
+Q1282031,Ecolab,1
+Q114821698,"BancorpSouth, Inc.",1
+Q6550684,Lincoln Group of Schools,1
+Q3216600,Lamb Weston,1
+Q28155430,Arch Capital Group,1
+Q7276995,RMG Networks,1
+Q2171646,Jabil,1
+Q7083862,Old Dominion Freight Line,1
+Q7368685,Rosetta Genomics,1
+Q60772582,The Michaels Companies,1
+Q2842931,American Eagle Outfitters,1
+Q5096393,Chico's FAS,1
+Q2449642,Transportadora de Gas del Sur,1
+Q1235669,Dollar Thrifty Automotive Group,1
+Q3303765,Mead Johnson,1
+Q481472,Sappi,1
+Q16968424,Zeltiq Aesthetics,1
+Q30283314,Cytokinetics,1
+Q734061,"DTS, Inc.",1
+Q5170685,Corinthian Colleges,1
+Q5152057,CommScope,1
+Q39052929,Brighthouse Financial,1
+Q2990393,CCU,1
+Q111384774,Cactus Inc.,1
+Q3742240,Centerra Gold,1
+Q113503520,Kymera Therapeutics,1
+Q7512309,Sigma Designs,1
+Q5424656,FBR Capital Markets,1
+Q15926208,H World Group Limited,1
+Q16956471,Cenveo,1
+Q7196294,Pinnacle Financial Partners,1
+Q1630431,HCA Corporation,1
+Q7440212,Seabridge Gold,1
+Q17747021,Arbutus Biopharma,1
+Q56273983,Appian Corporation,1
+Q5995354,Ikanos Communications,1
+Q293796,Aimco,1
+Q96145483,Playtika,1
+Q7937957,Vivus,1
+Q19893981,Milacron,1
+Q104664954,Delek US,1
+Q56280964,Floor & Decor,1
+Q5750102,Hhgregg,1
+Q6459789,Genasys,1
+Q7643493,Superior Bancorp,1
+Q7187948,Photronics Inc,1
+Q725634,Ashland Inc.,1
+Q5037190,CarMax,1
+Q1192654,Spansion,1
+Q6545346,Lifeboat Distribution,1
+Q2480102,L-1 Identity Solutions,1
+Q16885315,Mueller Industries,1
+Q1817417,National Oilwell Varco,1
+Q5141641,Coinstar,1
+Q7598287,Standard Pacific Homes,1
+Q5275978,Digital River,1
+Q17080741,Silgan Holdings,1
+Q19865761,"Ventas, Inc.",1
+Q5374115,Empire Resorts,1
+Q1275613,EPAM Systems,1
+Q7921363,Verint Systems,1
+Q2494842,ESAB,1
+Q2579502,Colfax Corporation,1
+Q30324333,TechnipFMC,1
+Q6058311,IntraLinks,1
+Q7562414,Sonus Networks,1
+Q5375543,Encore Capital Group,1
+Q7848087,TrustCo Bank,1
+Q4789079,Ares Management,1
+Q637474,Visteon,1
+Q5177980,Coupa,1
