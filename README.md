@@ -35,7 +35,7 @@ The project combines:
     |-- dataset_generator.py
     `-- my_notebooks/
         |-- Articles entity extraction.ipynb
-        |-- Co-mention csv with alliase.ipynb
+        |-- Co-mention csv with aliases.ipynb
         `-- Comention_Graph_Construction_and_analysis.ipynb
 ```
 
@@ -71,7 +71,7 @@ This file is used to match extracted article names to real listed companies.
 
 ### 4. Match Mentions and Build Co-Mention Edges
 
-`src/my_notebooks/Co-mention csv with alliase.ipynb` normalizes company names by removing legal suffixes, punctuation, ticker suffixes, and inconsistent formatting. It then builds aliases from company names, search names, and tickers.
+`src/my_notebooks/Co-mention csv with aliases.ipynb` normalizes company names by removing legal suffixes, punctuation, ticker suffixes, and inconsistent formatting. It then builds aliases from company names, search names, and tickers.
 
 The notebook creates two main outputs:
 
@@ -256,7 +256,7 @@ Run the project in this order:
 1. `src/dataset_generator.py`
 2. `Companies_list_query_cleaner.ipynb`
 3. `src/my_notebooks/Articles entity extraction.ipynb`
-4. `src/my_notebooks/Co-mention csv with alliase.ipynb`
+4. `src/my_notebooks/Co-mention csv with aliases.ipynb`
 5. `src/my_notebooks/Comention_Graph_Construction_and_analysis.ipynb`
 6. `Financial enrichment/financial_enrichment.ipynb`
 7. Statistical notebooks in `Statistical_notebooks/`
