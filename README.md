@@ -17,6 +17,7 @@ The project combines:
 
 ```text
 .
+|-- Companies_list_query.csv
 |-- Companies_list_query_cleaner.ipynb
 |-- Financial enrichment/
 |   `-- financial_enrichment.ipynb
@@ -61,7 +62,9 @@ companies_in_articles.csv
 
 ### 3. Clean the Company Database
 
-`Companies_list_query_cleaner.ipynb` cleans a NYSE/NASDAQ company list, keeps useful metadata such as company ID, ticker, exchange, industry, revenue, and market capitalization, and saves:
+`Companies_list_query.csv` is the raw company list exported from a Wikidata SPARQL query for companies listed on the New York Stock Exchange and NASDAQ.. The query retrieves companies whose stock exchange property matches NYSE or NASDAQ, together with metadata such as Wikidata company ID, company label, exchange label, ticker, industries, market capitalization, market capitalization date, revenue, and revenue date.
+
+`Companies_list_query_cleaner.ipynb` cleans this NYSE/NASDAQ company list, keeps useful metadata such as company ID, ticker, exchange, industry, revenue, and market capitalization, and saves:
 
 ```text
 nyse_nasdaq_companies_list.csv
